@@ -1,0 +1,2001 @@
+season,race,position,driver,team,time,points_earned,weather,laps
+1,1,1,Rho_Septendecim,Tapped In Team,2912.191482629733,25,Wet,35
+1,1,2,Pi_Sedecim,Spanky's Fast Cars,3006.977254675014,18,Wet,35
+1,1,3,Mu_Duodecimus,Boba Tea Gnarly Automotives,3123.4884879192678,15,Wet,35
+1,1,4,Eta_Septimus,Crashout Formula One,3125.5603141616775,12,Wet,35
+1,1,5,Gamma_Tertius,Boba Tea Gnarly Automotives,3308.318706444692,10,Wet,35
+1,1,6,Omicron_Quindecim,B2B SaaS Motorsport,3318.1017914431095,8,Wet,35
+1,1,7,Beta_Secundus,Red Velvet Racing,3364.002890981822,6,Wet,35
+1,1,8,Xi_Quattuordecim,LDCMWEBLGTBWLS,3365.2988882728005,4,Wet,35
+1,1,9,Sigma_Duodevicesimus,TurboToast Racing,3365.468533076707,2,Wet,35
+1,1,10,Delta_Quartus,DNF Finishers,3365.5847108360776,1,Wet,35
+1,1,11,Alpha_Primus,TurboToast Racing,3367.7227306430814,0,Wet,35
+1,1,12,Zeta_Sextus,Lag's 200 Ping Power,3373.3735486996356,0,Wet,35
+1,1,13,Iota_Nonus,DNF Finishers,3416.7306112327997,0,Wet,35
+1,1,14,Theta_Octavus,LDCMWEBLGTBWLS,3449.323173641773,0,Wet,35
+1,1,15,Tau_Undevicesimus,Crashout Formula One,3453.6378696348565,0,Wet,35
+1,1,16,Lambda_Undecimus,Tapped In Team,3760.8546969031086,0,Wet,35
+1,1,17,Nu_Tredecimus,B2B SaaS Motorsport,3786.0739738187212,0,Wet,35
+1,1,18,Kappa_Decimus,Red Velvet Racing,3857.053052695148,0,Wet,35
+1,1,19,Epsilon_Quintus,Lag's 200 Ping Power,11499.632879732471,0,Wet,35
+1,1,20,Upsilon_Vicesimus,Spanky's Fast Cars,16944.417012201655,0,Wet,35
+1,2,1,Rho_Septendecim,Tapped In Team,5115.789208179075,25,Sunny,74
+1,2,2,Gamma_Tertius,Boba Tea Gnarly Automotives,5118.53296185721,18,Sunny,74
+1,2,3,Lambda_Undecimus,Tapped In Team,5119.195970361094,15,Sunny,74
+1,2,4,Omicron_Quindecim,B2B SaaS Motorsport,5119.879366903016,12,Sunny,74
+1,2,5,Alpha_Primus,TurboToast Racing,5126.149092468958,10,Sunny,74
+1,2,6,Zeta_Sextus,Lag's 200 Ping Power,6794.061704853702,8,Sunny,74
+1,2,7,Upsilon_Vicesimus,Spanky's Fast Cars,6840.808649421246,6,Sunny,74
+1,2,8,Sigma_Duodevicesimus,TurboToast Racing,6905.633826630219,4,Sunny,74
+1,2,9,Nu_Tredecimus,B2B SaaS Motorsport,6934.0158299284085,2,Sunny,74
+1,2,10,Tau_Undevicesimus,Crashout Formula One,7038.892754360726,1,Sunny,74
+1,2,11,Eta_Septimus,Crashout Formula One,7919.427628005495,0,Sunny,74
+1,2,12,Pi_Sedecim,Spanky's Fast Cars,26535.554829406297,0,Sunny,74
+1,2,13,Xi_Quattuordecim,LDCMWEBLGTBWLS,33059.36576531303,0,Sunny,74
+1,2,14,Mu_Duodecimus,Boba Tea Gnarly Automotives,45158.63012571844,0,Sunny,74
+1,2,15,Kappa_Decimus,Red Velvet Racing,55305.30647789701,0,Sunny,74
+1,2,16,Iota_Nonus,DNF Finishers,55307.921053957034,0,Sunny,74
+1,2,17,Epsilon_Quintus,Lag's 200 Ping Power,61906.29720916678,0,Sunny,74
+1,2,18,Beta_Secundus,Red Velvet Racing,64975.06089297262,0,Sunny,74
+1,2,19,Theta_Octavus,LDCMWEBLGTBWLS,69543.45179806587,0,Sunny,74
+1,2,20,Delta_Quartus,DNF Finishers,69544.28077490319,0,Sunny,74
+1,3,1,Iota_Nonus,DNF Finishers,2791.9534142695416,25,Unknown,36
+1,3,2,Eta_Septimus,Crashout Formula One,2792.325335623293,18,Unknown,36
+1,3,3,Alpha_Primus,TurboToast Racing,2793.4502455497754,15,Unknown,36
+1,3,4,Kappa_Decimus,Red Velvet Racing,2793.834891848238,12,Unknown,36
+1,3,5,Mu_Duodecimus,Boba Tea Gnarly Automotives,2793.9686984266705,10,Unknown,36
+1,3,6,Beta_Secundus,Red Velvet Racing,2795.436779438248,8,Unknown,36
+1,3,7,Theta_Octavus,LDCMWEBLGTBWLS,2797.3405022884103,6,Unknown,36
+1,3,8,Zeta_Sextus,Lag's 200 Ping Power,2797.5243209370915,4,Unknown,36
+1,3,9,Lambda_Undecimus,Tapped In Team,2797.592135120665,2,Unknown,36
+1,3,10,Xi_Quattuordecim,LDCMWEBLGTBWLS,2797.7927235884963,1,Unknown,36
+1,3,11,Sigma_Duodevicesimus,TurboToast Racing,2799.50446093801,0,Unknown,36
+1,3,12,Delta_Quartus,DNF Finishers,2801.054265650248,0,Unknown,36
+1,3,13,Nu_Tredecimus,B2B SaaS Motorsport,3053.8763934495055,0,Unknown,36
+1,3,14,Tau_Undevicesimus,Crashout Formula One,6486.305641170908,0,Unknown,36
+1,3,15,Rho_Septendecim,Tapped In Team,6491.837033203953,0,Unknown,36
+1,3,16,Gamma_Tertius,Boba Tea Gnarly Automotives,17551.12610097896,0,Unknown,36
+1,3,17,Epsilon_Quintus,Lag's 200 Ping Power,17551.961577641916,0,Unknown,36
+1,3,18,Omicron_Quindecim,B2B SaaS Motorsport,23086.737647939666,0,Unknown,36
+1,3,19,Pi_Sedecim,Spanky's Fast Cars,31393.580089511255,0,Unknown,36
+1,3,20,Upsilon_Vicesimus,Spanky's Fast Cars,32316.563908023447,0,Unknown,36
+1,4,1,Rho_Septendecim,Tapped In Team,3523.411845973779,25,Wet,44
+1,4,2,Pi_Sedecim,Spanky's Fast Cars,3618.1812512449505,18,Wet,44
+1,4,3,Eta_Septimus,Crashout Formula One,3834.8293003863087,15,Wet,44
+1,4,4,Mu_Duodecimus,Boba Tea Gnarly Automotives,3855.05498998089,12,Wet,44
+1,4,5,Gamma_Tertius,Boba Tea Gnarly Automotives,4035.788490472377,10,Wet,44
+1,4,6,Epsilon_Quintus,Lag's 200 Ping Power,4067.6915293835236,8,Wet,44
+1,4,7,Iota_Nonus,DNF Finishers,4132.614168015308,6,Wet,44
+1,4,8,Alpha_Primus,TurboToast Racing,4155.237938911631,4,Wet,44
+1,4,9,Zeta_Sextus,Lag's 200 Ping Power,4175.76266566169,2,Wet,44
+1,4,10,Tau_Undevicesimus,Crashout Formula One,4184.071014095818,1,Wet,44
+1,4,11,Beta_Secundus,Red Velvet Racing,4234.29629948771,0,Wet,44
+1,4,12,Upsilon_Vicesimus,Spanky's Fast Cars,4241.50497372864,0,Wet,44
+1,4,13,Lambda_Undecimus,Tapped In Team,4524.147587359393,0,Wet,44
+1,4,14,Nu_Tredecimus,B2B SaaS Motorsport,4552.859028862652,0,Wet,44
+1,4,15,Kappa_Decimus,Red Velvet Racing,4651.405433583542,0,Wet,44
+1,4,16,Omicron_Quindecim,B2B SaaS Motorsport,10478.53219212416,0,Wet,44
+1,4,17,Xi_Quattuordecim,LDCMWEBLGTBWLS,21406.446141786993,0,Wet,44
+1,4,18,Delta_Quartus,DNF Finishers,30455.71392760939,0,Wet,44
+1,4,19,Sigma_Duodevicesimus,TurboToast Racing,33167.19772254776,0,Wet,44
+1,4,20,Theta_Octavus,LDCMWEBLGTBWLS,33167.991567784964,0,Wet,44
+1,5,1,Rho_Septendecim,Tapped In Team,3113.4908490214684,25,Wet,38
+1,5,2,Pi_Sedecim,Spanky's Fast Cars,3208.386675603023,18,Wet,38
+1,5,3,Eta_Septimus,Crashout Formula One,3363.686630426198,15,Wet,38
+1,5,4,Mu_Duodecimus,Boba Tea Gnarly Automotives,3367.0729961235425,12,Wet,38
+1,5,5,Omicron_Quindecim,B2B SaaS Motorsport,3560.252245711906,10,Wet,38
+1,5,6,Epsilon_Quintus,Lag's 200 Ping Power,3586.0736672935795,8,Wet,38
+1,5,7,Delta_Quartus,DNF Finishers,3649.4224394834278,6,Wet,38
+1,5,8,Beta_Secundus,Red Velvet Racing,3650.8543480006897,4,Wet,38
+1,5,9,Sigma_Duodevicesimus,TurboToast Racing,3655.484174145673,2,Wet,38
+1,5,10,Xi_Quattuordecim,LDCMWEBLGTBWLS,3655.7532567437165,1,Wet,38
+1,5,11,Alpha_Primus,TurboToast Racing,3659.432172508261,0,Wet,38
+1,5,12,Iota_Nonus,DNF Finishers,3659.811891929936,0,Wet,38
+1,5,13,Zeta_Sextus,Lag's 200 Ping Power,3662.81296832276,0,Wet,38
+1,5,14,Upsilon_Vicesimus,Spanky's Fast Cars,3663.0462484615623,0,Wet,38
+1,5,15,Tau_Undevicesimus,Crashout Formula One,3708.4082805793346,0,Wet,38
+1,5,16,Theta_Octavus,LDCMWEBLGTBWLS,3748.2361985660345,0,Wet,38
+1,5,17,Lambda_Undecimus,Tapped In Team,4020.012000882881,0,Wet,38
+1,5,18,Kappa_Decimus,Red Velvet Racing,4137.253439377375,0,Wet,38
+1,5,19,Gamma_Tertius,Boba Tea Gnarly Automotives,26266.78199748136,0,Wet,38
+1,5,20,Nu_Tredecimus,B2B SaaS Motorsport,30860.529611049387,0,Wet,38
+1,6,1,Rho_Septendecim,Tapped In Team,3871.4453839513676,25,Wet,49
+1,6,2,Pi_Sedecim,Spanky's Fast Cars,3963.2394231945805,18,Wet,49
+1,6,3,Eta_Septimus,Crashout Formula One,4220.782681457612,15,Wet,49
+1,6,4,Mu_Duodecimus,Boba Tea Gnarly Automotives,4245.899281770686,12,Wet,49
+1,6,5,Omicron_Quindecim,B2B SaaS Motorsport,4432.969522775263,10,Wet,49
+1,6,6,Gamma_Tertius,Boba Tea Gnarly Automotives,4436.231185083378,8,Wet,49
+1,6,7,Epsilon_Quintus,Lag's 200 Ping Power,4465.42994778412,6,Wet,49
+1,6,8,Iota_Nonus,DNF Finishers,4542.372610518021,4,Wet,49
+1,6,9,Alpha_Primus,TurboToast Racing,4555.123575774527,2,Wet,49
+1,6,10,Sigma_Duodevicesimus,TurboToast Racing,4557.580577474708,1,Wet,49
+1,6,11,Zeta_Sextus,Lag's 200 Ping Power,4577.711044435857,0,Wet,49
+1,6,12,Tau_Undevicesimus,Crashout Formula One,4589.44744840525,0,Wet,49
+1,6,13,Xi_Quattuordecim,LDCMWEBLGTBWLS,4591.948547669644,0,Wet,49
+1,6,14,Theta_Octavus,LDCMWEBLGTBWLS,4645.274524663205,0,Wet,49
+1,6,15,Beta_Secundus,Red Velvet Racing,4672.619909636545,0,Wet,49
+1,6,16,Upsilon_Vicesimus,Spanky's Fast Cars,4719.209119571525,0,Wet,49
+1,6,17,Lambda_Undecimus,Tapped In Team,4937.492565104463,0,Wet,49
+1,6,18,Nu_Tredecimus,B2B SaaS Motorsport,4972.377609923856,0,Wet,49
+1,6,19,Kappa_Decimus,Red Velvet Racing,5072.026545369157,0,Wet,49
+1,6,20,Delta_Quartus,DNF Finishers,32743.42629955442,0,Wet,49
+1,7,1,Epsilon_Quintus,Lag's 200 Ping Power,2978.0943864812307,25,Sunny,43
+1,7,2,Rho_Septendecim,Tapped In Team,2980.348660857425,18,Sunny,43
+1,7,3,Omicron_Quindecim,B2B SaaS Motorsport,2981.996893505762,15,Sunny,43
+1,7,4,Gamma_Tertius,Boba Tea Gnarly Automotives,2984.464759062751,12,Sunny,43
+1,7,5,Lambda_Undecimus,Tapped In Team,2985.090629920362,10,Sunny,43
+1,7,6,Xi_Quattuordecim,LDCMWEBLGTBWLS,2987.6819555157317,8,Sunny,43
+1,7,7,Alpha_Primus,TurboToast Racing,2988.5693113391285,6,Sunny,43
+1,7,8,Pi_Sedecim,Spanky's Fast Cars,2988.604607302312,4,Sunny,43
+1,7,9,Eta_Septimus,Crashout Formula One,2989.0368299436,2,Sunny,43
+1,7,10,Zeta_Sextus,Lag's 200 Ping Power,4161.220986714836,1,Sunny,43
+1,7,11,Beta_Secundus,Red Velvet Racing,4166.811862722145,0,Sunny,43
+1,7,12,Upsilon_Vicesimus,Spanky's Fast Cars,4169.737139279704,0,Sunny,43
+1,7,13,Delta_Quartus,DNF Finishers,4263.526969951986,0,Sunny,43
+1,7,14,Nu_Tredecimus,B2B SaaS Motorsport,4269.847791864943,0,Sunny,43
+1,7,15,Sigma_Duodevicesimus,TurboToast Racing,4272.942246494674,0,Sunny,43
+1,7,16,Kappa_Decimus,Red Velvet Racing,4311.4352537252125,0,Sunny,43
+1,7,17,Iota_Nonus,DNF Finishers,4313.363397364003,0,Sunny,43
+1,7,18,Tau_Undevicesimus,Crashout Formula One,4365.948806606907,0,Sunny,43
+1,7,19,Theta_Octavus,LDCMWEBLGTBWLS,4366.193022954025,0,Sunny,43
+1,7,20,Mu_Duodecimus,Boba Tea Gnarly Automotives,37418.78368767607,0,Sunny,43
+1,8,1,Tau_Undevicesimus,Crashout Formula One,3025.928915460283,25,Unknown,39
+1,8,2,Beta_Secundus,Red Velvet Racing,3028.073294235432,18,Unknown,39
+1,8,3,Theta_Octavus,LDCMWEBLGTBWLS,3028.400159257947,15,Unknown,39
+1,8,4,Iota_Nonus,DNF Finishers,3031.570525338431,12,Unknown,39
+1,8,5,Kappa_Decimus,Red Velvet Racing,3032.3561462286616,10,Unknown,39
+1,8,6,Zeta_Sextus,Lag's 200 Ping Power,3036.0269103922446,8,Unknown,39
+1,8,7,Sigma_Duodevicesimus,TurboToast Racing,3092.772131354014,6,Unknown,39
+1,8,8,Xi_Quattuordecim,LDCMWEBLGTBWLS,3094.0208355059117,4,Unknown,39
+1,8,9,Delta_Quartus,DNF Finishers,3106.962004072761,2,Unknown,39
+1,8,10,Lambda_Undecimus,Tapped In Team,3108.958968215932,1,Unknown,39
+1,8,11,Pi_Sedecim,Spanky's Fast Cars,3116.5327602849616,0,Unknown,39
+1,8,12,Gamma_Tertius,Boba Tea Gnarly Automotives,3161.5153604637326,0,Unknown,39
+1,8,13,Epsilon_Quintus,Lag's 200 Ping Power,3187.621509249653,0,Unknown,39
+1,8,14,Omicron_Quindecim,B2B SaaS Motorsport,3196.5969377566817,0,Unknown,39
+1,8,15,Rho_Septendecim,Tapped In Team,3219.0558752893066,0,Unknown,39
+1,8,16,Nu_Tredecimus,B2B SaaS Motorsport,3367.049931964896,0,Unknown,39
+1,8,17,Mu_Duodecimus,Boba Tea Gnarly Automotives,3956.3451532267773,0,Unknown,39
+1,8,18,Alpha_Primus,TurboToast Racing,10404.152627662064,0,Unknown,39
+1,8,19,Eta_Septimus,Crashout Formula One,12250.263626612019,0,Unknown,39
+1,8,20,Upsilon_Vicesimus,Spanky's Fast Cars,12250.444867458662,0,Unknown,39
+1,9,1,Theta_Octavus,LDCMWEBLGTBWLS,5552.801488295919,25,Unknown,66
+1,9,2,Tau_Undevicesimus,Crashout Formula One,5559.899773834441,18,Unknown,66
+1,9,3,Kappa_Decimus,Red Velvet Racing,5566.5665903417475,15,Unknown,66
+1,9,4,Beta_Secundus,Red Velvet Racing,5567.513979587375,12,Unknown,66
+1,9,5,Upsilon_Vicesimus,Spanky's Fast Cars,5569.071433947844,10,Unknown,66
+1,9,6,Iota_Nonus,DNF Finishers,5575.385010337707,8,Unknown,66
+1,9,7,Zeta_Sextus,Lag's 200 Ping Power,5577.175557427677,6,Unknown,66
+1,9,8,Mu_Duodecimus,Boba Tea Gnarly Automotives,5577.896734783373,4,Unknown,66
+1,9,9,Xi_Quattuordecim,LDCMWEBLGTBWLS,5577.940296238847,2,Unknown,66
+1,9,10,Sigma_Duodevicesimus,TurboToast Racing,5578.654818936465,1,Unknown,66
+1,9,11,Delta_Quartus,DNF Finishers,5582.001417599262,0,Unknown,66
+1,9,12,Lambda_Undecimus,Tapped In Team,5586.372575041951,0,Unknown,66
+1,9,13,Epsilon_Quintus,Lag's 200 Ping Power,5587.889182097623,0,Unknown,66
+1,9,14,Rho_Septendecim,Tapped In Team,5596.90682090696,0,Unknown,66
+1,9,15,Nu_Tredecimus,B2B SaaS Motorsport,5764.483318727249,0,Unknown,66
+1,9,16,Eta_Septimus,Crashout Formula One,25612.530350379926,0,Unknown,66
+1,9,17,Pi_Sedecim,Spanky's Fast Cars,41096.3924243574,0,Unknown,66
+1,9,18,Omicron_Quindecim,B2B SaaS Motorsport,49394.10059719851,0,Unknown,66
+1,9,19,Gamma_Tertius,Boba Tea Gnarly Automotives,49394.83478244429,0,Unknown,66
+1,9,20,Alpha_Primus,TurboToast Racing,60469.85165350636,0,Unknown,66
+1,10,1,Theta_Octavus,LDCMWEBLGTBWLS,6076.872021843467,25,Unknown,72
+1,10,2,Tau_Undevicesimus,Crashout Formula One,6079.580887167407,18,Unknown,72
+1,10,3,Kappa_Decimus,Red Velvet Racing,6085.428413064071,15,Unknown,72
+1,10,4,Iota_Nonus,DNF Finishers,6095.558732682825,12,Unknown,72
+1,10,5,Xi_Quattuordecim,LDCMWEBLGTBWLS,6096.0623287757235,10,Unknown,72
+1,10,6,Sigma_Duodevicesimus,TurboToast Racing,6098.942894167677,8,Unknown,72
+1,10,7,Zeta_Sextus,Lag's 200 Ping Power,6101.1599886038,6,Unknown,72
+1,10,8,Mu_Duodecimus,Boba Tea Gnarly Automotives,6102.030363461046,4,Unknown,72
+1,10,9,Alpha_Primus,TurboToast Racing,6102.088398861461,2,Unknown,72
+1,10,10,Delta_Quartus,DNF Finishers,6102.201453781252,1,Unknown,72
+1,10,11,Eta_Septimus,Crashout Formula One,6104.237055869895,0,Unknown,72
+1,10,12,Lambda_Undecimus,Tapped In Team,6106.492199874217,0,Unknown,72
+1,10,13,Gamma_Tertius,Boba Tea Gnarly Automotives,6110.101545320106,0,Unknown,72
+1,10,14,Omicron_Quindecim,B2B SaaS Motorsport,6112.5840614758,0,Unknown,72
+1,10,15,Epsilon_Quintus,Lag's 200 Ping Power,6116.618709946381,0,Unknown,72
+1,10,16,Rho_Septendecim,Tapped In Team,6119.495546821794,0,Unknown,72
+1,10,17,Nu_Tredecimus,B2B SaaS Motorsport,6292.023167503925,0,Unknown,72
+1,10,18,Beta_Secundus,Red Velvet Racing,24317.509487333253,0,Unknown,72
+1,10,19,Upsilon_Vicesimus,Spanky's Fast Cars,24319.331221604327,0,Unknown,72
+1,10,20,Pi_Sedecim,Spanky's Fast Cars,56317.26117729249,0,Unknown,72
+2,1,1,Rho_Septendecim,Tapped In Team,4011.9791731319883,25,Sunny,58
+2,1,2,Epsilon_Quintus,Lag's 200 Ping Power,4012.1293418259074,18,Sunny,58
+2,1,3,Lambda_Undecimus,Tapped In Team,4012.4625801976304,15,Sunny,58
+2,1,4,Omicron_Quindecim,B2B SaaS Motorsport,4012.7968189230837,12,Sunny,58
+2,1,5,Gamma_Tertius,Boba Tea Gnarly Automotives,4013.344699205886,10,Sunny,58
+2,1,6,Pi_Sedecim,Spanky's Fast Cars,4016.4108041962745,8,Sunny,58
+2,1,7,Eta_Septimus,Crashout Formula One,4017.343157237624,6,Sunny,58
+2,1,8,Mu_Duodecimus,Boba Tea Gnarly Automotives,4018.871488891298,4,Sunny,58
+2,1,9,Alpha_Primus,TurboToast Racing,4020.516851404379,2,Sunny,58
+2,1,10,Zeta_Sextus,Lag's 200 Ping Power,5471.281386077472,1,Sunny,58
+2,1,11,Beta_Secundus,Red Velvet Racing,5515.447917305334,0,Sunny,58
+2,1,12,Upsilon_Vicesimus,Spanky's Fast Cars,5533.504398664258,0,Sunny,58
+2,1,13,Nu_Tredecimus,B2B SaaS Motorsport,5578.393597582972,0,Sunny,58
+2,1,14,Sigma_Duodevicesimus,TurboToast Racing,5578.447939102613,0,Sunny,58
+2,1,15,Kappa_Decimus,Red Velvet Racing,5615.434910352267,0,Sunny,58
+2,1,16,Theta_Octavus,LDCMWEBLGTBWLS,5708.829455425775,0,Sunny,58
+2,1,17,Tau_Undevicesimus,Crashout Formula One,10253.337182546158,0,Sunny,58
+2,1,18,Xi_Quattuordecim,LDCMWEBLGTBWLS,29155.58957509957,0,Sunny,58
+2,1,19,Iota_Nonus,DNF Finishers,49113.9246863571,0,Sunny,58
+2,1,20,Delta_Quartus,DNF Finishers,49115.76940316587,0,Sunny,58
+2,2,1,Rho_Septendecim,Tapped In Team,2567.186621983808,25,Sunny,37
+2,2,2,Lambda_Undecimus,Tapped In Team,2568.430168694607,18,Sunny,37
+2,2,3,Gamma_Tertius,Boba Tea Gnarly Automotives,2568.719186993527,15,Sunny,37
+2,2,4,Alpha_Primus,TurboToast Racing,2570.831746953691,12,Sunny,37
+2,2,5,Eta_Septimus,Crashout Formula One,2571.542262286042,10,Sunny,37
+2,2,6,Epsilon_Quintus,Lag's 200 Ping Power,2572.4897981533945,8,Sunny,37
+2,2,7,Pi_Sedecim,Spanky's Fast Cars,2573.1734893457597,6,Sunny,37
+2,2,8,Zeta_Sextus,Lag's 200 Ping Power,3589.8654816897283,4,Sunny,37
+2,2,9,Beta_Secundus,Red Velvet Racing,3592.218416123693,2,Sunny,37
+2,2,10,Upsilon_Vicesimus,Spanky's Fast Cars,3592.9123669636956,1,Sunny,37
+2,2,11,Delta_Quartus,DNF Finishers,3734.0743041440255,0,Sunny,37
+2,2,12,Nu_Tredecimus,B2B SaaS Motorsport,3738.6890352032174,0,Sunny,37
+2,2,13,Sigma_Duodevicesimus,TurboToast Racing,3744.1560001176713,0,Sunny,37
+2,2,14,Tau_Undevicesimus,Crashout Formula One,3815.668279524886,0,Sunny,37
+2,2,15,Theta_Octavus,LDCMWEBLGTBWLS,3818.46481293924,0,Sunny,37
+2,2,16,Xi_Quattuordecim,LDCMWEBLGTBWLS,7224.693417569645,0,Sunny,37
+2,2,17,Omicron_Quindecim,B2B SaaS Motorsport,7224.907416931917,0,Sunny,37
+2,2,18,Iota_Nonus,DNF Finishers,7396.275296141279,0,Sunny,37
+2,2,19,Mu_Duodecimus,Boba Tea Gnarly Automotives,10949.56929727385,0,Sunny,37
+2,2,20,Kappa_Decimus,Red Velvet Racing,12838.530278675009,0,Sunny,37
+2,3,1,Rho_Septendecim,Tapped In Team,5078.733481959779,25,Wet,67
+2,3,2,Pi_Sedecim,Spanky's Fast Cars,5202.4804286014505,18,Wet,67
+2,3,3,Eta_Septimus,Crashout Formula One,5605.361920334392,15,Wet,67
+2,3,4,Omicron_Quindecim,B2B SaaS Motorsport,5860.936378896141,12,Wet,67
+2,3,5,Epsilon_Quintus,Lag's 200 Ping Power,5862.465670144249,10,Wet,67
+2,3,6,Iota_Nonus,DNF Finishers,5974.77565515913,8,Wet,67
+2,3,7,Xi_Quattuordecim,LDCMWEBLGTBWLS,5977.177182155771,6,Wet,67
+2,3,8,Sigma_Duodevicesimus,TurboToast Racing,6003.968937879963,4,Wet,67
+2,3,9,Zeta_Sextus,Lag's 200 Ping Power,6030.190475395362,2,Wet,67
+2,3,10,Tau_Undevicesimus,Crashout Formula One,6050.0613735517145,1,Wet,67
+2,3,11,Theta_Octavus,LDCMWEBLGTBWLS,6095.942789278907,0,Wet,67
+2,3,12,Lambda_Undecimus,Tapped In Team,6349.884669880692,0,Wet,67
+2,3,13,Nu_Tredecimus,B2B SaaS Motorsport,6483.351639685835,0,Wet,67
+2,3,14,Kappa_Decimus,Red Velvet Racing,6557.49517161179,0,Wet,67
+2,3,15,Alpha_Primus,TurboToast Racing,8742.632453308295,0,Wet,67
+2,3,16,Upsilon_Vicesimus,Spanky's Fast Cars,17192.97965619311,0,Wet,67
+2,3,17,Mu_Duodecimus,Boba Tea Gnarly Automotives,28689.28482165242,0,Wet,67
+2,3,18,Gamma_Tertius,Boba Tea Gnarly Automotives,28873.550481188762,0,Wet,67
+2,3,19,Delta_Quartus,DNF Finishers,32649.497166602505,0,Wet,67
+2,3,20,Beta_Secundus,Red Velvet Racing,49839.52115393666,0,Wet,67
+2,4,1,Rho_Septendecim,Tapped In Team,3872.6703884374865,25,Sunny,56
+2,4,2,Gamma_Tertius,Boba Tea Gnarly Automotives,3874.812609264293,18,Sunny,56
+2,4,3,Omicron_Quindecim,B2B SaaS Motorsport,3874.8974658146813,15,Sunny,56
+2,4,4,Lambda_Undecimus,Tapped In Team,3876.173081779393,12,Sunny,56
+2,4,5,Xi_Quattuordecim,LDCMWEBLGTBWLS,3879.9273287382744,10,Sunny,56
+2,4,6,Alpha_Primus,TurboToast Racing,3883.8829572670543,8,Sunny,56
+2,4,7,Mu_Duodecimus,Boba Tea Gnarly Automotives,3886.830598516544,6,Sunny,56
+2,4,8,Zeta_Sextus,Lag's 200 Ping Power,5302.870180054369,4,Sunny,56
+2,4,9,Beta_Secundus,Red Velvet Racing,5337.99578936981,2,Sunny,56
+2,4,10,Upsilon_Vicesimus,Spanky's Fast Cars,5354.457081175729,1,Sunny,56
+2,4,11,Delta_Quartus,DNF Finishers,5400.213335530399,0,Sunny,56
+2,4,12,Nu_Tredecimus,B2B SaaS Motorsport,5405.317437378202,0,Sunny,56
+2,4,13,Sigma_Duodevicesimus,TurboToast Racing,5410.26463599857,0,Sunny,56
+2,4,14,Iota_Nonus,DNF Finishers,5434.613591859265,0,Sunny,56
+2,4,15,Kappa_Decimus,Red Velvet Racing,5439.013461736861,0,Sunny,56
+2,4,16,Tau_Undevicesimus,Crashout Formula One,5512.848963728307,0,Sunny,56
+2,4,17,Theta_Octavus,LDCMWEBLGTBWLS,5537.539757465788,0,Sunny,56
+2,4,18,Eta_Septimus,Crashout Formula One,16920.010808474606,0,Sunny,56
+2,4,19,Pi_Sedecim,Spanky's Fast Cars,27156.258003491545,0,Sunny,56
+2,4,20,Epsilon_Quintus,Lag's 200 Ping Power,43907.03763764159,0,Sunny,56
+2,5,1,Theta_Octavus,LDCMWEBLGTBWLS,5374.312425738972,25,Unknown,64
+2,5,2,Tau_Undevicesimus,Crashout Formula One,5387.678262743391,18,Unknown,64
+2,5,3,Kappa_Decimus,Red Velvet Racing,5388.176120550779,15,Unknown,64
+2,5,4,Beta_Secundus,Red Velvet Racing,5396.87648281938,12,Unknown,64
+2,5,5,Upsilon_Vicesimus,Spanky's Fast Cars,5400.1190661628725,10,Unknown,64
+2,5,6,Zeta_Sextus,Lag's 200 Ping Power,5401.707352082068,8,Unknown,64
+2,5,7,Mu_Duodecimus,Boba Tea Gnarly Automotives,5401.787883662585,6,Unknown,64
+2,5,8,Iota_Nonus,DNF Finishers,5403.058084474966,4,Unknown,64
+2,5,9,Pi_Sedecim,Spanky's Fast Cars,5404.273023705547,2,Unknown,64
+2,5,10,Sigma_Duodevicesimus,TurboToast Racing,5405.512980812881,1,Unknown,64
+2,5,11,Delta_Quartus,DNF Finishers,5409.147800114724,0,Unknown,64
+2,5,12,Lambda_Undecimus,Tapped In Team,5412.319837555611,0,Unknown,64
+2,5,13,Omicron_Quindecim,B2B SaaS Motorsport,5418.9550620787895,0,Unknown,64
+2,5,14,Nu_Tredecimus,B2B SaaS Motorsport,11986.456484334334,0,Unknown,64
+2,5,15,Epsilon_Quintus,Lag's 200 Ping Power,25482.90605603696,0,Unknown,64
+2,5,16,Alpha_Primus,TurboToast Racing,28960.696874487374,0,Unknown,64
+2,5,17,Eta_Septimus,Crashout Formula One,28977.52855483721,0,Unknown,64
+2,5,18,Gamma_Tertius,Boba Tea Gnarly Automotives,36327.31006084963,0,Unknown,64
+2,5,19,Rho_Septendecim,Tapped In Team,51086.616948345,0,Unknown,64
+2,5,20,Xi_Quattuordecim,LDCMWEBLGTBWLS,51086.66843351095,0,Unknown,64
+2,6,1,Rho_Septendecim,Tapped In Team,4951.368788751222,25,Wet,65
+2,6,2,Pi_Sedecim,Spanky's Fast Cars,5063.531065232777,18,Wet,65
+2,6,3,Eta_Septimus,Crashout Formula One,5450.202068341605,15,Wet,65
+2,6,4,Mu_Duodecimus,Boba Tea Gnarly Automotives,5469.256810150635,12,Wet,65
+2,6,5,Omicron_Quindecim,B2B SaaS Motorsport,5702.323186122238,10,Wet,65
+2,6,6,Epsilon_Quintus,Lag's 200 Ping Power,5710.059307892312,8,Wet,65
+2,6,7,Gamma_Tertius,Boba Tea Gnarly Automotives,5718.325305907768,6,Wet,65
+2,6,8,Iota_Nonus,DNF Finishers,5818.250886372238,4,Wet,65
+2,6,9,Alpha_Primus,TurboToast Racing,5821.762956845012,2,Wet,65
+2,6,10,Delta_Quartus,DNF Finishers,5831.496325278357,1,Wet,65
+2,6,11,Sigma_Duodevicesimus,TurboToast Racing,5851.805262672647,0,Wet,65
+2,6,12,Zeta_Sextus,Lag's 200 Ping Power,5867.324126067963,0,Wet,65
+2,6,13,Tau_Undevicesimus,Crashout Formula One,5883.4772292537,0,Wet,65
+2,6,14,Theta_Octavus,LDCMWEBLGTBWLS,5938.208382611364,0,Wet,65
+2,6,15,Beta_Secundus,Red Velvet Racing,5961.28571393775,0,Wet,65
+2,6,16,Upsilon_Vicesimus,Spanky's Fast Cars,5966.116976202105,0,Wet,65
+2,6,17,Lambda_Undecimus,Tapped In Team,6196.488205838311,0,Wet,65
+2,6,18,Nu_Tredecimus,B2B SaaS Motorsport,6316.0146327235725,0,Wet,65
+2,6,19,Kappa_Decimus,Red Velvet Racing,6389.510525726104,0,Wet,65
+2,6,20,Xi_Quattuordecim,LDCMWEBLGTBWLS,60493.68887602642,0,Wet,65
+2,7,1,Rho_Septendecim,Tapped In Team,5456.457556790457,25,Sunny,79
+2,7,2,Omicron_Quindecim,B2B SaaS Motorsport,5461.2047754476125,18,Sunny,79
+2,7,3,Lambda_Undecimus,Tapped In Team,5466.4549688905445,15,Sunny,79
+2,7,4,Eta_Septimus,Crashout Formula One,5467.058009061245,12,Sunny,79
+2,7,5,Gamma_Tertius,Boba Tea Gnarly Automotives,5467.1798362082045,10,Sunny,79
+2,7,6,Pi_Sedecim,Spanky's Fast Cars,5474.608405519471,8,Sunny,79
+2,7,7,Mu_Duodecimus,Boba Tea Gnarly Automotives,5476.494148201897,6,Sunny,79
+2,7,8,Beta_Secundus,Red Velvet Racing,7184.581192612638,4,Sunny,79
+2,7,9,Zeta_Sextus,Lag's 200 Ping Power,7187.2869142627815,2,Sunny,79
+2,7,10,Delta_Quartus,DNF Finishers,7246.861606781696,1,Sunny,79
+2,7,11,Kappa_Decimus,Red Velvet Racing,7326.245657516771,0,Sunny,79
+2,7,12,Theta_Octavus,LDCMWEBLGTBWLS,7485.957487983722,0,Sunny,79
+2,7,13,Xi_Quattuordecim,LDCMWEBLGTBWLS,11055.996204350455,0,Sunny,79
+2,7,14,Alpha_Primus,TurboToast Racing,13852.20731525785,0,Sunny,79
+2,7,15,Epsilon_Quintus,Lag's 200 Ping Power,43637.552884115394,0,Sunny,79
+2,7,16,Iota_Nonus,DNF Finishers,45762.529506161,0,Sunny,79
+2,7,17,Tau_Undevicesimus,Crashout Formula One,45813.309538795846,0,Sunny,79
+2,7,18,Upsilon_Vicesimus,Spanky's Fast Cars,53731.74252307474,0,Sunny,79
+2,7,19,Nu_Tredecimus,B2B SaaS Motorsport,54815.490621384546,0,Sunny,79
+2,7,20,Sigma_Duodevicesimus,TurboToast Racing,54817.983999581025,0,Sunny,79
+2,8,1,Rho_Septendecim,Tapped In Team,2774.8141196145366,25,Sunny,40
+2,8,2,Gamma_Tertius,Boba Tea Gnarly Automotives,2776.1410692365835,18,Sunny,40
+2,8,3,Epsilon_Quintus,Lag's 200 Ping Power,2776.9046160716225,15,Sunny,40
+2,8,4,Lambda_Undecimus,Tapped In Team,2777.4777780312997,12,Sunny,40
+2,8,5,Omicron_Quindecim,B2B SaaS Motorsport,2777.6213701187544,10,Sunny,40
+2,8,6,Xi_Quattuordecim,LDCMWEBLGTBWLS,2781.6600192334504,8,Sunny,40
+2,8,7,Alpha_Primus,TurboToast Racing,2781.7944138550474,6,Sunny,40
+2,8,8,Eta_Septimus,Crashout Formula One,2782.611803088529,4,Sunny,40
+2,8,9,Mu_Duodecimus,Boba Tea Gnarly Automotives,2786.1230168829475,2,Sunny,40
+2,8,10,Zeta_Sextus,Lag's 200 Ping Power,3876.5895364058433,1,Sunny,40
+2,8,11,Beta_Secundus,Red Velvet Racing,3876.9156757425876,0,Sunny,40
+2,8,12,Upsilon_Vicesimus,Spanky's Fast Cars,3880.3280023692046,0,Sunny,40
+2,8,13,Delta_Quartus,DNF Finishers,4003.59881947431,0,Sunny,40
+2,8,14,Nu_Tredecimus,B2B SaaS Motorsport,4013.9842023604265,0,Sunny,40
+2,8,15,Sigma_Duodevicesimus,TurboToast Racing,4015.220185675226,0,Sunny,40
+2,8,16,Iota_Nonus,DNF Finishers,4036.667381170146,0,Sunny,40
+2,8,17,Kappa_Decimus,Red Velvet Racing,4039.2588190524034,0,Sunny,40
+2,8,18,Tau_Undevicesimus,Crashout Formula One,4088.5840788328833,0,Sunny,40
+2,8,19,Theta_Octavus,LDCMWEBLGTBWLS,4091.659367683611,0,Sunny,40
+2,8,20,Pi_Sedecim,Spanky's Fast Cars,4644.854875387516,0,Sunny,40
+2,9,1,Epsilon_Quintus,Lag's 200 Ping Power,4148.248913836136,25,Sunny,60
+2,9,2,Omicron_Quindecim,B2B SaaS Motorsport,4149.349907182173,18,Sunny,60
+2,9,3,Rho_Septendecim,Tapped In Team,4149.831740950959,15,Sunny,60
+2,9,4,Eta_Septimus,Crashout Formula One,4153.540934728842,12,Sunny,60
+2,9,5,Pi_Sedecim,Spanky's Fast Cars,4154.697440599494,10,Sunny,60
+2,9,6,Xi_Quattuordecim,LDCMWEBLGTBWLS,4158.4999783011735,8,Sunny,60
+2,9,7,Alpha_Primus,TurboToast Racing,4158.511450036615,6,Sunny,60
+2,9,8,Mu_Duodecimus,Boba Tea Gnarly Automotives,4161.750773693958,4,Sunny,60
+2,9,9,Zeta_Sextus,Lag's 200 Ping Power,5642.0012820966585,2,Sunny,60
+2,9,10,Beta_Secundus,Red Velvet Racing,5685.742674328426,1,Sunny,60
+2,9,11,Upsilon_Vicesimus,Spanky's Fast Cars,5708.37704585577,0,Sunny,60
+2,9,12,Delta_Quartus,DNF Finishers,5750.901643654978,0,Sunny,60
+2,9,13,Nu_Tredecimus,B2B SaaS Motorsport,5756.8902062154875,0,Sunny,60
+2,9,14,Sigma_Duodevicesimus,TurboToast Racing,5757.543629741425,0,Sunny,60
+2,9,15,Iota_Nonus,DNF Finishers,5787.95649332064,0,Sunny,60
+2,9,16,Kappa_Decimus,Red Velvet Racing,5791.438775956807,0,Sunny,60
+2,9,17,Tau_Undevicesimus,Crashout Formula One,5863.188781780818,0,Sunny,60
+2,9,18,Gamma_Tertius,Boba Tea Gnarly Automotives,10666.577340439795,0,Sunny,60
+2,9,19,Theta_Octavus,LDCMWEBLGTBWLS,33174.96537335013,0,Sunny,60
+2,9,20,Lambda_Undecimus,Tapped In Team,48838.45867037947,0,Sunny,60
+2,10,1,Gamma_Tertius,Boba Tea Gnarly Automotives,5393.982406667551,25,Sunny,78
+2,10,2,Omicron_Quindecim,B2B SaaS Motorsport,5396.592908724522,18,Sunny,78
+2,10,3,Eta_Septimus,Crashout Formula One,5400.548059875247,15,Sunny,78
+2,10,4,Xi_Quattuordecim,LDCMWEBLGTBWLS,5404.2647317489955,12,Sunny,78
+2,10,5,Alpha_Primus,TurboToast Racing,5404.381570789187,10,Sunny,78
+2,10,6,Mu_Duodecimus,Boba Tea Gnarly Automotives,5407.591976054192,8,Sunny,78
+2,10,7,Beta_Secundus,Red Velvet Racing,7112.062371603286,6,Sunny,78
+2,10,8,Zeta_Sextus,Lag's 200 Ping Power,7114.36861707825,4,Sunny,78
+2,10,9,Upsilon_Vicesimus,Spanky's Fast Cars,7148.98475545136,2,Sunny,78
+2,10,10,Delta_Quartus,DNF Finishers,7166.032001019919,1,Sunny,78
+2,10,11,Iota_Nonus,DNF Finishers,7202.459920515847,0,Sunny,78
+2,10,12,Sigma_Duodevicesimus,TurboToast Racing,7215.95498139882,0,Sunny,78
+2,10,13,Kappa_Decimus,Red Velvet Racing,7242.668992886263,0,Sunny,78
+2,10,14,Tau_Undevicesimus,Crashout Formula One,7358.787765512933,0,Sunny,78
+2,10,15,Theta_Octavus,LDCMWEBLGTBWLS,8328.759946984024,0,Sunny,78
+2,10,16,Nu_Tredecimus,B2B SaaS Motorsport,22843.79033930966,0,Sunny,78
+2,10,17,Rho_Septendecim,Tapped In Team,24937.034583132376,0,Sunny,78
+2,10,18,Epsilon_Quintus,Lag's 200 Ping Power,56600.73068702395,0,Sunny,78
+2,10,19,Lambda_Undecimus,Tapped In Team,60324.35747757118,0,Sunny,78
+2,10,20,Pi_Sedecim,Spanky's Fast Cars,71487.72242111256,0,Sunny,78
+3,1,1,Omicron_Quindecim,B2B SaaS Motorsport,2427.2795500658663,25,Sunny,35
+3,1,2,Lambda_Undecimus,Tapped In Team,2429.9008249330977,18,Sunny,35
+3,1,3,Gamma_Tertius,Boba Tea Gnarly Automotives,2430.4489093998695,15,Sunny,35
+3,1,4,Xi_Quattuordecim,LDCMWEBLGTBWLS,2432.0688159315146,12,Sunny,35
+3,1,5,Mu_Duodecimus,Boba Tea Gnarly Automotives,2432.680162780263,10,Sunny,35
+3,1,6,Eta_Septimus,Crashout Formula One,2433.1440609344827,8,Sunny,35
+3,1,7,Pi_Sedecim,Spanky's Fast Cars,2433.4097085306803,6,Sunny,35
+3,1,8,Alpha_Primus,TurboToast Racing,2436.398717646133,4,Sunny,35
+3,1,9,Zeta_Sextus,Lag's 200 Ping Power,3398.3639524858154,2,Sunny,35
+3,1,10,Upsilon_Vicesimus,Spanky's Fast Cars,3399.5685971467506,1,Sunny,35
+3,1,11,Beta_Secundus,Red Velvet Racing,3401.131016505699,0,Sunny,35
+3,1,12,Delta_Quartus,DNF Finishers,3543.2732717351114,0,Sunny,35
+3,1,13,Nu_Tredecimus,B2B SaaS Motorsport,3553.2200663305553,0,Sunny,35
+3,1,14,Sigma_Duodevicesimus,TurboToast Racing,3557.694470284438,0,Sunny,35
+3,1,15,Kappa_Decimus,Red Velvet Racing,3575.6130536539185,0,Sunny,35
+3,1,16,Theta_Octavus,LDCMWEBLGTBWLS,3630.3217359653186,0,Sunny,35
+3,1,17,Tau_Undevicesimus,Crashout Formula One,3632.883333856462,0,Sunny,35
+3,1,18,Epsilon_Quintus,Lag's 200 Ping Power,7085.22471235389,0,Sunny,35
+3,1,19,Rho_Septendecim,Tapped In Team,20114.36639734732,0,Sunny,35
+3,1,20,Iota_Nonus,DNF Finishers,22541.52755770154,0,Sunny,35
+3,2,1,Theta_Octavus,LDCMWEBLGTBWLS,6767.018517147183,25,Unknown,80
+3,2,2,Tau_Undevicesimus,Crashout Formula One,6779.182086027125,18,Unknown,80
+3,2,3,Kappa_Decimus,Red Velvet Racing,6782.46740990585,15,Unknown,80
+3,2,4,Upsilon_Vicesimus,Spanky's Fast Cars,6786.12106134081,12,Unknown,80
+3,2,5,Iota_Nonus,DNF Finishers,6792.875004430673,10,Unknown,80
+3,2,6,Xi_Quattuordecim,LDCMWEBLGTBWLS,6795.0498622040195,8,Unknown,80
+3,2,7,Sigma_Duodevicesimus,TurboToast Racing,6796.145160796842,6,Unknown,80
+3,2,8,Alpha_Primus,TurboToast Racing,6799.030314240007,4,Unknown,80
+3,2,9,Lambda_Undecimus,Tapped In Team,6803.116804531552,2,Unknown,80
+3,2,10,Eta_Septimus,Crashout Formula One,6807.714171337535,1,Unknown,80
+3,2,11,Gamma_Tertius,Boba Tea Gnarly Automotives,6808.69611037295,0,Unknown,80
+3,2,12,Omicron_Quindecim,B2B SaaS Motorsport,6813.988945004398,0,Unknown,80
+3,2,13,Epsilon_Quintus,Lag's 200 Ping Power,6814.910489783959,0,Unknown,80
+3,2,14,Rho_Septendecim,Tapped In Team,6815.014210872665,0,Unknown,80
+3,2,15,Nu_Tredecimus,B2B SaaS Motorsport,6983.516380832251,0,Unknown,80
+3,2,16,Delta_Quartus,DNF Finishers,23235.508668792863,0,Unknown,80
+3,2,17,Pi_Sedecim,Spanky's Fast Cars,32362.932021862413,0,Unknown,80
+3,2,18,Mu_Duodecimus,Boba Tea Gnarly Automotives,44955.335633880415,0,Unknown,80
+3,2,19,Beta_Secundus,Red Velvet Racing,48637.513650362846,0,Unknown,80
+3,2,20,Zeta_Sextus,Lag's 200 Ping Power,65241.84673515709,0,Unknown,80
+3,3,1,Theta_Octavus,LDCMWEBLGTBWLS,4616.503719735897,25,Unknown,56
+3,3,2,Tau_Undevicesimus,Crashout Formula One,4675.911553355576,18,Unknown,56
+3,3,3,Upsilon_Vicesimus,Spanky's Fast Cars,4690.803833769913,15,Unknown,56
+3,3,4,Kappa_Decimus,Red Velvet Racing,4693.345257966254,12,Unknown,56
+3,3,5,Iota_Nonus,DNF Finishers,4703.454872814615,10,Unknown,56
+3,3,6,Zeta_Sextus,Lag's 200 Ping Power,4705.89749548256,8,Unknown,56
+3,3,7,Sigma_Duodevicesimus,TurboToast Racing,4707.999211972245,6,Unknown,56
+3,3,8,Mu_Duodecimus,Boba Tea Gnarly Automotives,4708.30680193852,4,Unknown,56
+3,3,9,Pi_Sedecim,Spanky's Fast Cars,4708.707516971629,2,Unknown,56
+3,3,10,Xi_Quattuordecim,LDCMWEBLGTBWLS,4709.8465299097115,1,Unknown,56
+3,3,11,Delta_Quartus,DNF Finishers,4711.82732857567,0,Unknown,56
+3,3,12,Eta_Septimus,Crashout Formula One,4713.585130611413,0,Unknown,56
+3,3,13,Lambda_Undecimus,Tapped In Team,4713.804850672406,0,Unknown,56
+3,3,14,Gamma_Tertius,Boba Tea Gnarly Automotives,4718.4496917804845,0,Unknown,56
+3,3,15,Omicron_Quindecim,B2B SaaS Motorsport,4720.051120173755,0,Unknown,56
+3,3,16,Epsilon_Quintus,Lag's 200 Ping Power,4720.814689736325,0,Unknown,56
+3,3,17,Nu_Tredecimus,B2B SaaS Motorsport,4902.514849520186,0,Unknown,56
+3,3,18,Beta_Secundus,Red Velvet Racing,24640.472713527077,0,Unknown,56
+3,3,19,Alpha_Primus,TurboToast Racing,32940.71855459136,0,Unknown,56
+3,3,20,Rho_Septendecim,Tapped In Team,32940.91342687806,0,Unknown,56
+3,4,1,Pi_Sedecim,Spanky's Fast Cars,3616.1412249131754,25,Wet,44
+3,4,2,Eta_Septimus,Crashout Formula One,3833.484420522583,18,Wet,44
+3,4,3,Mu_Duodecimus,Boba Tea Gnarly Automotives,3852.5188945823666,15,Wet,44
+3,4,4,Gamma_Tertius,Boba Tea Gnarly Automotives,4031.5225240689256,12,Wet,44
+3,4,5,Omicron_Quindecim,B2B SaaS Motorsport,4038.6534564377603,10,Wet,44
+3,4,6,Epsilon_Quintus,Lag's 200 Ping Power,4072.3739496463627,8,Wet,44
+3,4,7,Iota_Nonus,DNF Finishers,4136.715817001111,6,Wet,44
+3,4,8,Delta_Quartus,DNF Finishers,4142.682986026942,4,Wet,44
+3,4,9,Sigma_Duodevicesimus,TurboToast Racing,4151.095316990885,2,Wet,44
+3,4,10,Alpha_Primus,TurboToast Racing,4153.443344899584,1,Wet,44
+3,4,11,Zeta_Sextus,Lag's 200 Ping Power,4174.022185556341,0,Wet,44
+3,4,12,Tau_Undevicesimus,Crashout Formula One,4191.07825191042,0,Wet,44
+3,4,13,Xi_Quattuordecim,LDCMWEBLGTBWLS,4199.299865670661,0,Wet,44
+3,4,14,Beta_Secundus,Red Velvet Racing,4229.110505012699,0,Wet,44
+3,4,15,Theta_Octavus,LDCMWEBLGTBWLS,4237.309610649087,0,Wet,44
+3,4,16,Upsilon_Vicesimus,Spanky's Fast Cars,4242.961943207764,0,Wet,44
+3,4,17,Rho_Septendecim,Tapped In Team,4453.935974975886,0,Wet,44
+3,4,18,Lambda_Undecimus,Tapped In Team,4523.244499745658,0,Wet,44
+3,4,19,Kappa_Decimus,Red Velvet Racing,4651.218841791468,0,Wet,44
+3,4,20,Nu_Tredecimus,B2B SaaS Motorsport,11874.433750705603,0,Wet,44
+3,5,1,Beta_Secundus,Red Velvet Racing,3026.8944417195266,25,Unknown,39
+3,5,2,Iota_Nonus,DNF Finishers,3028.849780627597,18,Unknown,39
+3,5,3,Theta_Octavus,LDCMWEBLGTBWLS,3029.2687165980556,15,Unknown,39
+3,5,4,Zeta_Sextus,Lag's 200 Ping Power,3034.337597877105,12,Unknown,39
+3,5,5,Kappa_Decimus,Red Velvet Racing,3036.14165309617,10,Unknown,39
+3,5,6,Mu_Duodecimus,Boba Tea Gnarly Automotives,3052.2243053582883,8,Unknown,39
+3,5,7,Alpha_Primus,TurboToast Racing,3062.5721925034954,6,Unknown,39
+3,5,8,Eta_Septimus,Crashout Formula One,3085.583850360852,4,Unknown,39
+3,5,9,Xi_Quattuordecim,LDCMWEBLGTBWLS,3094.393368688518,2,Unknown,39
+3,5,10,Lambda_Undecimus,Tapped In Team,3107.2167768623217,1,Unknown,39
+3,5,11,Pi_Sedecim,Spanky's Fast Cars,3117.4201982123573,0,Unknown,39
+3,5,12,Gamma_Tertius,Boba Tea Gnarly Automotives,3163.8924382712444,0,Unknown,39
+3,5,13,Epsilon_Quintus,Lag's 200 Ping Power,3189.262946286686,0,Unknown,39
+3,5,14,Omicron_Quindecim,B2B SaaS Motorsport,3200.3773564450967,0,Unknown,39
+3,5,15,Rho_Septendecim,Tapped In Team,3219.66696836988,0,Unknown,39
+3,5,16,Nu_Tredecimus,B2B SaaS Motorsport,3367.3159479145356,0,Unknown,39
+3,5,17,Tau_Undevicesimus,Crashout Formula One,15018.126651153927,0,Unknown,39
+3,5,18,Upsilon_Vicesimus,Spanky's Fast Cars,15018.597217830602,0,Unknown,39
+3,5,19,Delta_Quartus,DNF Finishers,22392.675019799735,0,Unknown,39
+3,5,20,Sigma_Duodevicesimus,TurboToast Racing,23316.365996270408,0,Unknown,39
+3,6,1,Rho_Septendecim,Tapped In Team,3733.1889408129196,25,Wet,47
+3,6,2,Pi_Sedecim,Spanky's Fast Cars,3830.639739555441,18,Wet,47
+3,6,3,Mu_Duodecimus,Boba Tea Gnarly Automotives,4090.0414397306104,15,Wet,47
+3,6,4,Gamma_Tertius,Boba Tea Gnarly Automotives,4272.897410192325,12,Wet,47
+3,6,5,Omicron_Quindecim,B2B SaaS Motorsport,4275.31446917506,10,Wet,47
+3,6,6,Epsilon_Quintus,Lag's 200 Ping Power,4307.54144447969,8,Wet,47
+3,6,7,Iota_Nonus,DNF Finishers,4377.625806847766,6,Wet,47
+3,6,8,Delta_Quartus,DNF Finishers,4382.557920498399,4,Wet,47
+3,6,9,Alpha_Primus,TurboToast Racing,4396.743014826814,2,Wet,47
+3,6,10,Zeta_Sextus,Lag's 200 Ping Power,4413.131798369457,1,Wet,47
+3,6,11,Tau_Undevicesimus,Crashout Formula One,4428.585322818737,0,Wet,47
+3,6,12,Xi_Quattuordecim,LDCMWEBLGTBWLS,4437.548631614607,0,Wet,47
+3,6,13,Theta_Octavus,LDCMWEBLGTBWLS,4484.680203961364,0,Wet,47
+3,6,14,Beta_Secundus,Red Velvet Racing,4509.407512219985,0,Wet,47
+3,6,15,Upsilon_Vicesimus,Spanky's Fast Cars,4535.040920240788,0,Wet,47
+3,6,16,Lambda_Undecimus,Tapped In Team,4772.927937022474,0,Wet,47
+3,6,17,Nu_Tredecimus,B2B SaaS Motorsport,4810.427900710008,0,Wet,47
+3,6,18,Kappa_Decimus,Red Velvet Racing,5824.21042802301,0,Wet,47
+3,6,19,Sigma_Duodevicesimus,TurboToast Racing,18078.306531311613,0,Wet,47
+3,6,20,Eta_Septimus,Crashout Formula One,20616.110357552156,0,Wet,47
+3,7,1,Epsilon_Quintus,Lag's 200 Ping Power,4426.084961421296,25,Sunny,64
+3,7,2,Rho_Septendecim,Tapped In Team,4427.093201452575,18,Sunny,64
+3,7,3,Gamma_Tertius,Boba Tea Gnarly Automotives,4427.343162391048,15,Sunny,64
+3,7,4,Lambda_Undecimus,Tapped In Team,5361.480417422725,12,Sunny,64
+3,7,5,Mu_Duodecimus,Boba Tea Gnarly Automotives,5368.53110789725,10,Sunny,64
+3,7,6,Zeta_Sextus,Lag's 200 Ping Power,5973.124658314413,8,Sunny,64
+3,7,7,Beta_Secundus,Red Velvet Racing,6019.47499024701,6,Sunny,64
+3,7,8,Upsilon_Vicesimus,Spanky's Fast Cars,6047.445800558011,4,Sunny,64
+3,7,9,Tau_Undevicesimus,Crashout Formula One,6205.178276805016,2,Sunny,64
+3,7,10,Alpha_Primus,TurboToast Racing,17468.194006462898,1,Sunny,64
+3,7,11,Eta_Septimus,Crashout Formula One,17471.80093370063,0,Sunny,64
+3,7,12,Delta_Quartus,DNF Finishers,26175.02813762625,0,Sunny,64
+3,7,13,Pi_Sedecim,Spanky's Fast Cars,27711.184553099403,0,Sunny,64
+3,7,14,Xi_Quattuordecim,LDCMWEBLGTBWLS,32361.12198573331,0,Sunny,64
+3,7,15,Kappa_Decimus,Red Velvet Racing,34397.3538515144,0,Sunny,64
+3,7,16,Nu_Tredecimus,B2B SaaS Motorsport,36191.44936035696,0,Sunny,64
+3,7,17,Theta_Octavus,LDCMWEBLGTBWLS,39912.07585222125,0,Sunny,64
+3,7,18,Iota_Nonus,DNF Finishers,46199.09957264239,0,Sunny,64
+3,7,19,Omicron_Quindecim,B2B SaaS Motorsport,46322.907370245004,0,Sunny,64
+3,7,20,Sigma_Duodevicesimus,TurboToast Racing,51541.35319309527,0,Sunny,64
+3,8,1,Epsilon_Quintus,Lag's 200 Ping Power,3803.43725912113,25,Sunny,55
+3,8,2,Rho_Septendecim,Tapped In Team,3804.1146010448306,18,Sunny,55
+3,8,3,Gamma_Tertius,Boba Tea Gnarly Automotives,3807.713483448034,15,Sunny,55
+3,8,4,Omicron_Quindecim,B2B SaaS Motorsport,3808.8609279494053,12,Sunny,55
+3,8,5,Alpha_Primus,TurboToast Racing,3810.118613539757,10,Sunny,55
+3,8,6,Pi_Sedecim,Spanky's Fast Cars,3811.161827022413,8,Sunny,55
+3,8,7,Xi_Quattuordecim,LDCMWEBLGTBWLS,3812.387402634553,6,Sunny,55
+3,8,8,Zeta_Sextus,Lag's 200 Ping Power,5218.108395602745,4,Sunny,55
+3,8,9,Beta_Secundus,Red Velvet Racing,5255.411999348459,2,Sunny,55
+3,8,10,Sigma_Duodevicesimus,TurboToast Racing,5316.974310772202,1,Sunny,55
+3,8,11,Nu_Tredecimus,B2B SaaS Motorsport,5322.852363167352,0,Sunny,55
+3,8,12,Iota_Nonus,DNF Finishers,5351.7023706737555,0,Sunny,55
+3,8,13,Kappa_Decimus,Red Velvet Racing,5355.239816312483,0,Sunny,55
+3,8,14,Tau_Undevicesimus,Crashout Formula One,5426.006982325194,0,Sunny,55
+3,8,15,Theta_Octavus,LDCMWEBLGTBWLS,5448.035484354712,0,Sunny,55
+3,8,16,Mu_Duodecimus,Boba Tea Gnarly Automotives,17778.303552949284,0,Sunny,55
+3,8,17,Lambda_Undecimus,Tapped In Team,17778.71761977663,0,Sunny,55
+3,8,18,Upsilon_Vicesimus,Spanky's Fast Cars,23403.011173386687,0,Sunny,55
+3,8,19,Delta_Quartus,DNF Finishers,23547.323035942714,0,Sunny,55
+3,8,20,Eta_Septimus,Crashout Formula One,50348.39953865107,0,Sunny,55
+3,9,1,Theta_Octavus,LDCMWEBLGTBWLS,4719.774928252789,25,Unknown,57
+3,9,2,Tau_Undevicesimus,Crashout Formula One,4765.266991082162,18,Unknown,57
+3,9,3,Upsilon_Vicesimus,Spanky's Fast Cars,4780.264936280747,15,Unknown,57
+3,9,4,Kappa_Decimus,Red Velvet Racing,4785.597346574447,12,Unknown,57
+3,9,5,Zeta_Sextus,Lag's 200 Ping Power,4792.143364179064,10,Unknown,57
+3,9,6,Xi_Quattuordecim,LDCMWEBLGTBWLS,4796.841111589505,8,Unknown,57
+3,9,7,Mu_Duodecimus,Boba Tea Gnarly Automotives,4796.883457547401,6,Unknown,57
+3,9,8,Alpha_Primus,TurboToast Racing,4797.771164147821,4,Unknown,57
+3,9,9,Pi_Sedecim,Spanky's Fast Cars,4798.1111981673075,2,Unknown,57
+3,9,10,Sigma_Duodevicesimus,TurboToast Racing,4798.963102073051,1,Unknown,57
+3,9,11,Lambda_Undecimus,Tapped In Team,4802.65669325693,0,Unknown,57
+3,9,12,Delta_Quartus,DNF Finishers,4803.237253053066,0,Unknown,57
+3,9,13,Gamma_Tertius,Boba Tea Gnarly Automotives,4804.904558210223,0,Unknown,57
+3,9,14,Omicron_Quindecim,B2B SaaS Motorsport,4810.924570484595,0,Unknown,57
+3,9,15,Rho_Septendecim,Tapped In Team,4813.198077954702,0,Unknown,57
+3,9,16,Nu_Tredecimus,B2B SaaS Motorsport,4987.83762838173,0,Unknown,57
+3,9,17,Iota_Nonus,DNF Finishers,22869.88164101363,0,Unknown,57
+3,9,18,Epsilon_Quintus,Lag's 200 Ping Power,28401.53077728231,0,Unknown,57
+3,9,19,Eta_Septimus,Crashout Formula One,30248.224510395354,0,Unknown,57
+3,9,20,Beta_Secundus,Red Velvet Racing,38546.9122696974,0,Unknown,57
+3,10,1,Rho_Septendecim,Tapped In Team,4010.240194186188,25,Wet,51
+3,10,2,Pi_Sedecim,Spanky's Fast Cars,4101.967548300937,18,Wet,51
+3,10,3,Eta_Septimus,Crashout Formula One,4371.251984533224,15,Wet,51
+3,10,4,Mu_Duodecimus,Boba Tea Gnarly Automotives,4399.259152829199,12,Wet,51
+3,10,5,Omicron_Quindecim,B2B SaaS Motorsport,4591.9348997469,10,Wet,51
+3,10,6,Epsilon_Quintus,Lag's 200 Ping Power,4618.7684946757,8,Wet,51
+3,10,7,Delta_Quartus,DNF Finishers,4706.727526996416,6,Wet,51
+3,10,8,Sigma_Duodevicesimus,TurboToast Racing,4715.622072703589,4,Wet,51
+3,10,9,Alpha_Primus,TurboToast Racing,4719.969287720175,2,Wet,51
+3,10,10,Zeta_Sextus,Lag's 200 Ping Power,4737.316398544239,1,Wet,51
+3,10,11,Xi_Quattuordecim,LDCMWEBLGTBWLS,4750.2752183073335,0,Wet,51
+3,10,12,Tau_Undevicesimus,Crashout Formula One,4751.355430891533,0,Wet,51
+3,10,13,Theta_Octavus,LDCMWEBLGTBWLS,4806.491759208333,0,Wet,51
+3,10,14,Beta_Secundus,Red Velvet Racing,4834.338474650947,0,Wet,51
+3,10,15,Upsilon_Vicesimus,Spanky's Fast Cars,4878.989594592756,0,Wet,51
+3,10,16,Lambda_Undecimus,Tapped In Team,5095.128126230113,0,Wet,51
+3,10,17,Nu_Tredecimus,B2B SaaS Motorsport,5141.743906000801,0,Wet,51
+3,10,18,Kappa_Decimus,Red Velvet Racing,7993.1388412837105,0,Wet,51
+3,10,19,Gamma_Tertius,Boba Tea Gnarly Automotives,9193.901161867787,0,Wet,51
+3,10,20,Iota_Nonus,DNF Finishers,9299.317521838093,0,Wet,51
+4,1,1,Omicron_Quindecim,B2B SaaS Motorsport,3391.421077665595,25,Sunny,49
+4,1,2,Rho_Septendecim,Tapped In Team,3392.113079292309,18,Sunny,49
+4,1,3,Epsilon_Quintus,Lag's 200 Ping Power,3392.5986312601713,15,Sunny,49
+4,1,4,Gamma_Tertius,Boba Tea Gnarly Automotives,3394.6673443868385,12,Sunny,49
+4,1,5,Lambda_Undecimus,Tapped In Team,3395.134306547491,10,Sunny,49
+4,1,6,Eta_Septimus,Crashout Formula One,3396.1424936564813,8,Sunny,49
+4,1,7,Pi_Sedecim,Spanky's Fast Cars,3399.2369867958246,6,Sunny,49
+4,1,8,Xi_Quattuordecim,LDCMWEBLGTBWLS,3399.8168969158305,4,Sunny,49
+4,1,9,Alpha_Primus,TurboToast Racing,3402.5817914315535,2,Sunny,49
+4,1,10,Zeta_Sextus,Lag's 200 Ping Power,4699.975119807308,1,Sunny,49
+4,1,11,Upsilon_Vicesimus,Spanky's Fast Cars,4743.561901467588,0,Sunny,49
+4,1,12,Delta_Quartus,DNF Finishers,4785.68169185729,0,Sunny,49
+4,1,13,Nu_Tredecimus,B2B SaaS Motorsport,4792.3202788092985,0,Sunny,49
+4,1,14,Sigma_Duodevicesimus,TurboToast Racing,4798.463999411015,0,Sunny,49
+4,1,15,Kappa_Decimus,Red Velvet Racing,4832.67555813979,0,Sunny,49
+4,1,16,Iota_Nonus,DNF Finishers,4835.136430569505,0,Sunny,49
+4,1,17,Theta_Octavus,LDCMWEBLGTBWLS,4916.209664139829,0,Sunny,49
+4,1,18,Beta_Secundus,Red Velvet Racing,9261.036420995051,0,Sunny,49
+4,1,19,Tau_Undevicesimus,Crashout Formula One,23075.167565155687,0,Sunny,49
+4,1,20,Mu_Duodecimus,Boba Tea Gnarly Automotives,39697.53590412134,0,Sunny,49
+4,2,1,Theta_Octavus,LDCMWEBLGTBWLS,4518.540671099565,25,Unknown,55
+4,2,2,Tau_Undevicesimus,Crashout Formula One,4577.179751756764,18,Unknown,55
+4,2,3,Beta_Secundus,Red Velvet Racing,4598.962914865315,15,Unknown,55
+4,2,4,Kappa_Decimus,Red Velvet Racing,4606.055186619564,12,Unknown,55
+4,2,5,Iota_Nonus,DNF Finishers,4614.191948137669,10,Unknown,55
+4,2,6,Zeta_Sextus,Lag's 200 Ping Power,4618.882001142897,8,Unknown,55
+4,2,7,Sigma_Duodevicesimus,TurboToast Racing,4620.908110985496,6,Unknown,55
+4,2,8,Mu_Duodecimus,Boba Tea Gnarly Automotives,4621.151719229954,4,Unknown,55
+4,2,9,Xi_Quattuordecim,LDCMWEBLGTBWLS,4622.024973888856,2,Unknown,55
+4,2,10,Delta_Quartus,DNF Finishers,4624.349446622477,1,Unknown,55
+4,2,11,Eta_Septimus,Crashout Formula One,4626.917923229801,0,Unknown,55
+4,2,12,Lambda_Undecimus,Tapped In Team,4627.874437346813,0,Unknown,55
+4,2,13,Omicron_Quindecim,B2B SaaS Motorsport,4635.5374339329865,0,Unknown,55
+4,2,14,Rho_Septendecim,Tapped In Team,4640.862285727791,0,Unknown,55
+4,2,15,Nu_Tredecimus,B2B SaaS Motorsport,4815.404940956584,0,Unknown,55
+4,2,16,Upsilon_Vicesimus,Spanky's Fast Cars,12716.745433292963,0,Unknown,55
+4,2,17,Epsilon_Quintus,Lag's 200 Ping Power,17391.95889115489,0,Unknown,55
+4,2,18,Gamma_Tertius,Boba Tea Gnarly Automotives,31017.57560433626,0,Unknown,55
+4,2,19,Pi_Sedecim,Spanky's Fast Cars,38392.95684775701,0,Unknown,55
+4,2,20,Alpha_Primus,TurboToast Racing,40240.242031390415,0,Unknown,55
+4,3,1,Rho_Septendecim,Tapped In Team,3249.076653267474,25,Wet,40
+4,3,2,Pi_Sedecim,Spanky's Fast Cars,3342.110074870801,18,Wet,40
+4,3,3,Eta_Septimus,Crashout Formula One,3525.2213424030183,15,Wet,40
+4,3,4,Mu_Duodecimus,Boba Tea Gnarly Automotives,3530.9631080941103,12,Wet,40
+4,3,5,Gamma_Tertius,Boba Tea Gnarly Automotives,3710.8789997293275,10,Wet,40
+4,3,6,Omicron_Quindecim,B2B SaaS Motorsport,3724.1729353813816,8,Wet,40
+4,3,7,Iota_Nonus,DNF Finishers,3816.187451007716,6,Wet,40
+4,3,8,Delta_Quartus,DNF Finishers,3816.678209124216,4,Wet,40
+4,3,9,Sigma_Duodevicesimus,TurboToast Racing,3830.3126660381467,2,Wet,40
+4,3,10,Alpha_Primus,TurboToast Racing,3831.4035754337942,1,Wet,40
+4,3,11,Beta_Secundus,Red Velvet Racing,3842.006320593567,0,Wet,40
+4,3,12,Upsilon_Vicesimus,Spanky's Fast Cars,3854.9369148178735,0,Wet,40
+4,3,13,Tau_Undevicesimus,Crashout Formula One,3866.0688252429154,0,Wet,40
+4,3,14,Theta_Octavus,LDCMWEBLGTBWLS,3918.8554359267487,0,Wet,40
+4,3,15,Lambda_Undecimus,Tapped In Team,4186.870371596112,0,Wet,40
+4,3,16,Nu_Tredecimus,B2B SaaS Motorsport,4215.028825658914,0,Wet,40
+4,3,17,Kappa_Decimus,Red Velvet Racing,4307.188225545014,0,Wet,40
+4,3,18,Zeta_Sextus,Lag's 200 Ping Power,5659.043564856386,0,Wet,40
+4,3,19,Xi_Quattuordecim,LDCMWEBLGTBWLS,5659.541249553964,0,Wet,40
+4,3,20,Epsilon_Quintus,Lag's 200 Ping Power,16500.98697285001,0,Wet,40
+4,4,1,Omicron_Quindecim,B2B SaaS Motorsport,3391.8975492734303,25,Sunny,49
+4,4,2,Rho_Septendecim,Tapped In Team,3393.769377300041,18,Sunny,49
+4,4,3,Gamma_Tertius,Boba Tea Gnarly Automotives,3394.9529962898446,15,Sunny,49
+4,4,4,Lambda_Undecimus,Tapped In Team,3398.333940260048,12,Sunny,49
+4,4,5,Xi_Quattuordecim,LDCMWEBLGTBWLS,3399.056832940566,10,Sunny,49
+4,4,6,Pi_Sedecim,Spanky's Fast Cars,3399.1814073267574,8,Sunny,49
+4,4,7,Eta_Septimus,Crashout Formula One,3401.734400311487,6,Sunny,49
+4,4,8,Delta_Quartus,DNF Finishers,4789.897252255752,4,Sunny,49
+4,4,9,Nu_Tredecimus,B2B SaaS Motorsport,4795.349690835286,2,Sunny,49
+4,4,10,Sigma_Duodevicesimus,TurboToast Racing,4795.719919318836,1,Sunny,49
+4,4,11,Iota_Nonus,DNF Finishers,4828.9244045715195,0,Sunny,49
+4,4,12,Kappa_Decimus,Red Velvet Racing,4831.271088062114,0,Sunny,49
+4,4,13,Theta_Octavus,LDCMWEBLGTBWLS,4922.595261639267,0,Sunny,49
+4,4,14,Upsilon_Vicesimus,Spanky's Fast Cars,10167.942700133755,0,Sunny,49
+4,4,15,Beta_Secundus,Red Velvet Racing,15593.931183453846,0,Sunny,49
+4,4,16,Tau_Undevicesimus,Crashout Formula One,19440.08331775364,0,Sunny,49
+4,4,17,Zeta_Sextus,Lag's 200 Ping Power,21013.37049548499,0,Sunny,49
+4,4,18,Epsilon_Quintus,Lag's 200 Ping Power,29460.956891114005,0,Sunny,49
+4,4,19,Alpha_Primus,TurboToast Racing,29461.994162101088,0,Sunny,49
+4,4,20,Mu_Duodecimus,Boba Tea Gnarly Automotives,35976.248374242336,0,Sunny,49
+4,5,1,Epsilon_Quintus,Lag's 200 Ping Power,3390.5275298120014,25,Sunny,49
+4,5,2,Rho_Septendecim,Tapped In Team,3391.0042588093743,18,Sunny,49
+4,5,3,Omicron_Quindecim,B2B SaaS Motorsport,3392.6876791227833,15,Sunny,49
+4,5,4,Gamma_Tertius,Boba Tea Gnarly Automotives,3395.597297379024,12,Sunny,49
+4,5,5,Lambda_Undecimus,Tapped In Team,3398.2663154684305,10,Sunny,49
+4,5,6,Mu_Duodecimus,Boba Tea Gnarly Automotives,3404.301837304674,8,Sunny,49
+4,5,7,Zeta_Sextus,Lag's 200 Ping Power,4698.140582147498,6,Sunny,49
+4,5,8,Upsilon_Vicesimus,Spanky's Fast Cars,4740.289321531227,4,Sunny,49
+4,5,9,Delta_Quartus,DNF Finishers,4785.030655892317,2,Sunny,49
+4,5,10,Nu_Tredecimus,B2B SaaS Motorsport,4794.34607695408,1,Sunny,49
+4,5,11,Sigma_Duodevicesimus,TurboToast Racing,4794.519095979091,0,Sunny,49
+4,5,12,Iota_Nonus,DNF Finishers,4834.642958709404,0,Sunny,49
+4,5,13,Tau_Undevicesimus,Crashout Formula One,4907.068351680223,0,Sunny,49
+4,5,14,Beta_Secundus,Red Velvet Racing,9261.976692744935,0,Sunny,49
+4,5,15,Alpha_Primus,TurboToast Racing,15501.843146951755,0,Sunny,49
+4,5,16,Pi_Sedecim,Spanky's Fast Cars,15502.403553972132,0,Sunny,49
+4,5,17,Kappa_Decimus,Red Velvet Racing,27574.295738559205,0,Sunny,49
+4,5,18,Theta_Octavus,LDCMWEBLGTBWLS,32088.489293603776,0,Sunny,49
+4,5,19,Eta_Septimus,Crashout Formula One,39697.196334273605,0,Sunny,49
+4,5,20,Xi_Quattuordecim,LDCMWEBLGTBWLS,39697.480844366604,0,Sunny,49
+4,6,1,Theta_Octavus,LDCMWEBLGTBWLS,3499.900777841776,25,Unknown,45
+4,6,2,Beta_Secundus,Red Velvet Racing,3611.0778968858635,18,Unknown,45
+4,6,3,Upsilon_Vicesimus,Spanky's Fast Cars,3612.868685367798,15,Unknown,45
+4,6,4,Iota_Nonus,DNF Finishers,3639.126926522836,12,Unknown,45
+4,6,5,Kappa_Decimus,Red Velvet Racing,3646.129455070956,10,Unknown,45
+4,6,6,Zeta_Sextus,Lag's 200 Ping Power,3660.9352682095437,8,Unknown,45
+4,6,7,Mu_Duodecimus,Boba Tea Gnarly Automotives,3683.5544042944402,6,Unknown,45
+4,6,8,Alpha_Primus,TurboToast Racing,3691.4576845586325,4,Unknown,45
+4,6,9,Delta_Quartus,DNF Finishers,3719.2542721545105,2,Unknown,45
+4,6,10,Lambda_Undecimus,Tapped In Team,3719.576486064927,1,Unknown,45
+4,6,11,Pi_Sedecim,Spanky's Fast Cars,3723.0272835855753,0,Unknown,45
+4,6,12,Gamma_Tertius,Boba Tea Gnarly Automotives,3749.174296350982,0,Unknown,45
+4,6,13,Epsilon_Quintus,Lag's 200 Ping Power,3765.726269957615,0,Unknown,45
+4,6,14,Omicron_Quindecim,B2B SaaS Motorsport,3766.4233026127968,0,Unknown,45
+4,6,15,Rho_Septendecim,Tapped In Team,3773.4949203705028,0,Unknown,45
+4,6,16,Nu_Tredecimus,B2B SaaS Motorsport,3943.792341903294,0,Unknown,45
+4,6,17,Eta_Septimus,Crashout Formula One,5510.903234909178,0,Unknown,45
+4,6,18,Xi_Quattuordecim,LDCMWEBLGTBWLS,5513.826399871853,0,Unknown,45
+4,6,19,Sigma_Duodevicesimus,TurboToast Racing,19171.327889974746,0,Unknown,45
+4,6,20,Tau_Undevicesimus,Crashout Formula One,36704.01534734114,0,Unknown,45
+4,7,1,Omicron_Quindecim,B2B SaaS Motorsport,3871.3844337366972,25,Sunny,56
+4,7,2,Gamma_Tertius,Boba Tea Gnarly Automotives,3873.045698275261,18,Sunny,56
+4,7,3,Xi_Quattuordecim,LDCMWEBLGTBWLS,3876.473944381078,15,Sunny,56
+4,7,4,Lambda_Undecimus,Tapped In Team,3878.262707643893,12,Sunny,56
+4,7,5,Alpha_Primus,TurboToast Racing,3882.619669763478,10,Sunny,56
+4,7,6,Eta_Septimus,Crashout Formula One,3883.9971511136628,8,Sunny,56
+4,7,7,Mu_Duodecimus,Boba Tea Gnarly Automotives,3884.751387347341,6,Sunny,56
+4,7,8,Zeta_Sextus,Lag's 200 Ping Power,5302.137783887496,4,Sunny,56
+4,7,9,Beta_Secundus,Red Velvet Racing,5341.829008179458,2,Sunny,56
+4,7,10,Upsilon_Vicesimus,Spanky's Fast Cars,5364.257987925573,1,Sunny,56
+4,7,11,Nu_Tredecimus,B2B SaaS Motorsport,5400.797770622891,0,Sunny,56
+4,7,12,Delta_Quartus,DNF Finishers,5401.360694530192,0,Sunny,56
+4,7,13,Sigma_Duodevicesimus,TurboToast Racing,5409.769698521637,0,Sunny,56
+4,7,14,Tau_Undevicesimus,Crashout Formula One,5516.336864977189,0,Sunny,56
+4,7,15,Theta_Octavus,LDCMWEBLGTBWLS,5535.717132139297,0,Sunny,56
+4,7,16,Pi_Sedecim,Spanky's Fast Cars,7601.071068782743,0,Sunny,56
+4,7,17,Rho_Septendecim,Tapped In Team,14112.616403661434,0,Sunny,56
+4,7,18,Kappa_Decimus,Red Velvet Racing,25483.99574070752,0,Sunny,56
+4,7,19,Iota_Nonus,DNF Finishers,35484.58882344349,0,Sunny,56
+4,7,20,Epsilon_Quintus,Lag's 200 Ping Power,35530.33673026365,0,Sunny,56
+4,8,1,Theta_Octavus,LDCMWEBLGTBWLS,4212.725146048023,25,Unknown,52
+4,8,2,Tau_Undevicesimus,Crashout Formula One,4287.097727931914,18,Unknown,52
+4,8,3,Upsilon_Vicesimus,Spanky's Fast Cars,4315.998167877572,15,Unknown,52
+4,8,4,Beta_Secundus,Red Velvet Racing,4317.481311993562,12,Unknown,52
+4,8,5,Kappa_Decimus,Red Velvet Racing,4331.604446653217,10,Unknown,52
+4,8,6,Iota_Nonus,DNF Finishers,4333.100311679436,8,Unknown,52
+4,8,7,Mu_Duodecimus,Boba Tea Gnarly Automotives,4354.0702659761955,6,Unknown,52
+4,8,8,Alpha_Primus,TurboToast Racing,4360.507265586851,4,Unknown,52
+4,8,9,Xi_Quattuordecim,LDCMWEBLGTBWLS,4361.669356357852,2,Unknown,52
+4,8,10,Sigma_Duodevicesimus,TurboToast Racing,4361.9579572233215,1,Unknown,52
+4,8,11,Eta_Septimus,Crashout Formula One,4368.799643829752,0,Unknown,52
+4,8,12,Epsilon_Quintus,Lag's 200 Ping Power,4376.555303432152,0,Unknown,52
+4,8,13,Omicron_Quindecim,B2B SaaS Motorsport,4376.5574849418745,0,Unknown,52
+4,8,14,Rho_Septendecim,Tapped In Team,4379.030630773196,0,Unknown,52
+4,8,15,Zeta_Sextus,Lag's 200 Ping Power,10665.123174588014,0,Unknown,52
+4,8,16,Nu_Tredecimus,B2B SaaS Motorsport,22642.277269316157,0,Unknown,52
+4,8,17,Pi_Sedecim,Spanky's Fast Cars,32629.03591276544,0,Unknown,52
+4,8,18,Lambda_Undecimus,Tapped In Team,34469.86443500313,0,Unknown,52
+4,8,19,Gamma_Tertius,Boba Tea Gnarly Automotives,46470.13227094097,0,Unknown,52
+4,8,20,Delta_Quartus,DNF Finishers,46470.254655847646,0,Unknown,52
+4,9,1,Rho_Septendecim,Tapped In Team,3733.0270488086744,25,Sunny,54
+4,9,2,Omicron_Quindecim,B2B SaaS Motorsport,3734.09040401667,18,Sunny,54
+4,9,3,Epsilon_Quintus,Lag's 200 Ping Power,3736.0592114315355,15,Sunny,54
+4,9,4,Lambda_Undecimus,Tapped In Team,3741.7384034545903,12,Sunny,54
+4,9,5,Pi_Sedecim,Spanky's Fast Cars,3742.0558462647714,10,Sunny,54
+4,9,6,Alpha_Primus,TurboToast Racing,3742.382384758561,8,Sunny,54
+4,9,7,Xi_Quattuordecim,LDCMWEBLGTBWLS,3743.03443160821,6,Sunny,54
+4,9,8,Eta_Septimus,Crashout Formula One,3743.8739773873067,4,Sunny,54
+4,9,9,Mu_Duodecimus,Boba Tea Gnarly Automotives,3747.9460264947456,2,Sunny,54
+4,9,10,Zeta_Sextus,Lag's 200 Ping Power,5133.334359896463,1,Sunny,54
+4,9,11,Beta_Secundus,Red Velvet Racing,5165.963441238586,0,Sunny,54
+4,9,12,Upsilon_Vicesimus,Spanky's Fast Cars,5183.118347741355,0,Sunny,54
+4,9,13,Delta_Quartus,DNF Finishers,5225.858962735964,0,Sunny,54
+4,9,14,Nu_Tredecimus,B2B SaaS Motorsport,5228.75268155413,0,Sunny,54
+4,9,15,Sigma_Duodevicesimus,TurboToast Racing,5230.143602362103,0,Sunny,54
+4,9,16,Kappa_Decimus,Red Velvet Racing,5266.322291743717,0,Sunny,54
+4,9,17,Iota_Nonus,DNF Finishers,5269.65258198743,0,Sunny,54
+4,9,18,Tau_Undevicesimus,Crashout Formula One,5341.861861293424,0,Sunny,54
+4,9,19,Theta_Octavus,LDCMWEBLGTBWLS,5356.093323933502,0,Sunny,54
+4,9,20,Gamma_Tertius,Boba Tea Gnarly Automotives,40977.35185435536,0,Sunny,54
+4,10,1,Rho_Septendecim,Tapped In Team,4143.346219186129,25,Wet,53
+4,10,2,Pi_Sedecim,Spanky's Fast Cars,4242.2804713903715,18,Wet,53
+4,10,3,Eta_Septimus,Crashout Formula One,4525.23254077162,15,Wet,53
+4,10,4,Omicron_Quindecim,B2B SaaS Motorsport,4751.100396451865,12,Wet,53
+4,10,5,Gamma_Tertius,Boba Tea Gnarly Automotives,4758.689194903713,10,Wet,53
+4,10,6,Epsilon_Quintus,Lag's 200 Ping Power,4778.537490810917,8,Wet,53
+4,10,7,Delta_Quartus,DNF Finishers,4867.624213332161,6,Wet,53
+4,10,8,Alpha_Primus,TurboToast Racing,4876.6146535831285,4,Wet,53
+4,10,9,Zeta_Sextus,Lag's 200 Ping Power,4898.819638935567,2,Wet,53
+4,10,10,Xi_Quattuordecim,LDCMWEBLGTBWLS,4903.839238841874,1,Wet,53
+4,10,11,Tau_Undevicesimus,Crashout Formula One,4911.688560475089,0,Wet,53
+4,10,12,Theta_Octavus,LDCMWEBLGTBWLS,4966.665975867005,0,Wet,53
+4,10,13,Beta_Secundus,Red Velvet Racing,4999.005028227024,0,Wet,53
+4,10,14,Upsilon_Vicesimus,Spanky's Fast Cars,5035.634784527245,0,Wet,53
+4,10,15,Lambda_Undecimus,Tapped In Team,5256.4461854432,0,Wet,53
+4,10,16,Nu_Tredecimus,B2B SaaS Motorsport,5306.35789581016,0,Wet,53
+4,10,17,Kappa_Decimus,Red Velvet Racing,5407.704868469091,0,Wet,53
+4,10,18,Mu_Duodecimus,Boba Tea Gnarly Automotives,18367.924749423615,0,Wet,53
+4,10,19,Iota_Nonus,DNF Finishers,24164.045597688553,0,Wet,53
+4,10,20,Sigma_Duodevicesimus,TurboToast Racing,46694.62976285721,0,Wet,53
+5,1,1,Omicron_Quindecim,B2B SaaS Motorsport,3390.657615071588,25,Sunny,49
+5,1,2,Rho_Septendecim,Tapped In Team,3391.616110570162,18,Sunny,49
+5,1,3,Gamma_Tertius,Boba Tea Gnarly Automotives,3393.055668832646,15,Sunny,49
+5,1,4,Lambda_Undecimus,Tapped In Team,3394.6969749523228,12,Sunny,49
+5,1,5,Pi_Sedecim,Spanky's Fast Cars,3398.7500023767752,10,Sunny,49
+5,1,6,Eta_Septimus,Crashout Formula One,3400.2380855700876,8,Sunny,49
+5,1,7,Xi_Quattuordecim,LDCMWEBLGTBWLS,3400.8435715370997,6,Sunny,49
+5,1,8,Mu_Duodecimus,Boba Tea Gnarly Automotives,3401.606096070347,4,Sunny,49
+5,1,9,Alpha_Primus,TurboToast Racing,3403.946002238786,2,Sunny,49
+5,1,10,Zeta_Sextus,Lag's 200 Ping Power,4702.34559829751,1,Sunny,49
+5,1,11,Beta_Secundus,Red Velvet Racing,4729.677942220677,0,Sunny,49
+5,1,12,Upsilon_Vicesimus,Spanky's Fast Cars,4742.609355667521,0,Sunny,49
+5,1,13,Nu_Tredecimus,B2B SaaS Motorsport,4798.902843716554,0,Sunny,49
+5,1,14,Sigma_Duodevicesimus,TurboToast Racing,4800.5766359527515,0,Sunny,49
+5,1,15,Kappa_Decimus,Red Velvet Racing,4833.347025448083,0,Sunny,49
+5,1,16,Iota_Nonus,DNF Finishers,4836.8594464159205,0,Sunny,49
+5,1,17,Tau_Undevicesimus,Crashout Formula One,4909.031937666409,0,Sunny,49
+5,1,18,Theta_Octavus,LDCMWEBLGTBWLS,4920.213577426791,0,Sunny,49
+5,1,19,Delta_Quartus,DNF Finishers,6611.078305455477,0,Sunny,49
+5,1,20,Epsilon_Quintus,Lag's 200 Ping Power,31323.6321193935,0,Sunny,49
+5,2,1,Theta_Octavus,LDCMWEBLGTBWLS,4620.157463866912,25,Unknown,56
+5,2,2,Tau_Undevicesimus,Crashout Formula One,4672.455184205675,18,Unknown,56
+5,2,3,Upsilon_Vicesimus,Spanky's Fast Cars,4689.232905254954,15,Unknown,56
+5,2,4,Beta_Secundus,Red Velvet Racing,4690.716090506714,12,Unknown,56
+5,2,5,Iota_Nonus,DNF Finishers,4701.825533571832,10,Unknown,56
+5,2,6,Mu_Duodecimus,Boba Tea Gnarly Automotives,4709.323959688331,8,Unknown,56
+5,2,7,Pi_Sedecim,Spanky's Fast Cars,4710.38334411317,6,Unknown,56
+5,2,8,Sigma_Duodevicesimus,TurboToast Racing,4710.413340664422,4,Unknown,56
+5,2,9,Alpha_Primus,TurboToast Racing,4712.208171332097,2,Unknown,56
+5,2,10,Lambda_Undecimus,Tapped In Team,4717.63811619145,1,Unknown,56
+5,2,11,Eta_Septimus,Crashout Formula One,4718.034693411386,0,Unknown,56
+5,2,12,Epsilon_Quintus,Lag's 200 Ping Power,4721.647910322721,0,Unknown,56
+5,2,13,Gamma_Tertius,Boba Tea Gnarly Automotives,4722.731797216058,0,Unknown,56
+5,2,14,Omicron_Quindecim,B2B SaaS Motorsport,4725.393932245695,0,Unknown,56
+5,2,15,Rho_Septendecim,Tapped In Team,4726.579236016174,0,Unknown,56
+5,2,16,Nu_Tredecimus,B2B SaaS Motorsport,4898.0351787582185,0,Unknown,56
+5,2,17,Xi_Quattuordecim,LDCMWEBLGTBWLS,18310.376536319985,0,Unknown,56
+5,2,18,Kappa_Decimus,Red Velvet Racing,23716.40318374316,0,Unknown,56
+5,2,19,Zeta_Sextus,Lag's 200 Ping Power,36626.57747512457,0,Unknown,56
+5,2,20,Delta_Quartus,DNF Finishers,36626.601803447025,0,Unknown,56
+5,3,1,Rho_Septendecim,Tapped In Team,4822.6069373945875,25,Wet,63
+5,3,2,Pi_Sedecim,Spanky's Fast Cars,4927.977593310237,18,Wet,63
+5,3,3,Eta_Septimus,Crashout Formula One,5293.276342610614,15,Wet,63
+5,3,4,Mu_Duodecimus,Boba Tea Gnarly Automotives,5312.411407573209,12,Wet,63
+5,3,5,Omicron_Quindecim,B2B SaaS Motorsport,5546.330473660555,10,Wet,63
+5,3,6,Gamma_Tertius,Boba Tea Gnarly Automotives,5553.166460597594,8,Wet,63
+5,3,7,Iota_Nonus,DNF Finishers,5661.247803427204,6,Wet,63
+5,3,8,Xi_Quattuordecim,LDCMWEBLGTBWLS,5668.616667639231,4,Wet,63
+5,3,9,Sigma_Duodevicesimus,TurboToast Racing,5685.807473494933,2,Wet,63
+5,3,10,Zeta_Sextus,Lag's 200 Ping Power,5705.051846000832,1,Wet,63
+5,3,11,Tau_Undevicesimus,Crashout Formula One,5721.421362299126,0,Wet,63
+5,3,12,Theta_Octavus,LDCMWEBLGTBWLS,5772.764383830045,0,Wet,63
+5,3,13,Beta_Secundus,Red Velvet Racing,5799.2725470004125,0,Wet,63
+5,3,14,Lambda_Undecimus,Tapped In Team,6037.130848233134,0,Wet,63
+5,3,15,Nu_Tredecimus,B2B SaaS Motorsport,6147.233630220258,0,Wet,63
+5,3,16,Kappa_Decimus,Red Velvet Racing,6231.191751582476,0,Wet,63
+5,3,17,Upsilon_Vicesimus,Spanky's Fast Cars,12263.545367964543,0,Wet,63
+5,3,18,Delta_Quartus,DNF Finishers,21304.736227412457,0,Wet,63
+5,3,19,Alpha_Primus,TurboToast Racing,34979.248885844194,0,Wet,63
+5,3,20,Epsilon_Quintus,Lag's 200 Ping Power,41310.14739275887,0,Wet,63
+5,4,1,Rho_Septendecim,Tapped In Team,4624.846531056885,25,Wet,60
+5,4,2,Pi_Sedecim,Spanky's Fast Cars,4724.584532050212,18,Wet,60
+5,4,3,Eta_Septimus,Crashout Formula One,5062.040004952382,15,Wet,60
+5,4,4,Mu_Duodecimus,Boba Tea Gnarly Automotives,5082.381932849159,12,Wet,60
+5,4,5,Omicron_Quindecim,B2B SaaS Motorsport,5308.530040023469,10,Wet,60
+5,4,6,Gamma_Tertius,Boba Tea Gnarly Automotives,5319.866132555526,8,Wet,60
+5,4,7,Iota_Nonus,DNF Finishers,5428.383902620557,6,Wet,60
+5,4,8,Alpha_Primus,TurboToast Racing,5430.936958853623,4,Wet,60
+5,4,9,Delta_Quartus,DNF Finishers,5433.951514522897,2,Wet,60
+5,4,10,Xi_Quattuordecim,LDCMWEBLGTBWLS,5439.7334113044035,1,Wet,60
+5,4,11,Zeta_Sextus,Lag's 200 Ping Power,5465.728065797663,0,Wet,60
+5,4,12,Tau_Undevicesimus,Crashout Formula One,5474.311377800917,0,Wet,60
+5,4,13,Theta_Octavus,LDCMWEBLGTBWLS,5531.08091359378,0,Wet,60
+5,4,14,Lambda_Undecimus,Tapped In Team,5802.952601233074,0,Wet,60
+5,4,15,Nu_Tredecimus,B2B SaaS Motorsport,5900.373892406828,0,Wet,60
+5,4,16,Kappa_Decimus,Red Velvet Racing,5987.356586792829,0,Wet,60
+5,4,17,Beta_Secundus,Red Velvet Racing,20234.849855909757,0,Wet,60
+5,4,18,Upsilon_Vicesimus,Spanky's Fast Cars,20237.95539842586,0,Wet,60
+5,4,19,Epsilon_Quintus,Lag's 200 Ping Power,34690.63374155025,0,Wet,60
+5,4,20,Sigma_Duodevicesimus,TurboToast Racing,50982.15063085008,0,Wet,60
+5,5,1,Rho_Septendecim,Tapped In Team,5465.213642781214,25,Sunny,79
+5,5,2,Gamma_Tertius,Boba Tea Gnarly Automotives,5465.797227330126,18,Sunny,79
+5,5,3,Lambda_Undecimus,Tapped In Team,5470.8357935286995,15,Sunny,79
+5,5,4,Alpha_Primus,TurboToast Racing,5472.613396174889,12,Sunny,79
+5,5,5,Mu_Duodecimus,Boba Tea Gnarly Automotives,5477.608877469293,10,Sunny,79
+5,5,6,Zeta_Sextus,Lag's 200 Ping Power,7185.825256907445,8,Sunny,79
+5,5,7,Iota_Nonus,DNF Finishers,7284.6015941421365,6,Sunny,79
+5,5,8,Sigma_Duodevicesimus,TurboToast Racing,7293.190044026177,4,Sunny,79
+5,5,9,Kappa_Decimus,Red Velvet Racing,7318.717829909299,2,Sunny,79
+5,5,10,Nu_Tredecimus,B2B SaaS Motorsport,7329.01210659264,1,Sunny,79
+5,5,11,Tau_Undevicesimus,Crashout Formula One,7442.401904699727,0,Sunny,79
+5,5,12,Delta_Quartus,DNF Finishers,13725.900771116296,0,Sunny,79
+5,5,13,Upsilon_Vicesimus,Spanky's Fast Cars,14609.097000598103,0,Sunny,79
+5,5,14,Eta_Septimus,Crashout Formula One,23155.953918538456,0,Sunny,79
+5,5,15,Epsilon_Quintus,Lag's 200 Ping Power,23156.139800625017,0,Sunny,79
+5,5,16,Xi_Quattuordecim,LDCMWEBLGTBWLS,38058.886911154295,0,Sunny,79
+5,5,17,Theta_Octavus,LDCMWEBLGTBWLS,50356.641820212746,0,Sunny,79
+5,5,18,Beta_Secundus,Red Velvet Racing,66370.92258456167,0,Sunny,79
+5,5,19,Pi_Sedecim,Spanky's Fast Cars,72487.29381130269,0,Sunny,79
+5,5,20,Omicron_Quindecim,B2B SaaS Motorsport,72487.35802479874,0,Sunny,79
+5,6,1,Tau_Undevicesimus,Crashout Formula One,4281.506430931183,25,Unknown,52
+5,6,2,Beta_Secundus,Red Velvet Racing,4317.383509223183,18,Unknown,52
+5,6,3,Upsilon_Vicesimus,Spanky's Fast Cars,4320.6018682039585,15,Unknown,52
+5,6,4,Kappa_Decimus,Red Velvet Racing,4329.836987151296,12,Unknown,52
+5,6,5,Mu_Duodecimus,Boba Tea Gnarly Automotives,4352.73529037938,10,Unknown,52
+5,6,6,Alpha_Primus,TurboToast Racing,4357.81942915456,8,Unknown,52
+5,6,7,Xi_Quattuordecim,LDCMWEBLGTBWLS,4359.2622897627525,6,Unknown,52
+5,6,8,Pi_Sedecim,Spanky's Fast Cars,4362.105556752617,4,Unknown,52
+5,6,9,Sigma_Duodevicesimus,TurboToast Racing,4362.311566572507,2,Unknown,52
+5,6,10,Eta_Septimus,Crashout Formula One,4365.06189844472,1,Unknown,52
+5,6,11,Gamma_Tertius,Boba Tea Gnarly Automotives,4368.983912324267,0,Unknown,52
+5,6,12,Epsilon_Quintus,Lag's 200 Ping Power,4374.564163131967,0,Unknown,52
+5,6,13,Omicron_Quindecim,B2B SaaS Motorsport,4375.638849699886,0,Unknown,52
+5,6,14,Rho_Septendecim,Tapped In Team,4381.224140175145,0,Unknown,52
+5,6,15,Nu_Tredecimus,B2B SaaS Motorsport,4555.3651131653405,0,Unknown,52
+5,6,16,Iota_Nonus,DNF Finishers,17873.55792383045,0,Unknown,52
+5,6,17,Theta_Octavus,LDCMWEBLGTBWLS,17875.310483652025,0,Unknown,52
+5,6,18,Delta_Quartus,DNF Finishers,21558.465533811606,0,Unknown,52
+5,6,19,Zeta_Sextus,Lag's 200 Ping Power,34471.99816368392,0,Unknown,52
+5,6,20,Lambda_Undecimus,Tapped In Team,41856.13848355476,0,Unknown,52
+5,7,1,Omicron_Quindecim,B2B SaaS Motorsport,5047.963245532506,25,Sunny,73
+5,7,2,Rho_Septendecim,Tapped In Team,5048.903048447529,18,Sunny,73
+5,7,3,Gamma_Tertius,Boba Tea Gnarly Automotives,5049.15599565309,15,Sunny,73
+5,7,4,Lambda_Undecimus,Tapped In Team,5051.563984096515,12,Sunny,73
+5,7,5,Xi_Quattuordecim,LDCMWEBLGTBWLS,5053.48560106361,10,Sunny,73
+5,7,6,Mu_Duodecimus,Boba Tea Gnarly Automotives,5054.82783413108,8,Sunny,73
+5,7,7,Zeta_Sextus,Lag's 200 Ping Power,6713.791772795043,6,Sunny,73
+5,7,8,Delta_Quartus,DNF Finishers,6802.903961925287,4,Sunny,73
+5,7,9,Sigma_Duodevicesimus,TurboToast Racing,6830.329080444329,2,Sunny,73
+5,7,10,Nu_Tredecimus,B2B SaaS Motorsport,6852.686987013556,1,Sunny,73
+5,7,11,Tau_Undevicesimus,Crashout Formula One,6955.806437449109,0,Sunny,73
+5,7,12,Theta_Octavus,LDCMWEBLGTBWLS,7002.889034711806,0,Sunny,73
+5,7,13,Beta_Secundus,Red Velvet Racing,14101.489635558783,0,Sunny,73
+5,7,14,Kappa_Decimus,Red Velvet Racing,38848.76896456589,0,Sunny,73
+5,7,15,Iota_Nonus,DNF Finishers,38854.02160573653,0,Sunny,73
+5,7,16,Alpha_Primus,TurboToast Racing,44157.11528147156,0,Sunny,73
+5,7,17,Eta_Septimus,Crashout Formula One,47876.18934003201,0,Sunny,73
+5,7,18,Pi_Sedecim,Spanky's Fast Cars,47876.19082955805,0,Sunny,73
+5,7,19,Upsilon_Vicesimus,Spanky's Fast Cars,54052.66626307388,0,Sunny,73
+5,7,20,Epsilon_Quintus,Lag's 200 Ping Power,55322.39943663931,0,Sunny,73
+5,8,1,Omicron_Quindecim,B2B SaaS Motorsport,3598.2674539904697,25,Sunny,52
+5,8,2,Lambda_Undecimus,Tapped In Team,3600.8873636013604,18,Sunny,52
+5,8,3,Rho_Septendecim,Tapped In Team,3601.4452697261936,15,Sunny,52
+5,8,4,Pi_Sedecim,Spanky's Fast Cars,3601.6298395368585,12,Sunny,52
+5,8,5,Alpha_Primus,TurboToast Racing,3606.5283497053874,10,Sunny,52
+5,8,6,Xi_Quattuordecim,LDCMWEBLGTBWLS,3607.6946167724177,8,Sunny,52
+5,8,7,Eta_Septimus,Crashout Formula One,3609.127967125925,6,Sunny,52
+5,8,8,Mu_Duodecimus,Boba Tea Gnarly Automotives,3610.3249183718076,4,Sunny,52
+5,8,9,Zeta_Sextus,Lag's 200 Ping Power,4959.530430457741,2,Sunny,52
+5,8,10,Beta_Secundus,Red Velvet Racing,4992.900250928707,1,Sunny,52
+5,8,11,Upsilon_Vicesimus,Spanky's Fast Cars,5009.572407332183,0,Sunny,52
+5,8,12,Delta_Quartus,DNF Finishers,5047.850140559281,0,Sunny,52
+5,8,13,Nu_Tredecimus,B2B SaaS Motorsport,5057.655320222806,0,Sunny,52
+5,8,14,Sigma_Duodevicesimus,TurboToast Racing,5058.348406493588,0,Sunny,52
+5,8,15,Iota_Nonus,DNF Finishers,5092.964983045289,0,Sunny,52
+5,8,16,Kappa_Decimus,Red Velvet Racing,5094.940389270001,0,Sunny,52
+5,8,17,Tau_Undevicesimus,Crashout Formula One,5166.696268027801,0,Sunny,52
+5,8,18,Theta_Octavus,LDCMWEBLGTBWLS,5187.586235820453,0,Sunny,52
+5,8,19,Gamma_Tertius,Boba Tea Gnarly Automotives,5461.758665826327,0,Sunny,52
+5,8,20,Epsilon_Quintus,Lag's 200 Ping Power,10116.441522353554,0,Sunny,52
+5,9,1,Theta_Octavus,LDCMWEBLGTBWLS,6509.507976371364,25,Unknown,77
+5,9,2,Beta_Secundus,Red Velvet Racing,6525.301739676124,18,Unknown,77
+5,9,3,Tau_Undevicesimus,Crashout Formula One,6525.306579227722,15,Unknown,77
+5,9,4,Kappa_Decimus,Red Velvet Racing,6525.59621370869,12,Unknown,77
+5,9,5,Upsilon_Vicesimus,Spanky's Fast Cars,6526.2149625088805,10,Unknown,77
+5,9,6,Zeta_Sextus,Lag's 200 Ping Power,6534.037413413821,8,Unknown,77
+5,9,7,Iota_Nonus,DNF Finishers,6534.226598428373,6,Unknown,77
+5,9,8,Delta_Quartus,DNF Finishers,6536.064710681488,4,Unknown,77
+5,9,9,Sigma_Duodevicesimus,TurboToast Racing,6536.187878447511,2,Unknown,77
+5,9,10,Pi_Sedecim,Spanky's Fast Cars,6537.983402083048,1,Unknown,77
+5,9,11,Lambda_Undecimus,Tapped In Team,6543.047980228842,0,Unknown,77
+5,9,12,Eta_Septimus,Crashout Formula One,6543.182576225467,0,Unknown,77
+5,9,13,Epsilon_Quintus,Lag's 200 Ping Power,6545.726909293311,0,Unknown,77
+5,9,14,Gamma_Tertius,Boba Tea Gnarly Automotives,6546.006900742158,0,Unknown,77
+5,9,15,Omicron_Quindecim,B2B SaaS Motorsport,19328.39849135406,0,Unknown,77
+5,9,16,Nu_Tredecimus,B2B SaaS Motorsport,19508.780850627954,0,Unknown,77
+5,9,17,Mu_Duodecimus,Boba Tea Gnarly Automotives,45641.17116138158,0,Unknown,77
+5,9,18,Rho_Septendecim,Tapped In Team,60394.18433201486,0,Unknown,77
+5,9,19,Alpha_Primus,TurboToast Racing,60394.29332573044,0,Unknown,77
+5,9,20,Xi_Quattuordecim,LDCMWEBLGTBWLS,74237.50506733064,0,Unknown,77
+5,10,1,Tau_Undevicesimus,Crashout Formula One,6433.358670408161,25,Unknown,76
+5,10,2,Kappa_Decimus,Red Velvet Racing,6437.000021196728,18,Unknown,76
+5,10,3,Upsilon_Vicesimus,Spanky's Fast Cars,6437.6413190796575,15,Unknown,76
+5,10,4,Beta_Secundus,Red Velvet Racing,6439.0790028245,12,Unknown,76
+5,10,5,Zeta_Sextus,Lag's 200 Ping Power,6441.48693950295,10,Unknown,76
+5,10,6,Iota_Nonus,DNF Finishers,6445.6709543085435,8,Unknown,76
+5,10,7,Sigma_Duodevicesimus,TurboToast Racing,6446.120000129099,6,Unknown,76
+5,10,8,Alpha_Primus,TurboToast Racing,6447.494878734317,4,Unknown,76
+5,10,9,Xi_Quattuordecim,LDCMWEBLGTBWLS,6450.191506073294,2,Unknown,76
+5,10,10,Delta_Quartus,DNF Finishers,6453.604159700259,1,Unknown,76
+5,10,11,Lambda_Undecimus,Tapped In Team,6454.694824156395,0,Unknown,76
+5,10,12,Eta_Septimus,Crashout Formula One,6455.563414573403,0,Unknown,76
+5,10,13,Omicron_Quindecim,B2B SaaS Motorsport,6462.495937984321,0,Unknown,76
+5,10,14,Rho_Septendecim,Tapped In Team,6462.643572174113,0,Unknown,76
+5,10,15,Epsilon_Quintus,Lag's 200 Ping Power,6468.940074223079,0,Unknown,76
+5,10,16,Nu_Tredecimus,B2B SaaS Motorsport,6636.820953088933,0,Unknown,76
+5,10,17,Pi_Sedecim,Spanky's Fast Cars,18319.338070797938,0,Unknown,76
+5,10,18,Mu_Duodecimus,Boba Tea Gnarly Automotives,18319.404510466964,0,Unknown,76
+5,10,19,Gamma_Tertius,Boba Tea Gnarly Automotives,21065.997100831384,0,Unknown,76
+5,10,20,Theta_Octavus,LDCMWEBLGTBWLS,69549.54863047476,0,Unknown,76
+6,1,1,Rho_Septendecim,Tapped In Team,5632.097417733107,25,Wet,76
+6,1,2,Eta_Septimus,Crashout Formula One,6301.282654075532,18,Wet,76
+6,1,3,Epsilon_Quintus,Lag's 200 Ping Power,6552.142766278379,15,Wet,76
+6,1,4,Gamma_Tertius,Boba Tea Gnarly Automotives,6575.151139766349,12,Wet,76
+6,1,5,Xi_Quattuordecim,LDCMWEBLGTBWLS,6666.293187269441,10,Wet,76
+6,1,6,Alpha_Primus,TurboToast Racing,6667.1613268749325,8,Wet,76
+6,1,7,Iota_Nonus,DNF Finishers,6686.289318405191,6,Wet,76
+6,1,8,Delta_Quartus,DNF Finishers,6713.1325888646015,4,Wet,76
+6,1,9,Sigma_Duodevicesimus,TurboToast Racing,6725.145117570155,2,Wet,76
+6,1,10,Zeta_Sextus,Lag's 200 Ping Power,6755.39430810519,1,Wet,76
+6,1,11,Tau_Undevicesimus,Crashout Formula One,6769.614291397217,0,Wet,76
+6,1,12,Upsilon_Vicesimus,Spanky's Fast Cars,6821.152823632884,0,Wet,76
+6,1,13,Theta_Octavus,LDCMWEBLGTBWLS,6822.658119729739,0,Wet,76
+6,1,14,Beta_Secundus,Red Velvet Racing,6837.4734901881475,0,Wet,76
+6,1,15,Lambda_Undecimus,Tapped In Team,7039.3283574951465,0,Wet,76
+6,1,16,Kappa_Decimus,Red Velvet Racing,7262.860620826708,0,Wet,76
+6,1,17,Mu_Duodecimus,Boba Tea Gnarly Automotives,54076.45302728799,0,Wet,76
+6,1,18,Pi_Sedecim,Spanky's Fast Cars,54116.84814346956,0,Wet,76
+6,1,19,Omicron_Quindecim,B2B SaaS Motorsport,60784.43279267353,0,Wet,76
+6,1,20,Nu_Tredecimus,B2B SaaS Motorsport,60911.4292280823,0,Wet,76
+6,2,1,Theta_Octavus,LDCMWEBLGTBWLS,5726.123479544349,25,Unknown,68
+6,2,2,Tau_Undevicesimus,Crashout Formula One,5738.034026579714,18,Unknown,68
+6,2,3,Upsilon_Vicesimus,Spanky's Fast Cars,5741.8532389432075,15,Unknown,68
+6,2,4,Zeta_Sextus,Lag's 200 Ping Power,5745.862451686926,12,Unknown,68
+6,2,5,Iota_Nonus,DNF Finishers,5748.098875059319,10,Unknown,68
+6,2,6,Xi_Quattuordecim,LDCMWEBLGTBWLS,5749.877981932536,8,Unknown,68
+6,2,7,Sigma_Duodevicesimus,TurboToast Racing,5753.145105039339,6,Unknown,68
+6,2,8,Alpha_Primus,TurboToast Racing,5756.445521101696,4,Unknown,68
+6,2,9,Lambda_Undecimus,Tapped In Team,5756.920083403551,2,Unknown,68
+6,2,10,Gamma_Tertius,Boba Tea Gnarly Automotives,5761.09790479695,1,Unknown,68
+6,2,11,Omicron_Quindecim,B2B SaaS Motorsport,5766.559458539526,0,Unknown,68
+6,2,12,Rho_Septendecim,Tapped In Team,5768.505557407574,0,Unknown,68
+6,2,13,Epsilon_Quintus,Lag's 200 Ping Power,5768.864399697297,0,Unknown,68
+6,2,14,Nu_Tredecimus,B2B SaaS Motorsport,5938.480969784424,0,Unknown,68
+6,2,15,Eta_Septimus,Crashout Formula One,33881.842073545726,0,Unknown,68
+6,2,16,Kappa_Decimus,Red Velvet Racing,42173.966741457356,0,Unknown,68
+6,2,17,Pi_Sedecim,Spanky's Fast Cars,42174.08333224157,0,Unknown,68
+6,2,18,Mu_Duodecimus,Boba Tea Gnarly Automotives,52319.15611414214,0,Unknown,68
+6,2,19,Beta_Secundus,Red Velvet Racing,63393.71326409235,0,Unknown,68
+6,2,20,Delta_Quartus,DNF Finishers,63393.90864328645,0,Unknown,68
+6,3,1,Theta_Octavus,LDCMWEBLGTBWLS,3590.6410218207707,25,Unknown,46
+6,3,2,Tau_Undevicesimus,Crashout Formula One,3657.685718927112,18,Unknown,46
+6,3,3,Beta_Secundus,Red Velvet Racing,3713.57070076492,15,Unknown,46
+6,3,4,Upsilon_Vicesimus,Spanky's Fast Cars,3718.2438239558296,12,Unknown,46
+6,3,5,Iota_Nonus,DNF Finishers,3740.5183359998655,10,Unknown,46
+6,3,6,Kappa_Decimus,Red Velvet Racing,3748.9837324845535,8,Unknown,46
+6,3,7,Zeta_Sextus,Lag's 200 Ping Power,3765.090347532079,6,Unknown,46
+6,3,8,Xi_Quattuordecim,LDCMWEBLGTBWLS,3811.1734456670097,4,Unknown,46
+6,3,9,Sigma_Duodevicesimus,TurboToast Racing,3814.2636354031238,2,Unknown,46
+6,3,10,Delta_Quartus,DNF Finishers,3817.195772787748,1,Unknown,46
+6,3,11,Lambda_Undecimus,Tapped In Team,3819.9866958434473,0,Unknown,46
+6,3,12,Gamma_Tertius,Boba Tea Gnarly Automotives,3844.171429952969,0,Unknown,46
+6,3,13,Epsilon_Quintus,Lag's 200 Ping Power,3852.181997708331,0,Unknown,46
+6,3,14,Omicron_Quindecim,B2B SaaS Motorsport,3855.208044185879,0,Unknown,46
+6,3,15,Rho_Septendecim,Tapped In Team,3859.2554091727825,0,Unknown,46
+6,3,16,Nu_Tredecimus,B2B SaaS Motorsport,4034.6485587134207,0,Unknown,46
+6,3,17,Eta_Septimus,Crashout Formula One,4711.783578627951,0,Unknown,46
+6,3,18,Alpha_Primus,TurboToast Racing,5586.181806278308,0,Unknown,46
+6,3,19,Mu_Duodecimus,Boba Tea Gnarly Automotives,27547.283867518,0,Unknown,46
+6,3,20,Pi_Sedecim,Spanky's Fast Cars,33087.13601428431,0,Unknown,46
+6,4,1,Beta_Secundus,Red Velvet Racing,3028.0718595555823,25,Unknown,39
+6,4,2,Theta_Octavus,LDCMWEBLGTBWLS,3029.4456949106766,18,Unknown,39
+6,4,3,Upsilon_Vicesimus,Spanky's Fast Cars,3029.470159545247,15,Unknown,39
+6,4,4,Kappa_Decimus,Red Velvet Racing,3029.8681210942273,12,Unknown,39
+6,4,5,Iota_Nonus,DNF Finishers,3030.557919827489,10,Unknown,39
+6,4,6,Mu_Duodecimus,Boba Tea Gnarly Automotives,3054.468663354384,8,Unknown,39
+6,4,7,Alpha_Primus,TurboToast Racing,3060.301589451872,6,Unknown,39
+6,4,8,Eta_Septimus,Crashout Formula One,3082.741256720624,4,Unknown,39
+6,4,9,Sigma_Duodevicesimus,TurboToast Racing,3093.8352267331043,2,Unknown,39
+6,4,10,Xi_Quattuordecim,LDCMWEBLGTBWLS,3094.9878214613827,1,Unknown,39
+6,4,11,Delta_Quartus,DNF Finishers,3104.359022630089,0,Unknown,39
+6,4,12,Lambda_Undecimus,Tapped In Team,3107.4411982717315,0,Unknown,39
+6,4,13,Gamma_Tertius,Boba Tea Gnarly Automotives,3163.599456453445,0,Unknown,39
+6,4,14,Epsilon_Quintus,Lag's 200 Ping Power,3190.783879664788,0,Unknown,39
+6,4,15,Omicron_Quindecim,B2B SaaS Motorsport,3200.1773008132664,0,Unknown,39
+6,4,16,Rho_Septendecim,Tapped In Team,3218.0634351654962,0,Unknown,39
+6,4,17,Nu_Tredecimus,B2B SaaS Motorsport,3365.6699169940825,0,Unknown,39
+6,4,18,Tau_Undevicesimus,Crashout Formula One,7641.1758478545535,0,Unknown,39
+6,4,19,Zeta_Sextus,Lag's 200 Ping Power,28856.904479370653,0,Unknown,39
+6,4,20,Pi_Sedecim,Spanky's Fast Cars,36237.9087653637,0,Unknown,39
+6,5,1,Upsilon_Vicesimus,Spanky's Fast Cars,2790.294537838815,25,Unknown,36
+6,5,2,Kappa_Decimus,Red Velvet Racing,2790.9147540245363,18,Unknown,36
+6,5,3,Iota_Nonus,DNF Finishers,2795.152015371885,15,Unknown,36
+6,5,4,Mu_Duodecimus,Boba Tea Gnarly Automotives,2795.280721904615,12,Unknown,36
+6,5,5,Eta_Septimus,Crashout Formula One,2795.680721570644,10,Unknown,36
+6,5,6,Zeta_Sextus,Lag's 200 Ping Power,2795.7391576972886,8,Unknown,36
+6,5,7,Beta_Secundus,Red Velvet Racing,2796.1989213374586,6,Unknown,36
+6,5,8,Tau_Undevicesimus,Crashout Formula One,2796.3092903139377,4,Unknown,36
+6,5,9,Alpha_Primus,TurboToast Racing,2796.928872603664,2,Unknown,36
+6,5,10,Xi_Quattuordecim,LDCMWEBLGTBWLS,2796.9549491805687,1,Unknown,36
+6,5,11,Theta_Octavus,LDCMWEBLGTBWLS,2797.56671708578,0,Unknown,36
+6,5,12,Lambda_Undecimus,Tapped In Team,2798.080565469963,0,Unknown,36
+6,5,13,Delta_Quartus,DNF Finishers,2798.6691666797824,0,Unknown,36
+6,5,14,Sigma_Duodevicesimus,TurboToast Racing,2802.201945443048,0,Unknown,36
+6,5,15,Pi_Sedecim,Spanky's Fast Cars,2805.3564549059993,0,Unknown,36
+6,5,16,Gamma_Tertius,Boba Tea Gnarly Automotives,2840.769578098012,0,Unknown,36
+6,5,17,Epsilon_Quintus,Lag's 200 Ping Power,2878.5497652417016,0,Unknown,36
+6,5,18,Omicron_Quindecim,B2B SaaS Motorsport,2892.0976949298206,0,Unknown,36
+6,5,19,Rho_Septendecim,Tapped In Team,2921.232369416296,0,Unknown,36
+6,5,20,Nu_Tredecimus,B2B SaaS Motorsport,3052.1594360513227,0,Unknown,36
+6,6,1,Theta_Octavus,LDCMWEBLGTBWLS,4908.330272534005,25,Unknown,59
+6,6,2,Tau_Undevicesimus,Crashout Formula One,4950.436974342132,18,Unknown,59
+6,6,3,Upsilon_Vicesimus,Spanky's Fast Cars,4957.643615386638,15,Unknown,59
+6,6,4,Kappa_Decimus,Red Velvet Racing,4957.761267033668,12,Unknown,59
+6,6,5,Beta_Secundus,Red Velvet Racing,4960.092870242348,10,Unknown,59
+6,6,6,Iota_Nonus,DNF Finishers,4961.821264902401,8,Unknown,59
+6,6,7,Zeta_Sextus,Lag's 200 Ping Power,4964.3169035880255,6,Unknown,59
+6,6,8,Mu_Duodecimus,Boba Tea Gnarly Automotives,4968.508202326094,4,Unknown,59
+6,6,9,Pi_Sedecim,Spanky's Fast Cars,4970.101014246891,2,Unknown,59
+6,6,10,Xi_Quattuordecim,LDCMWEBLGTBWLS,4971.282393076769,1,Unknown,59
+6,6,11,Alpha_Primus,TurboToast Racing,4973.2135595276195,0,Unknown,59
+6,6,12,Lambda_Undecimus,Tapped In Team,4979.203295978456,0,Unknown,59
+6,6,13,Omicron_Quindecim,B2B SaaS Motorsport,4982.975317395132,0,Unknown,59
+6,6,14,Gamma_Tertius,Boba Tea Gnarly Automotives,4983.978851795901,0,Unknown,59
+6,6,15,Rho_Septendecim,Tapped In Team,4985.6997452074065,0,Unknown,59
+6,6,16,Nu_Tredecimus,B2B SaaS Motorsport,5157.341662513949,0,Unknown,59
+6,6,17,Sigma_Duodevicesimus,TurboToast Racing,13187.181899158522,0,Unknown,59
+6,6,18,Eta_Septimus,Crashout Formula One,13188.268577508748,0,Unknown,59
+6,6,19,Epsilon_Quintus,Lag's 200 Ping Power,33171.24545837655,0,Unknown,59
+6,6,20,Delta_Quartus,DNF Finishers,37786.669262927746,0,Unknown,59
+6,7,1,Rho_Septendecim,Tapped In Team,5043.1599684601415,25,Sunny,73
+6,7,2,Epsilon_Quintus,Lag's 200 Ping Power,5050.275832485732,18,Sunny,73
+6,7,3,Omicron_Quindecim,B2B SaaS Motorsport,5050.441122838639,15,Sunny,73
+6,7,4,Lambda_Undecimus,Tapped In Team,5052.909731852451,12,Sunny,73
+6,7,5,Mu_Duodecimus,Boba Tea Gnarly Automotives,5055.586703833613,10,Sunny,73
+6,7,6,Xi_Quattuordecim,LDCMWEBLGTBWLS,5057.135167751173,8,Sunny,73
+6,7,7,Pi_Sedecim,Spanky's Fast Cars,5057.3607843221,6,Sunny,73
+6,7,8,Alpha_Primus,TurboToast Racing,5058.859920037673,4,Sunny,73
+6,7,9,Zeta_Sextus,Lag's 200 Ping Power,6718.34524692388,2,Sunny,73
+6,7,10,Upsilon_Vicesimus,Spanky's Fast Cars,6765.480412778874,1,Sunny,73
+6,7,11,Delta_Quartus,DNF Finishers,6800.365678360588,0,Sunny,73
+6,7,12,Nu_Tredecimus,B2B SaaS Motorsport,6847.035865118162,0,Sunny,73
+6,7,13,Kappa_Decimus,Red Velvet Racing,6854.320864361507,0,Sunny,73
+6,7,14,Tau_Undevicesimus,Crashout Formula One,6955.243468009535,0,Sunny,73
+6,7,15,Theta_Octavus,LDCMWEBLGTBWLS,7002.687653535133,0,Sunny,73
+6,7,16,Beta_Secundus,Red Velvet Racing,10411.830567603249,0,Sunny,73
+6,7,17,Sigma_Duodevicesimus,TurboToast Racing,16933.823278834112,0,Sunny,73
+6,7,18,Iota_Nonus,DNF Finishers,16957.44918677056,0,Sunny,73
+6,7,19,Gamma_Tertius,Boba Tea Gnarly Automotives,40431.647710420235,0,Sunny,73
+6,7,20,Eta_Septimus,Crashout Formula One,63698.61988017077,0,Sunny,73
+6,8,1,Rho_Septendecim,Tapped In Team,3457.6234381602735,25,Sunny,50
+6,8,2,Omicron_Quindecim,B2B SaaS Motorsport,3460.913913198773,18,Sunny,50
+6,8,3,Gamma_Tertius,Boba Tea Gnarly Automotives,3460.9605495747,15,Sunny,50
+6,8,4,Pi_Sedecim,Spanky's Fast Cars,3465.6069995227936,12,Sunny,50
+6,8,5,Lambda_Undecimus,Tapped In Team,3465.7774226377787,10,Sunny,50
+6,8,6,Eta_Septimus,Crashout Formula One,3468.828251633599,8,Sunny,50
+6,8,7,Xi_Quattuordecim,LDCMWEBLGTBWLS,3468.9967259741898,6,Sunny,50
+6,8,8,Zeta_Sextus,Lag's 200 Ping Power,4783.183805435752,4,Sunny,50
+6,8,9,Beta_Secundus,Red Velvet Racing,4818.1582303187415,2,Sunny,50
+6,8,10,Upsilon_Vicesimus,Spanky's Fast Cars,4835.340952832059,1,Sunny,50
+6,8,11,Delta_Quartus,DNF Finishers,4871.1693199302235,0,Sunny,50
+6,8,12,Kappa_Decimus,Red Velvet Racing,4916.257086973908,0,Sunny,50
+6,8,13,Iota_Nonus,DNF Finishers,4922.384905692814,0,Sunny,50
+6,8,14,Theta_Octavus,LDCMWEBLGTBWLS,5010.24563119997,0,Sunny,50
+6,8,15,Epsilon_Quintus,Lag's 200 Ping Power,16500.16445787834,0,Sunny,50
+6,8,16,Nu_Tredecimus,B2B SaaS Motorsport,22187.7808123103,0,Sunny,50
+6,8,17,Alpha_Primus,TurboToast Racing,30462.667123585114,0,Sunny,50
+6,8,18,Mu_Duodecimus,Boba Tea Gnarly Automotives,30463.061341430326,0,Sunny,50
+6,8,19,Tau_Undevicesimus,Crashout Formula One,44660.46262892844,0,Sunny,50
+6,8,20,Sigma_Duodevicesimus,TurboToast Racing,44660.59813685336,0,Sunny,50
+6,9,1,Rho_Septendecim,Tapped In Team,4078.021965401117,25,Sunny,59
+6,9,2,Epsilon_Quintus,Lag's 200 Ping Power,4080.2471283954224,18,Sunny,59
+6,9,3,Gamma_Tertius,Boba Tea Gnarly Automotives,4081.903725537319,15,Sunny,59
+6,9,4,Mu_Duodecimus,Boba Tea Gnarly Automotives,4088.0267817694285,12,Sunny,59
+6,9,5,Eta_Septimus,Crashout Formula One,4088.160922408369,10,Sunny,59
+6,9,6,Alpha_Primus,TurboToast Racing,4090.893227471037,8,Sunny,59
+6,9,7,Xi_Quattuordecim,LDCMWEBLGTBWLS,4091.2574144895198,6,Sunny,59
+6,9,8,Beta_Secundus,Red Velvet Racing,5598.814766956786,4,Sunny,59
+6,9,9,Delta_Quartus,DNF Finishers,5660.637566335898,2,Sunny,59
+6,9,10,Nu_Tredecimus,B2B SaaS Motorsport,5663.139627428735,1,Sunny,59
+6,9,11,Sigma_Duodevicesimus,TurboToast Racing,5669.764357818792,0,Sunny,59
+6,9,12,Iota_Nonus,DNF Finishers,5705.190104269924,0,Sunny,59
+6,9,13,Kappa_Decimus,Red Velvet Racing,5707.662798741808,0,Sunny,59
+6,9,14,Tau_Undevicesimus,Crashout Formula One,5777.006304987939,0,Sunny,59
+6,9,15,Theta_Octavus,LDCMWEBLGTBWLS,5796.856491237923,0,Sunny,59
+6,9,16,Zeta_Sextus,Lag's 200 Ping Power,16523.88049690498,0,Sunny,59
+6,9,17,Pi_Sedecim,Spanky's Fast Cars,18057.159063778763,0,Sunny,59
+6,9,18,Lambda_Undecimus,Tapped In Team,18057.223606183285,0,Sunny,59
+6,9,19,Omicron_Quindecim,B2B SaaS Motorsport,25498.812879866822,0,Sunny,59
+6,9,20,Upsilon_Vicesimus,Spanky's Fast Cars,49975.755577428754,0,Sunny,59
+6,10,1,Tau_Undevicesimus,Crashout Formula One,3977.8420688981355,25,Unknown,49
+6,10,2,Upsilon_Vicesimus,Spanky's Fast Cars,4027.689982583102,18,Unknown,49
+6,10,3,Kappa_Decimus,Red Velvet Racing,4049.3002621675964,15,Unknown,49
+6,10,4,Zeta_Sextus,Lag's 200 Ping Power,4060.8995180807915,12,Unknown,49
+6,10,5,Mu_Duodecimus,Boba Tea Gnarly Automotives,4073.218471237122,10,Unknown,49
+6,10,6,Alpha_Primus,TurboToast Racing,4083.2677585674232,8,Unknown,49
+6,10,7,Sigma_Duodevicesimus,TurboToast Racing,4089.8177494180636,6,Unknown,49
+6,10,8,Eta_Septimus,Crashout Formula One,4093.2324528758954,4,Unknown,49
+6,10,9,Pi_Sedecim,Spanky's Fast Cars,4099.556543513449,2,Unknown,49
+6,10,10,Lambda_Undecimus,Tapped In Team,4104.036563891234,1,Unknown,49
+6,10,11,Gamma_Tertius,Boba Tea Gnarly Automotives,4111.69699798269,0,Unknown,49
+6,10,12,Omicron_Quindecim,B2B SaaS Motorsport,4115.584008594731,0,Unknown,49
+6,10,13,Epsilon_Quintus,Lag's 200 Ping Power,4121.333373422499,0,Unknown,49
+6,10,14,Rho_Septendecim,Tapped In Team,4121.498818394619,0,Unknown,49
+6,10,15,Nu_Tredecimus,B2B SaaS Motorsport,16052.103212834878,0,Unknown,49
+6,10,16,Iota_Nonus,DNF Finishers,28705.397594383197,0,Unknown,49
+6,10,17,Theta_Octavus,LDCMWEBLGTBWLS,37011.91442743645,0,Unknown,49
+6,10,18,Delta_Quartus,DNF Finishers,40701.65483002085,0,Unknown,49
+6,10,19,Xi_Quattuordecim,LDCMWEBLGTBWLS,40701.760699407,0,Unknown,49
+6,10,20,Beta_Secundus,Red Velvet Racing,45315.960982162076,0,Unknown,49
+7,1,1,Theta_Octavus,LDCMWEBLGTBWLS,4520.777124192258,25,Unknown,55
+7,1,2,Tau_Undevicesimus,Crashout Formula One,4577.937520970292,18,Unknown,55
+7,1,3,Beta_Secundus,Red Velvet Racing,4599.8530378711785,15,Unknown,55
+7,1,4,Upsilon_Vicesimus,Spanky's Fast Cars,4600.138746662067,12,Unknown,55
+7,1,5,Kappa_Decimus,Red Velvet Racing,4610.416138944438,10,Unknown,55
+7,1,6,Iota_Nonus,DNF Finishers,4612.099340701286,8,Unknown,55
+7,1,7,Zeta_Sextus,Lag's 200 Ping Power,4619.051114949594,6,Unknown,55
+7,1,8,Xi_Quattuordecim,LDCMWEBLGTBWLS,4621.233064283252,4,Unknown,55
+7,1,9,Sigma_Duodevicesimus,TurboToast Racing,4622.290928488705,2,Unknown,55
+7,1,10,Lambda_Undecimus,Tapped In Team,4624.490887631045,1,Unknown,55
+7,1,11,Alpha_Primus,TurboToast Racing,4627.202722576718,0,Unknown,55
+7,1,12,Epsilon_Quintus,Lag's 200 Ping Power,4629.806585358947,0,Unknown,55
+7,1,13,Eta_Septimus,Crashout Formula One,4630.205769575853,0,Unknown,55
+7,1,14,Gamma_Tertius,Boba Tea Gnarly Automotives,4637.449054189695,0,Unknown,55
+7,1,15,Rho_Septendecim,Tapped In Team,4641.421377021823,0,Unknown,55
+7,1,16,Nu_Tredecimus,B2B SaaS Motorsport,4811.790647814606,0,Unknown,55
+7,1,17,Delta_Quartus,DNF Finishers,20896.690540915835,0,Unknown,55
+7,1,18,Pi_Sedecim,Spanky's Fast Cars,20900.612480090815,0,Unknown,55
+7,1,19,Mu_Duodecimus,Boba Tea Gnarly Automotives,31016.77178560674,0,Unknown,55
+7,1,20,Omicron_Quindecim,B2B SaaS Motorsport,52236.972885251664,0,Unknown,55
+7,2,1,Tau_Undevicesimus,Crashout Formula One,5126.58088170905,25,Unknown,61
+7,2,2,Kappa_Decimus,Red Velvet Racing,5131.866535109352,18,Unknown,61
+7,2,3,Mu_Duodecimus,Boba Tea Gnarly Automotives,5138.7415135472365,15,Unknown,61
+7,2,4,Sigma_Duodevicesimus,TurboToast Racing,5139.280398379548,12,Unknown,61
+7,2,5,Iota_Nonus,DNF Finishers,5140.504127521288,10,Unknown,61
+7,2,6,Xi_Quattuordecim,LDCMWEBLGTBWLS,5141.5640378435455,8,Unknown,61
+7,2,7,Zeta_Sextus,Lag's 200 Ping Power,5145.573278918601,6,Unknown,61
+7,2,8,Alpha_Primus,TurboToast Racing,5145.946165070576,4,Unknown,61
+7,2,9,Pi_Sedecim,Spanky's Fast Cars,5149.156339534213,2,Unknown,61
+7,2,10,Delta_Quartus,DNF Finishers,5149.467849656779,1,Unknown,61
+7,2,11,Eta_Septimus,Crashout Formula One,5152.281087107047,0,Unknown,61
+7,2,12,Gamma_Tertius,Boba Tea Gnarly Automotives,5152.820414091372,0,Unknown,61
+7,2,13,Omicron_Quindecim,B2B SaaS Motorsport,5155.818355302093,0,Unknown,61
+7,2,14,Epsilon_Quintus,Lag's 200 Ping Power,5157.006667317981,0,Unknown,61
+7,2,15,Rho_Septendecim,Tapped In Team,5160.774227669651,0,Unknown,61
+7,2,16,Nu_Tredecimus,B2B SaaS Motorsport,5331.909228377647,0,Unknown,61
+7,2,17,Upsilon_Vicesimus,Spanky's Fast Cars,25030.435820467635,0,Unknown,61
+7,2,18,Theta_Octavus,LDCMWEBLGTBWLS,25032.133417328838,0,Unknown,61
+7,2,19,Beta_Secundus,Red Velvet Racing,31482.19738351458,0,Unknown,61
+7,2,20,Lambda_Undecimus,Tapped In Team,31482.367148235164,0,Unknown,61
+7,3,1,Rho_Septendecim,Tapped In Team,3049.0019280038637,25,Sunny,44
+7,3,2,Omicron_Quindecim,B2B SaaS Motorsport,3049.883619841541,18,Sunny,44
+7,3,3,Gamma_Tertius,Boba Tea Gnarly Automotives,3050.099859115275,15,Sunny,44
+7,3,4,Epsilon_Quintus,Lag's 200 Ping Power,3052.030990107053,12,Sunny,44
+7,3,5,Lambda_Undecimus,Tapped In Team,3055.0252386976654,10,Sunny,44
+7,3,6,Pi_Sedecim,Spanky's Fast Cars,3055.870601868799,8,Sunny,44
+7,3,7,Xi_Quattuordecim,LDCMWEBLGTBWLS,3058.6118746766488,6,Sunny,44
+7,3,8,Alpha_Primus,TurboToast Racing,3060.3224904478398,4,Sunny,44
+7,3,9,Mu_Duodecimus,Boba Tea Gnarly Automotives,3060.6017405522207,2,Sunny,44
+7,3,10,Zeta_Sextus,Lag's 200 Ping Power,4253.3639004790875,1,Sunny,44
+7,3,11,Beta_Secundus,Red Velvet Racing,4266.135681359303,0,Sunny,44
+7,3,12,Upsilon_Vicesimus,Spanky's Fast Cars,4266.871860802844,0,Sunny,44
+7,3,13,Delta_Quartus,DNF Finishers,4352.823658204891,0,Sunny,44
+7,3,14,Nu_Tredecimus,B2B SaaS Motorsport,4356.198111102521,0,Sunny,44
+7,3,15,Sigma_Duodevicesimus,TurboToast Racing,4366.1111423059465,0,Sunny,44
+7,3,16,Theta_Octavus,LDCMWEBLGTBWLS,4461.938575864994,0,Sunny,44
+7,3,17,Tau_Undevicesimus,Crashout Formula One,4462.236786792458,0,Sunny,44
+7,3,18,Eta_Septimus,Crashout Formula One,20743.221054152084,0,Sunny,44
+7,3,19,Iota_Nonus,DNF Finishers,39543.66963681121,0,Sunny,44
+7,3,20,Kappa_Decimus,Red Velvet Racing,39543.77218486149,0,Sunny,44
+7,4,1,Tau_Undevicesimus,Crashout Formula One,5214.381303672875,25,Unknown,62
+7,4,2,Kappa_Decimus,Red Velvet Racing,5216.989513537292,18,Unknown,62
+7,4,3,Beta_Secundus,Red Velvet Racing,5222.460761776479,15,Unknown,62
+7,4,4,Zeta_Sextus,Lag's 200 Ping Power,5225.201048902875,12,Unknown,62
+7,4,5,Alpha_Primus,TurboToast Racing,5228.981207432189,10,Unknown,62
+7,4,6,Xi_Quattuordecim,LDCMWEBLGTBWLS,5229.98503032486,8,Unknown,62
+7,4,7,Eta_Septimus,Crashout Formula One,5231.549743680248,6,Unknown,62
+7,4,8,Pi_Sedecim,Spanky's Fast Cars,5235.033284048826,4,Unknown,62
+7,4,9,Delta_Quartus,DNF Finishers,5237.665947133537,2,Unknown,62
+7,4,10,Omicron_Quindecim,B2B SaaS Motorsport,5244.712868759759,1,Unknown,62
+7,4,11,Epsilon_Quintus,Lag's 200 Ping Power,5246.105941233075,0,Unknown,62
+7,4,12,Rho_Septendecim,Tapped In Team,5246.425576274909,0,Unknown,62
+7,4,13,Nu_Tredecimus,B2B SaaS Motorsport,5418.685177100777,0,Unknown,62
+7,4,14,Mu_Duodecimus,Boba Tea Gnarly Automotives,9794.793438180814,0,Unknown,62
+7,4,15,Gamma_Tertius,Boba Tea Gnarly Automotives,17111.991859885802,0,Unknown,62
+7,4,16,Iota_Nonus,DNF Finishers,28795.012038784524,0,Unknown,62
+7,4,17,Theta_Octavus,LDCMWEBLGTBWLS,28795.685957500304,0,Unknown,62
+7,4,18,Sigma_Duodevicesimus,TurboToast Racing,30636.951048872517,0,Unknown,62
+7,4,19,Lambda_Undecimus,Tapped In Team,42628.83878253464,0,Unknown,62
+7,4,20,Upsilon_Vicesimus,Spanky's Fast Cars,46317.31690149338,0,Unknown,62
+7,5,1,Omicron_Quindecim,B2B SaaS Motorsport,3321.44385190299,25,Sunny,48
+7,5,2,Epsilon_Quintus,Lag's 200 Ping Power,3321.6536738092445,18,Sunny,48
+7,5,3,Rho_Septendecim,Tapped In Team,3322.938290634796,15,Sunny,48
+7,5,4,Gamma_Tertius,Boba Tea Gnarly Automotives,3328.0658662287424,12,Sunny,48
+7,5,5,Eta_Septimus,Crashout Formula One,3328.6106388774188,10,Sunny,48
+7,5,6,Pi_Sedecim,Spanky's Fast Cars,3328.9523377652667,8,Sunny,48
+7,5,7,Lambda_Undecimus,Tapped In Team,3329.873685455047,6,Sunny,48
+7,5,8,Xi_Quattuordecim,LDCMWEBLGTBWLS,3333.993257720538,4,Sunny,48
+7,5,9,Alpha_Primus,TurboToast Racing,3335.447154473244,2,Sunny,48
+7,5,10,Mu_Duodecimus,Boba Tea Gnarly Automotives,3337.5294772498046,1,Sunny,48
+7,5,11,Zeta_Sextus,Lag's 200 Ping Power,4610.318108374309,0,Sunny,48
+7,5,12,Beta_Secundus,Red Velvet Racing,4641.144298139319,0,Sunny,48
+7,5,13,Upsilon_Vicesimus,Spanky's Fast Cars,4645.815487069338,0,Sunny,48
+7,5,14,Delta_Quartus,DNF Finishers,4699.216452705454,0,Sunny,48
+7,5,15,Sigma_Duodevicesimus,TurboToast Racing,4707.726381296548,0,Sunny,48
+7,5,16,Nu_Tredecimus,B2B SaaS Motorsport,4709.8672095055,0,Sunny,48
+7,5,17,Iota_Nonus,DNF Finishers,4744.617660094632,0,Sunny,48
+7,5,18,Kappa_Decimus,Red Velvet Racing,18398.191538860017,0,Sunny,48
+7,5,19,Theta_Octavus,LDCMWEBLGTBWLS,18442.094037232295,0,Sunny,48
+7,5,20,Tau_Undevicesimus,Crashout Formula One,32887.483033208206,0,Sunny,48
+7,6,1,Rho_Septendecim,Tapped In Team,3113.6941045516733,25,Sunny,45
+7,6,2,Epsilon_Quintus,Lag's 200 Ping Power,3115.5774938187906,18,Sunny,45
+7,6,3,Omicron_Quindecim,B2B SaaS Motorsport,3118.800697733049,15,Sunny,45
+7,6,4,Lambda_Undecimus,Tapped In Team,3120.1299200819235,12,Sunny,45
+7,6,5,Gamma_Tertius,Boba Tea Gnarly Automotives,3120.647983512291,10,Sunny,45
+7,6,6,Pi_Sedecim,Spanky's Fast Cars,3123.8336453221664,8,Sunny,45
+7,6,7,Eta_Septimus,Crashout Formula One,3124.409901196928,6,Sunny,45
+7,6,8,Alpha_Primus,TurboToast Racing,3125.538693393256,4,Sunny,45
+7,6,9,Beta_Secundus,Red Velvet Racing,4359.011920503375,2,Sunny,45
+7,6,10,Upsilon_Vicesimus,Spanky's Fast Cars,4359.798669494834,1,Sunny,45
+7,6,11,Delta_Quartus,DNF Finishers,4434.94404346807,0,Sunny,45
+7,6,12,Nu_Tredecimus,B2B SaaS Motorsport,4448.572876424996,0,Sunny,45
+7,6,13,Sigma_Duodevicesimus,TurboToast Racing,4449.469948256931,0,Sunny,45
+7,6,14,Kappa_Decimus,Red Velvet Racing,4486.654761625831,0,Sunny,45
+7,6,15,Theta_Octavus,LDCMWEBLGTBWLS,4552.454407528708,0,Sunny,45
+7,6,16,Mu_Duodecimus,Boba Tea Gnarly Automotives,14293.758642551009,0,Sunny,45
+7,6,17,Xi_Quattuordecim,LDCMWEBLGTBWLS,16157.596523956092,0,Sunny,45
+7,6,18,Zeta_Sextus,Lag's 200 Ping Power,17015.39563946945,0,Sunny,45
+7,6,19,Tau_Undevicesimus,Crashout Formula One,22721.950169968826,0,Sunny,45
+7,6,20,Iota_Nonus,DNF Finishers,27200.043723834115,0,Sunny,45
+7,7,1,Rho_Septendecim,Tapped In Team,3668.047993192209,25,Wet,46
+7,7,2,Pi_Sedecim,Spanky's Fast Cars,3756.805516949149,18,Wet,46
+7,7,3,Eta_Septimus,Crashout Formula One,3989.152216787577,15,Wet,46
+7,7,4,Iota_Nonus,DNF Finishers,4298.009930965569,12,Wet,46
+7,7,5,Delta_Quartus,DNF Finishers,4303.0852946562445,10,Wet,46
+7,7,6,Sigma_Duodevicesimus,TurboToast Racing,4313.165405838437,8,Wet,46
+7,7,7,Zeta_Sextus,Lag's 200 Ping Power,4337.492433270076,6,Wet,46
+7,7,8,Tau_Undevicesimus,Crashout Formula One,4348.9659171098665,4,Wet,46
+7,7,9,Xi_Quattuordecim,LDCMWEBLGTBWLS,4359.306427446269,2,Wet,46
+7,7,10,Theta_Octavus,LDCMWEBLGTBWLS,4403.436692029477,1,Wet,46
+7,7,11,Beta_Secundus,Red Velvet Racing,4422.623929392733,0,Wet,46
+7,7,12,Upsilon_Vicesimus,Spanky's Fast Cars,4437.652349922229,0,Wet,46
+7,7,13,Lambda_Undecimus,Tapped In Team,4690.851429326459,0,Wet,46
+7,7,14,Nu_Tredecimus,B2B SaaS Motorsport,4726.580444315564,0,Wet,46
+7,7,15,Kappa_Decimus,Red Velvet Racing,4819.771200714105,0,Wet,46
+7,7,16,Omicron_Quindecim,B2B SaaS Motorsport,12481.632329351663,0,Wet,46
+7,7,17,Epsilon_Quintus,Lag's 200 Ping Power,12505.139691941842,0,Wet,46
+7,7,18,Mu_Duodecimus,Boba Tea Gnarly Automotives,24073.481732379107,0,Wet,46
+7,7,19,Alpha_Primus,TurboToast Racing,34267.09761010519,0,Wet,46
+7,7,20,Gamma_Tertius,Boba Tea Gnarly Automotives,39694.097363764246,0,Wet,46
+7,8,1,Rho_Septendecim,Tapped In Team,5184.244848248298,25,Sunny,75
+7,8,2,Omicron_Quindecim,B2B SaaS Motorsport,5188.766610848628,18,Sunny,75
+7,8,3,Pi_Sedecim,Spanky's Fast Cars,5191.276079430597,15,Sunny,75
+7,8,4,Epsilon_Quintus,Lag's 200 Ping Power,5192.589832236252,12,Sunny,75
+7,8,5,Gamma_Tertius,Boba Tea Gnarly Automotives,5192.720149477291,10,Sunny,75
+7,8,6,Alpha_Primus,TurboToast Racing,5193.291956891306,8,Sunny,75
+7,8,7,Eta_Septimus,Crashout Formula One,5193.478079294607,6,Sunny,75
+7,8,8,Lambda_Undecimus,Tapped In Team,5195.521390296531,4,Sunny,75
+7,8,9,Xi_Quattuordecim,LDCMWEBLGTBWLS,5195.747717327244,2,Sunny,75
+7,8,10,Zeta_Sextus,Lag's 200 Ping Power,6874.601355676137,1,Sunny,75
+7,8,11,Beta_Secundus,Red Velvet Racing,6879.194800147441,0,Sunny,75
+7,8,12,Upsilon_Vicesimus,Spanky's Fast Cars,6911.074704161241,0,Sunny,75
+7,8,13,Delta_Quartus,DNF Finishers,6947.815836557268,0,Sunny,75
+7,8,14,Iota_Nonus,DNF Finishers,6973.476797641848,0,Sunny,75
+7,8,15,Sigma_Duodevicesimus,TurboToast Racing,6985.971975349119,0,Sunny,75
+7,8,16,Kappa_Decimus,Red Velvet Racing,7014.473019822411,0,Sunny,75
+7,8,17,Nu_Tredecimus,B2B SaaS Motorsport,7014.85544848065,0,Sunny,75
+7,8,18,Tau_Undevicesimus,Crashout Formula One,7118.241812758205,0,Sunny,75
+7,8,19,Theta_Octavus,LDCMWEBLGTBWLS,7166.754345009692,0,Sunny,75
+7,8,20,Mu_Duodecimus,Boba Tea Gnarly Automotives,46156.612162305675,0,Sunny,75
+7,9,1,Theta_Octavus,LDCMWEBLGTBWLS,3790.2834219426204,25,Unknown,48
+7,9,2,Tau_Undevicesimus,Crashout Formula One,3876.396130685064,18,Unknown,48
+7,9,3,Beta_Secundus,Red Velvet Racing,3920.404279606125,15,Unknown,48
+7,9,4,Iota_Nonus,DNF Finishers,3947.305337835157,12,Unknown,48
+7,9,5,Kappa_Decimus,Red Velvet Racing,3949.0790444413906,10,Unknown,48
+7,9,6,Zeta_Sextus,Lag's 200 Ping Power,3966.238537442732,8,Unknown,48
+7,9,7,Alpha_Primus,TurboToast Racing,3989.9374511220726,6,Unknown,48
+7,9,8,Sigma_Duodevicesimus,TurboToast Racing,3994.852283307962,4,Unknown,48
+7,9,9,Xi_Quattuordecim,LDCMWEBLGTBWLS,3998.4458336135795,2,Unknown,48
+7,9,10,Delta_Quartus,DNF Finishers,4004.8041171949826,1,Unknown,48
+7,9,11,Pi_Sedecim,Spanky's Fast Cars,4005.328284277045,0,Unknown,48
+7,9,12,Lambda_Undecimus,Tapped In Team,4006.6641791099496,0,Unknown,48
+7,9,13,Epsilon_Quintus,Lag's 200 Ping Power,4027.879487284929,0,Unknown,48
+7,9,14,Rho_Septendecim,Tapped In Team,4033.624716678729,0,Unknown,48
+7,9,15,Nu_Tredecimus,B2B SaaS Motorsport,4200.9787071336405,0,Unknown,48
+7,9,16,Eta_Septimus,Crashout Formula One,10304.857544871214,0,Unknown,48
+7,9,17,Omicron_Quindecim,B2B SaaS Motorsport,16674.524856572418,0,Unknown,48
+7,9,18,Gamma_Tertius,Boba Tea Gnarly Automotives,23096.18747230167,0,Unknown,48
+7,9,19,Mu_Duodecimus,Boba Tea Gnarly Automotives,38778.55012769185,0,Unknown,48
+7,9,20,Upsilon_Vicesimus,Spanky's Fast Cars,38778.75214904726,0,Unknown,48
+7,10,1,Rho_Septendecim,Tapped In Team,3460.4694664449553,25,Sunny,50
+7,10,2,Lambda_Undecimus,Tapped In Team,3461.4846117576485,18,Sunny,50
+7,10,3,Omicron_Quindecim,B2B SaaS Motorsport,3462.139514983855,15,Sunny,50
+7,10,4,Gamma_Tertius,Boba Tea Gnarly Automotives,3462.9190101885883,12,Sunny,50
+7,10,5,Eta_Septimus,Crashout Formula One,3466.668202941414,10,Sunny,50
+7,10,6,Xi_Quattuordecim,LDCMWEBLGTBWLS,3466.944601751235,8,Sunny,50
+7,10,7,Pi_Sedecim,Spanky's Fast Cars,3468.185445113439,6,Sunny,50
+7,10,8,Alpha_Primus,TurboToast Racing,3473.065234275712,4,Sunny,50
+7,10,9,Mu_Duodecimus,Boba Tea Gnarly Automotives,3473.5896639908606,2,Sunny,50
+7,10,10,Zeta_Sextus,Lag's 200 Ping Power,4786.277878712685,1,Sunny,50
+7,10,11,Beta_Secundus,Red Velvet Racing,4819.241639859275,0,Sunny,50
+7,10,12,Delta_Quartus,DNF Finishers,4875.473791898151,0,Sunny,50
+7,10,13,Nu_Tredecimus,B2B SaaS Motorsport,4879.102385804854,0,Sunny,50
+7,10,14,Sigma_Duodevicesimus,TurboToast Racing,4882.270341751446,0,Sunny,50
+7,10,15,Kappa_Decimus,Red Velvet Racing,4920.37037063464,0,Sunny,50
+7,10,16,Tau_Undevicesimus,Crashout Formula One,4993.206062682075,0,Sunny,50
+7,10,17,Epsilon_Quintus,Lag's 200 Ping Power,22086.816732816882,0,Sunny,50
+7,10,18,Theta_Octavus,LDCMWEBLGTBWLS,43770.4689628053,0,Sunny,50
+7,10,19,Iota_Nonus,DNF Finishers,43770.624908657504,0,Sunny,50
+7,10,20,Upsilon_Vicesimus,Spanky's Fast Cars,45485.28682042679,0,Sunny,50
+8,1,1,Rho_Septendecim,Tapped In Team,2499.3458753221184,25,Sunny,36
+8,1,2,Gamma_Tertius,Boba Tea Gnarly Automotives,2500.2821414013165,18,Sunny,36
+8,1,3,Xi_Quattuordecim,LDCMWEBLGTBWLS,2501.4836309425355,15,Sunny,36
+8,1,4,Lambda_Undecimus,Tapped In Team,2501.57603868286,12,Sunny,36
+8,1,5,Epsilon_Quintus,Lag's 200 Ping Power,2502.308677599034,10,Sunny,36
+8,1,6,Alpha_Primus,TurboToast Racing,2502.59077642293,8,Sunny,36
+8,1,7,Eta_Septimus,Crashout Formula One,2503.967362547736,6,Sunny,36
+8,1,8,Pi_Sedecim,Spanky's Fast Cars,2504.954802414918,4,Sunny,36
+8,1,9,Zeta_Sextus,Lag's 200 Ping Power,3493.371584993115,2,Sunny,36
+8,1,10,Upsilon_Vicesimus,Spanky's Fast Cars,3496.614573897173,1,Sunny,36
+8,1,11,Beta_Secundus,Red Velvet Racing,3496.945346348919,0,Sunny,36
+8,1,12,Delta_Quartus,DNF Finishers,3639.2204076524686,0,Sunny,36
+8,1,13,Nu_Tredecimus,B2B SaaS Motorsport,3647.2762540405574,0,Sunny,36
+8,1,14,Sigma_Duodevicesimus,TurboToast Racing,3651.221137579662,0,Sunny,36
+8,1,15,Kappa_Decimus,Red Velvet Racing,3666.6679443726025,0,Sunny,36
+8,1,16,Iota_Nonus,DNF Finishers,3667.2896227661395,0,Sunny,36
+8,1,17,Theta_Octavus,LDCMWEBLGTBWLS,3725.833624021983,0,Sunny,36
+8,1,18,Tau_Undevicesimus,Crashout Formula One,3728.3979197315484,0,Sunny,36
+8,1,19,Mu_Duodecimus,Boba Tea Gnarly Automotives,27626.147139414395,0,Sunny,36
+8,1,20,Omicron_Quindecim,B2B SaaS Motorsport,27627.461212193186,0,Sunny,36
+8,2,1,Theta_Octavus,LDCMWEBLGTBWLS,5099.277700119221,25,Unknown,61
+8,2,2,Tau_Undevicesimus,Crashout Formula One,5127.567474778941,18,Unknown,61
+8,2,3,Beta_Secundus,Red Velvet Racing,5133.428256539984,15,Unknown,61
+8,2,4,Kappa_Decimus,Red Velvet Racing,5133.464364121178,12,Unknown,61
+8,2,5,Upsilon_Vicesimus,Spanky's Fast Cars,5134.627371273964,10,Unknown,61
+8,2,6,Iota_Nonus,DNF Finishers,5138.324415230137,8,Unknown,61
+8,2,7,Zeta_Sextus,Lag's 200 Ping Power,5140.712571667317,6,Unknown,61
+8,2,8,Delta_Quartus,DNF Finishers,5150.372749519949,4,Unknown,61
+8,2,9,Lambda_Undecimus,Tapped In Team,5152.416682184303,2,Unknown,61
+8,2,10,Omicron_Quindecim,B2B SaaS Motorsport,5157.3987144563525,1,Unknown,61
+8,2,11,Epsilon_Quintus,Lag's 200 Ping Power,5159.469896268409,0,Unknown,61
+8,2,12,Rho_Septendecim,Tapped In Team,5160.634747588968,0,Unknown,61
+8,2,13,Nu_Tredecimus,B2B SaaS Motorsport,5333.326147591249,0,Unknown,61
+8,2,14,Mu_Duodecimus,Boba Tea Gnarly Automotives,7883.100007819868,0,Unknown,61
+8,2,15,Alpha_Primus,TurboToast Racing,19689.874744421417,0,Unknown,61
+8,2,16,Sigma_Duodevicesimus,TurboToast Racing,19710.247648395853,0,Unknown,61
+8,2,17,Eta_Septimus,Crashout Formula One,29638.661619592935,0,Unknown,61
+8,2,18,Gamma_Tertius,Boba Tea Gnarly Automotives,32404.10798174083,0,Unknown,61
+8,2,19,Xi_Quattuordecim,LDCMWEBLGTBWLS,32404.136328063672,0,Unknown,61
+8,2,20,Pi_Sedecim,Spanky's Fast Cars,40708.560104465665,0,Unknown,61
+8,3,1,Theta_Octavus,LDCMWEBLGTBWLS,4912.002210368521,25,Unknown,59
+8,3,2,Upsilon_Vicesimus,Spanky's Fast Cars,4957.31130987184,18,Unknown,59
+8,3,3,Kappa_Decimus,Red Velvet Racing,4957.687484973656,15,Unknown,59
+8,3,4,Zeta_Sextus,Lag's 200 Ping Power,4963.812881420656,12,Unknown,59
+8,3,5,Iota_Nonus,DNF Finishers,4966.858811806013,10,Unknown,59
+8,3,6,Xi_Quattuordecim,LDCMWEBLGTBWLS,4969.151553461281,8,Unknown,59
+8,3,7,Mu_Duodecimus,Boba Tea Gnarly Automotives,4969.189801660486,6,Unknown,59
+8,3,8,Sigma_Duodevicesimus,TurboToast Racing,4969.380564235401,4,Unknown,59
+8,3,9,Alpha_Primus,TurboToast Racing,4973.905568434603,2,Unknown,59
+8,3,10,Delta_Quartus,DNF Finishers,4974.7354453719,1,Unknown,59
+8,3,11,Eta_Septimus,Crashout Formula One,4978.415813062462,0,Unknown,59
+8,3,12,Lambda_Undecimus,Tapped In Team,4981.212708977779,0,Unknown,59
+8,3,13,Omicron_Quindecim,B2B SaaS Motorsport,4983.262207245232,0,Unknown,59
+8,3,14,Rho_Septendecim,Tapped In Team,4986.065921060099,0,Unknown,59
+8,3,15,Epsilon_Quintus,Lag's 200 Ping Power,4987.361809302751,0,Unknown,59
+8,3,16,Gamma_Tertius,Boba Tea Gnarly Automotives,15028.00957802199,0,Unknown,59
+8,3,17,Tau_Undevicesimus,Crashout Formula One,24875.68569750523,0,Unknown,59
+8,3,18,Nu_Tredecimus,B2B SaaS Motorsport,33226.91159124211,0,Unknown,59
+8,3,19,Beta_Secundus,Red Velvet Racing,53470.615669454775,0,Unknown,59
+8,3,20,Pi_Sedecim,Spanky's Fast Cars,55316.345955546196,0,Unknown,59
+8,4,1,Iota_Nonus,DNF Finishers,2947.2553513209314,25,Unknown,38
+8,4,2,Upsilon_Vicesimus,Spanky's Fast Cars,2948.9324354833384,18,Unknown,38
+8,4,3,Kappa_Decimus,Red Velvet Racing,2949.0995253630654,15,Unknown,38
+8,4,4,Zeta_Sextus,Lag's 200 Ping Power,2951.2924590957928,12,Unknown,38
+8,4,5,Tau_Undevicesimus,Crashout Formula One,2951.3187639077037,10,Unknown,38
+8,4,6,Beta_Secundus,Red Velvet Racing,2951.951951865744,8,Unknown,38
+8,4,7,Theta_Octavus,LDCMWEBLGTBWLS,2953.8032261715057,6,Unknown,38
+8,4,8,Mu_Duodecimus,Boba Tea Gnarly Automotives,2954.5902799175415,4,Unknown,38
+8,4,9,Alpha_Primus,TurboToast Racing,2960.302580548139,2,Unknown,38
+8,4,10,Eta_Septimus,Crashout Formula One,2978.7271190380934,1,Unknown,38
+8,4,11,Xi_Quattuordecim,LDCMWEBLGTBWLS,2987.7453552620714,0,Unknown,38
+8,4,12,Delta_Quartus,DNF Finishers,2995.9161349507312,0,Unknown,38
+8,4,13,Gamma_Tertius,Boba Tea Gnarly Automotives,3059.7753750862603,0,Unknown,38
+8,4,14,Epsilon_Quintus,Lag's 200 Ping Power,3089.042549250479,0,Unknown,38
+8,4,15,Omicron_Quindecim,B2B SaaS Motorsport,3098.3847975091953,0,Unknown,38
+8,4,16,Nu_Tredecimus,B2B SaaS Motorsport,3262.2099008951354,0,Unknown,38
+8,4,17,Lambda_Undecimus,Tapped In Team,6636.932878262956,0,Unknown,38
+8,4,18,Pi_Sedecim,Spanky's Fast Cars,6637.051093409435,0,Unknown,38
+8,4,19,Sigma_Duodevicesimus,TurboToast Racing,23239.545583828276,0,Unknown,38
+8,4,20,Rho_Septendecim,Tapped In Team,23241.075301033427,0,Unknown,38
+8,5,1,Rho_Septendecim,Tapped In Team,4888.462408452766,25,Wet,64
+8,5,2,Pi_Sedecim,Spanky's Fast Cars,4998.061543779585,18,Wet,64
+8,5,3,Omicron_Quindecim,B2B SaaS Motorsport,5619.740384119033,15,Wet,64
+8,5,4,Epsilon_Quintus,Lag's 200 Ping Power,5636.800900169296,12,Wet,64
+8,5,5,Gamma_Tertius,Boba Tea Gnarly Automotives,5636.878956945637,10,Wet,64
+8,5,6,Xi_Quattuordecim,LDCMWEBLGTBWLS,5746.652468991678,8,Wet,64
+8,5,7,Alpha_Primus,TurboToast Racing,5746.859966856104,6,Wet,64
+8,5,8,Delta_Quartus,DNF Finishers,5752.043136838519,4,Wet,64
+8,5,9,Sigma_Duodevicesimus,TurboToast Racing,5768.258373395226,2,Wet,64
+8,5,10,Zeta_Sextus,Lag's 200 Ping Power,5788.443504318329,1,Wet,64
+8,5,11,Tau_Undevicesimus,Crashout Formula One,5801.548363448581,0,Wet,64
+8,5,12,Theta_Octavus,LDCMWEBLGTBWLS,5854.749900338175,0,Wet,64
+8,5,13,Beta_Secundus,Red Velvet Racing,5877.869959921943,0,Wet,64
+8,5,14,Upsilon_Vicesimus,Spanky's Fast Cars,5891.088109415707,0,Wet,64
+8,5,15,Lambda_Undecimus,Tapped In Team,6122.216608629804,0,Wet,64
+8,5,16,Nu_Tredecimus,B2B SaaS Motorsport,6234.511728486575,0,Wet,64
+8,5,17,Kappa_Decimus,Red Velvet Racing,6309.626127994961,0,Wet,64
+8,5,18,Iota_Nonus,DNF Finishers,29654.97829170632,0,Wet,64
+8,5,19,Mu_Duodecimus,Boba Tea Gnarly Automotives,53986.318351632435,0,Wet,64
+8,5,20,Eta_Septimus,Crashout Formula One,53994.92358919975,0,Wet,64
+8,6,1,Rho_Septendecim,Tapped In Team,4004.84592441493,25,Wet,51
+8,6,2,Eta_Septimus,Crashout Formula One,4377.114605568177,18,Wet,51
+8,6,3,Mu_Duodecimus,Boba Tea Gnarly Automotives,4396.139158337712,15,Wet,51
+8,6,4,Omicron_Quindecim,B2B SaaS Motorsport,4593.440447642062,12,Wet,51
+8,6,5,Gamma_Tertius,Boba Tea Gnarly Automotives,4598.81583827442,10,Wet,51
+8,6,6,Epsilon_Quintus,Lag's 200 Ping Power,4619.57445472436,8,Wet,51
+8,6,7,Xi_Quattuordecim,LDCMWEBLGTBWLS,4748.5789855748935,6,Wet,51
+8,6,8,Theta_Octavus,LDCMWEBLGTBWLS,4800.103976882256,4,Wet,51
+8,6,9,Beta_Secundus,Red Velvet Racing,4830.833869059206,2,Wet,51
+8,6,10,Upsilon_Vicesimus,Spanky's Fast Cars,4885.966874497045,1,Wet,51
+8,6,11,Kappa_Decimus,Red Velvet Racing,5236.507313107873,0,Wet,51
+8,6,12,Nu_Tredecimus,B2B SaaS Motorsport,12466.888269295814,0,Wet,51
+8,6,13,Tau_Undevicesimus,Crashout Formula One,17627.29816513665,0,Wet,51
+8,6,14,Iota_Nonus,DNF Finishers,19413.72772485519,0,Wet,51
+8,6,15,Lambda_Undecimus,Tapped In Team,19760.479033633594,0,Wet,51
+8,6,16,Zeta_Sextus,Lag's 200 Ping Power,22986.783128049014,0,Wet,51
+8,6,17,Delta_Quartus,DNF Finishers,30220.430769316783,0,Wet,51
+8,6,18,Sigma_Duodevicesimus,TurboToast Racing,30222.637297292466,0,Wet,51
+8,6,19,Alpha_Primus,TurboToast Racing,39265.6658756558,0,Wet,51
+8,6,20,Pi_Sedecim,Spanky's Fast Cars,47359.46104522671,0,Wet,51
+8,7,1,Theta_Octavus,LDCMWEBLGTBWLS,5100.043491364588,25,Unknown,61
+8,7,2,Tau_Undevicesimus,Crashout Formula One,5128.0381294082235,18,Unknown,61
+8,7,3,Zeta_Sextus,Lag's 200 Ping Power,5135.596393577832,15,Unknown,61
+8,7,4,Beta_Secundus,Red Velvet Racing,5135.996697158498,12,Unknown,61
+8,7,5,Iota_Nonus,DNF Finishers,5141.43246224412,10,Unknown,61
+8,7,6,Sigma_Duodevicesimus,TurboToast Racing,5142.050711718344,8,Unknown,61
+8,7,7,Alpha_Primus,TurboToast Racing,5143.542978563787,6,Unknown,61
+8,7,8,Mu_Duodecimus,Boba Tea Gnarly Automotives,5144.086697158175,4,Unknown,61
+8,7,9,Xi_Quattuordecim,LDCMWEBLGTBWLS,5148.2014644480805,2,Unknown,61
+8,7,10,Lambda_Undecimus,Tapped In Team,5151.997525315459,1,Unknown,61
+8,7,11,Epsilon_Quintus,Lag's 200 Ping Power,5153.131698401789,0,Unknown,61
+8,7,12,Omicron_Quindecim,B2B SaaS Motorsport,5155.153067814201,0,Unknown,61
+8,7,13,Gamma_Tertius,Boba Tea Gnarly Automotives,5156.922320606355,0,Unknown,61
+8,7,14,Rho_Septendecim,Tapped In Team,5162.3314714261705,0,Unknown,61
+8,7,15,Nu_Tredecimus,B2B SaaS Motorsport,5331.017906940578,0,Unknown,61
+8,7,16,Delta_Quartus,DNF Finishers,8798.897642309765,0,Unknown,61
+8,7,17,Kappa_Decimus,Red Velvet Racing,21436.411900733445,0,Unknown,61
+8,7,18,Pi_Sedecim,Spanky's Fast Cars,39783.85966218625,0,Unknown,61
+8,7,19,Upsilon_Vicesimus,Spanky's Fast Cars,44394.668675253706,0,Unknown,61
+8,7,20,Eta_Septimus,Crashout Formula One,54549.09415393497,0,Unknown,61
+8,8,1,Omicron_Quindecim,B2B SaaS Motorsport,3940.55831061736,25,Sunny,57
+8,8,2,Lambda_Undecimus,Tapped In Team,3941.9227957112403,18,Sunny,57
+8,8,3,Epsilon_Quintus,Lag's 200 Ping Power,3942.997800468386,15,Sunny,57
+8,8,4,Rho_Septendecim,Tapped In Team,3943.361387963133,12,Sunny,57
+8,8,5,Eta_Septimus,Crashout Formula One,3948.5223281464996,10,Sunny,57
+8,8,6,Mu_Duodecimus,Boba Tea Gnarly Automotives,3948.7967841530885,8,Sunny,57
+8,8,7,Xi_Quattuordecim,LDCMWEBLGTBWLS,3948.8170363417544,6,Sunny,57
+8,8,8,Pi_Sedecim,Spanky's Fast Cars,3949.146212628058,4,Sunny,57
+8,8,9,Alpha_Primus,TurboToast Racing,3952.408473300923,2,Sunny,57
+8,8,10,Zeta_Sextus,Lag's 200 Ping Power,5386.429472178573,1,Sunny,57
+8,8,11,Delta_Quartus,DNF Finishers,5480.324917542722,0,Sunny,57
+8,8,12,Iota_Nonus,DNF Finishers,5530.333810931591,0,Sunny,57
+8,8,13,Kappa_Decimus,Red Velvet Racing,14656.337452882974,0,Sunny,57
+8,8,14,Gamma_Tertius,Boba Tea Gnarly Automotives,17911.039818922192,0,Sunny,57
+8,8,15,Beta_Secundus,Red Velvet Racing,27210.168099272345,0,Sunny,57
+8,8,16,Tau_Undevicesimus,Crashout Formula One,32898.8597805521,0,Sunny,57
+8,8,17,Theta_Octavus,LDCMWEBLGTBWLS,32910.30522973315,0,Sunny,57
+8,8,18,Nu_Tredecimus,B2B SaaS Motorsport,41873.35128689767,0,Sunny,57
+8,8,19,Sigma_Duodevicesimus,TurboToast Racing,41876.09294965539,0,Sunny,57
+8,8,20,Upsilon_Vicesimus,Spanky's Fast Cars,48875.193343873885,0,Sunny,57
+8,9,1,Rho_Septendecim,Tapped In Team,4822.666774496052,25,Wet,63
+8,9,2,Pi_Sedecim,Spanky's Fast Cars,4929.611969343403,18,Wet,63
+8,9,3,Eta_Septimus,Crashout Formula One,5297.740147787004,15,Wet,63
+8,9,4,Mu_Duodecimus,Boba Tea Gnarly Automotives,5313.647533465207,12,Wet,63
+8,9,5,Omicron_Quindecim,B2B SaaS Motorsport,5547.891199574377,10,Wet,63
+8,9,6,Epsilon_Quintus,Lag's 200 Ping Power,5555.645853619092,8,Wet,63
+8,9,7,Gamma_Tertius,Boba Tea Gnarly Automotives,5558.028843955511,6,Wet,63
+8,9,8,Alpha_Primus,TurboToast Racing,5665.871514246559,4,Wet,63
+8,9,9,Delta_Quartus,DNF Finishers,5678.211207595915,2,Wet,63
+8,9,10,Sigma_Duodevicesimus,TurboToast Racing,5682.16035317553,1,Wet,63
+8,9,11,Zeta_Sextus,Lag's 200 Ping Power,5701.451560249726,0,Wet,63
+8,9,12,Tau_Undevicesimus,Crashout Formula One,5718.748630649979,0,Wet,63
+8,9,13,Theta_Octavus,LDCMWEBLGTBWLS,5776.396050636907,0,Wet,63
+8,9,14,Beta_Secundus,Red Velvet Racing,5802.892038334493,0,Wet,63
+8,9,15,Upsilon_Vicesimus,Spanky's Fast Cars,5814.502303875335,0,Wet,63
+8,9,16,Kappa_Decimus,Red Velvet Racing,6228.42721117147,0,Wet,63
+8,9,17,Iota_Nonus,DNF Finishers,9346.604509662706,0,Wet,63
+8,9,18,Lambda_Undecimus,Tapped In Team,18938.104987152696,0,Wet,63
+8,9,19,Nu_Tredecimus,B2B SaaS Motorsport,18972.518833925304,0,Wet,63
+8,9,20,Xi_Quattuordecim,LDCMWEBLGTBWLS,27754.227390688196,0,Wet,63
+8,10,1,Kappa_Decimus,Red Velvet Racing,5126.472367527903,25,Unknown,61
+8,10,2,Beta_Secundus,Red Velvet Racing,5132.1605094247925,18,Unknown,61
+8,10,3,Xi_Quattuordecim,LDCMWEBLGTBWLS,5141.663028380452,15,Unknown,61
+8,10,4,Iota_Nonus,DNF Finishers,5142.100899248669,12,Unknown,61
+8,10,5,Mu_Duodecimus,Boba Tea Gnarly Automotives,5142.195529891529,10,Unknown,61
+8,10,6,Eta_Septimus,Crashout Formula One,5143.84264707251,8,Unknown,61
+8,10,7,Alpha_Primus,TurboToast Racing,5145.6789368415,6,Unknown,61
+8,10,8,Pi_Sedecim,Spanky's Fast Cars,5146.928708706066,4,Unknown,61
+8,10,9,Delta_Quartus,DNF Finishers,5150.6173506952655,2,Unknown,61
+8,10,10,Lambda_Undecimus,Tapped In Team,5153.250678532907,1,Unknown,61
+8,10,11,Epsilon_Quintus,Lag's 200 Ping Power,5153.858762230458,0,Unknown,61
+8,10,12,Gamma_Tertius,Boba Tea Gnarly Automotives,5155.262695232807,0,Unknown,61
+8,10,13,Omicron_Quindecim,B2B SaaS Motorsport,5158.428121811217,0,Unknown,61
+8,10,14,Rho_Septendecim,Tapped In Team,5163.0398969801345,0,Unknown,61
+8,10,15,Nu_Tredecimus,B2B SaaS Motorsport,5332.011755849916,0,Unknown,61
+8,10,16,Zeta_Sextus,Lag's 200 Ping Power,25952.818356312295,0,Unknown,61
+8,10,17,Sigma_Duodevicesimus,TurboToast Racing,34249.90832763884,0,Unknown,61
+8,10,18,Upsilon_Vicesimus,Spanky's Fast Cars,50858.287823254796,0,Unknown,61
+8,10,19,Tau_Undevicesimus,Crashout Formula One,51781.38614495109,0,Unknown,61
+8,10,20,Theta_Octavus,LDCMWEBLGTBWLS,51781.6633905708,0,Unknown,61
+9,1,1,Rho_Septendecim,Tapped In Team,5072.915143574156,25,Wet,67
+9,1,2,Pi_Sedecim,Spanky's Fast Cars,5209.344418973795,18,Wet,67
+9,1,3,Eta_Septimus,Crashout Formula One,5603.806971714552,15,Wet,67
+9,1,4,Mu_Duodecimus,Boba Tea Gnarly Automotives,5622.7540588427655,12,Wet,67
+9,1,5,Epsilon_Quintus,Lag's 200 Ping Power,5860.425625226033,10,Wet,67
+9,1,6,Gamma_Tertius,Boba Tea Gnarly Automotives,5870.826944354635,8,Wet,67
+9,1,7,Xi_Quattuordecim,LDCMWEBLGTBWLS,5974.5831871869,6,Wet,67
+9,1,8,Iota_Nonus,DNF Finishers,5974.7493941596895,4,Wet,67
+9,1,9,Alpha_Primus,TurboToast Racing,5978.125351010722,2,Wet,67
+9,1,10,Zeta_Sextus,Lag's 200 Ping Power,6026.495165925536,1,Wet,67
+9,1,11,Tau_Undevicesimus,Crashout Formula One,6042.307631494785,0,Wet,67
+9,1,12,Theta_Octavus,LDCMWEBLGTBWLS,6098.773991742687,0,Wet,67
+9,1,13,Upsilon_Vicesimus,Spanky's Fast Cars,6122.81614211519,0,Wet,67
+9,1,14,Beta_Secundus,Red Velvet Racing,6123.63560089891,0,Wet,67
+9,1,15,Lambda_Undecimus,Tapped In Team,6345.229259605933,0,Wet,67
+9,1,16,Nu_Tredecimus,B2B SaaS Motorsport,6479.2812972015945,0,Wet,67
+9,1,17,Kappa_Decimus,Red Velvet Racing,6551.974043219641,0,Wet,67
+9,1,18,Delta_Quartus,DNF Finishers,17948.980081451584,0,Wet,67
+9,1,19,Omicron_Quindecim,B2B SaaS Motorsport,24272.456061008386,0,Wet,67
+9,1,20,Sigma_Duodevicesimus,TurboToast Racing,57072.04869380008,0,Wet,67
+9,2,1,Eta_Septimus,Crashout Formula One,4907.707982636662,25,Wet,58
+9,2,2,Mu_Duodecimus,Boba Tea Gnarly Automotives,4927.982599296716,18,Wet,58
+9,2,3,Omicron_Quindecim,B2B SaaS Motorsport,5149.721348248711,15,Wet,58
+9,2,4,Gamma_Tertius,Boba Tea Gnarly Automotives,5166.05878481701,12,Wet,58
+9,2,5,Epsilon_Quintus,Lag's 200 Ping Power,5167.844324157161,10,Wet,58
+9,2,6,Iota_Nonus,DNF Finishers,5267.527446449286,8,Wet,58
+9,2,7,Delta_Quartus,DNF Finishers,5271.432377282661,6,Wet,58
+9,2,8,Alpha_Primus,TurboToast Racing,5276.844944739907,4,Wet,58
+9,2,9,Sigma_Duodevicesimus,TurboToast Racing,5278.41731196645,2,Wet,58
+9,2,10,Xi_Quattuordecim,LDCMWEBLGTBWLS,5287.243384773668,1,Wet,58
+9,2,11,Zeta_Sextus,Lag's 200 Ping Power,5300.701332032418,0,Wet,58
+9,2,12,Tau_Undevicesimus,Crashout Formula One,5318.378844821136,0,Wet,58
+9,2,13,Theta_Octavus,LDCMWEBLGTBWLS,5366.977843220177,0,Wet,58
+9,2,14,Beta_Secundus,Red Velvet Racing,5396.09056044286,0,Wet,58
+9,2,15,Upsilon_Vicesimus,Spanky's Fast Cars,5422.58838110587,0,Wet,58
+9,2,16,Lambda_Undecimus,Tapped In Team,5648.709915742901,0,Wet,58
+9,2,17,Nu_Tredecimus,B2B SaaS Motorsport,5731.552736609615,0,Wet,58
+9,2,18,Kappa_Decimus,Red Velvet Racing,5823.833376243759,0,Wet,58
+9,2,19,Rho_Septendecim,Tapped In Team,13802.272110365177,0,Wet,58
+9,2,20,Pi_Sedecim,Spanky's Fast Cars,15755.043447810995,0,Wet,58
+9,3,1,Rho_Septendecim,Tapped In Team,5205.101349091495,25,Wet,69
+9,3,2,Pi_Sedecim,Spanky's Fast Cars,5345.949532851812,18,Wet,69
+9,3,3,Eta_Septimus,Crashout Formula One,5760.134525977226,15,Wet,69
+9,3,4,Mu_Duodecimus,Boba Tea Gnarly Automotives,5773.885214492405,12,Wet,69
+9,3,5,Omicron_Quindecim,B2B SaaS Motorsport,6013.175797289952,10,Wet,69
+9,3,6,Epsilon_Quintus,Lag's 200 Ping Power,6016.645128502363,8,Wet,69
+9,3,7,Gamma_Tertius,Boba Tea Gnarly Automotives,6028.1436169702265,6,Wet,69
+9,3,8,Xi_Quattuordecim,LDCMWEBLGTBWLS,6127.642357163515,4,Wet,69
+9,3,9,Alpha_Primus,TurboToast Racing,6136.5995200959,2,Wet,69
+9,3,10,Delta_Quartus,DNF Finishers,6153.984548734671,1,Wet,69
+9,3,11,Sigma_Duodevicesimus,TurboToast Racing,6162.230896633738,0,Wet,69
+9,3,12,Tau_Undevicesimus,Crashout Formula One,6208.746261095612,0,Wet,69
+9,3,13,Theta_Octavus,LDCMWEBLGTBWLS,6254.91140738451,0,Wet,69
+9,3,14,Upsilon_Vicesimus,Spanky's Fast Cars,6276.060302871591,0,Wet,69
+9,3,15,Beta_Secundus,Red Velvet Racing,6283.470165499727,0,Wet,69
+9,3,16,Lambda_Undecimus,Tapped In Team,6501.335831340654,0,Wet,69
+9,3,17,Nu_Tredecimus,B2B SaaS Motorsport,6647.64823899901,0,Wet,69
+9,3,18,Zeta_Sextus,Lag's 200 Ping Power,19057.270109804787,0,Wet,69
+9,3,19,Iota_Nonus,DNF Finishers,41072.30250598354,0,Wet,69
+9,3,20,Kappa_Decimus,Red Velvet Racing,47673.793272551244,0,Wet,69
+9,4,1,Rho_Septendecim,Tapped In Team,3937.059317823184,25,Wet,50
+9,4,2,Pi_Sedecim,Spanky's Fast Cars,4036.371633239069,18,Wet,50
+9,4,3,Eta_Septimus,Crashout Formula One,4297.966659141245,15,Wet,50
+9,4,4,Mu_Duodecimus,Boba Tea Gnarly Automotives,4324.620540106895,12,Wet,50
+9,4,5,Omicron_Quindecim,B2B SaaS Motorsport,4513.110768383114,10,Wet,50
+9,4,6,Gamma_Tertius,Boba Tea Gnarly Automotives,4514.0039059307255,8,Wet,50
+9,4,7,Epsilon_Quintus,Lag's 200 Ping Power,4541.074667122529,6,Wet,50
+9,4,8,Iota_Nonus,DNF Finishers,4619.174807207216,4,Wet,50
+9,4,9,Delta_Quartus,DNF Finishers,4625.13622552023,2,Wet,50
+9,4,10,Sigma_Duodevicesimus,TurboToast Racing,4635.652523966568,1,Wet,50
+9,4,11,Alpha_Primus,TurboToast Racing,4635.739009885172,0,Wet,50
+9,4,12,Zeta_Sextus,Lag's 200 Ping Power,4657.541857463114,0,Wet,50
+9,4,13,Tau_Undevicesimus,Crashout Formula One,4669.924832996467,0,Wet,50
+9,4,14,Xi_Quattuordecim,LDCMWEBLGTBWLS,4670.987783085876,0,Wet,50
+9,4,15,Theta_Octavus,LDCMWEBLGTBWLS,4724.837377515933,0,Wet,50
+9,4,16,Beta_Secundus,Red Velvet Racing,4757.636165550834,0,Wet,50
+9,4,17,Upsilon_Vicesimus,Spanky's Fast Cars,4798.987868094427,0,Wet,50
+9,4,18,Lambda_Undecimus,Tapped In Team,5017.467076183917,0,Wet,50
+9,4,19,Nu_Tredecimus,B2B SaaS Motorsport,5058.53143210057,0,Wet,50
+9,4,20,Kappa_Decimus,Red Velvet Racing,5156.511660216171,0,Wet,50
+9,5,1,Tau_Undevicesimus,Crashout Formula One,6436.63250590083,25,Unknown,76
+9,5,2,Upsilon_Vicesimus,Spanky's Fast Cars,6437.414559709307,18,Unknown,76
+9,5,3,Beta_Secundus,Red Velvet Racing,6437.7869461271475,15,Unknown,76
+9,5,4,Kappa_Decimus,Red Velvet Racing,6438.837649005475,12,Unknown,76
+9,5,5,Iota_Nonus,DNF Finishers,6445.0519109787065,10,Unknown,76
+9,5,6,Zeta_Sextus,Lag's 200 Ping Power,6447.789651778026,8,Unknown,76
+9,5,7,Alpha_Primus,TurboToast Racing,6448.510422919122,6,Unknown,76
+9,5,8,Mu_Duodecimus,Boba Tea Gnarly Automotives,6449.579212506405,4,Unknown,76
+9,5,9,Pi_Sedecim,Spanky's Fast Cars,6451.706471256443,2,Unknown,76
+9,5,10,Delta_Quartus,DNF Finishers,6453.316269120267,1,Unknown,76
+9,5,11,Eta_Septimus,Crashout Formula One,6458.440219070677,0,Unknown,76
+9,5,12,Gamma_Tertius,Boba Tea Gnarly Automotives,6458.487549600633,0,Unknown,76
+9,5,13,Omicron_Quindecim,B2B SaaS Motorsport,6461.403201477005,0,Unknown,76
+9,5,14,Epsilon_Quintus,Lag's 200 Ping Power,6462.752873716834,0,Unknown,76
+9,5,15,Rho_Septendecim,Tapped In Team,6465.987705866607,0,Unknown,76
+9,5,16,Nu_Tredecimus,B2B SaaS Motorsport,6637.488739696572,0,Unknown,76
+9,5,17,Xi_Quattuordecim,LDCMWEBLGTBWLS,22883.334535895316,0,Unknown,76
+9,5,18,Lambda_Undecimus,Tapped In Team,32007.48171201424,0,Unknown,76
+9,5,19,Sigma_Duodevicesimus,TurboToast Racing,33811.08734551474,0,Unknown,76
+9,5,20,Theta_Octavus,LDCMWEBLGTBWLS,73238.9478744104,0,Unknown,76
+9,6,1,Rho_Septendecim,Tapped In Team,2840.634463872699,25,Sunny,41
+9,6,2,Gamma_Tertius,Boba Tea Gnarly Automotives,2848.0147972822347,18,Sunny,41
+9,6,3,Xi_Quattuordecim,LDCMWEBLGTBWLS,2848.9108470604833,15,Sunny,41
+9,6,4,Alpha_Primus,TurboToast Racing,2848.9555794808266,12,Sunny,41
+9,6,5,Lambda_Undecimus,Tapped In Team,2850.2624923442595,10,Sunny,41
+9,6,6,Mu_Duodecimus,Boba Tea Gnarly Automotives,2853.2096546511452,8,Sunny,41
+9,6,7,Upsilon_Vicesimus,Spanky's Fast Cars,3972.5052205960783,6,Sunny,41
+9,6,8,Beta_Secundus,Red Velvet Racing,3975.221025586882,4,Sunny,41
+9,6,9,Nu_Tredecimus,B2B SaaS Motorsport,4098.872131678241,2,Sunny,41
+9,6,10,Kappa_Decimus,Red Velvet Racing,4127.73906093771,1,Sunny,41
+9,6,11,Tau_Undevicesimus,Crashout Formula One,4180.697478565804,0,Sunny,41
+9,6,12,Theta_Octavus,LDCMWEBLGTBWLS,4183.422381351873,0,Sunny,41
+9,6,13,Sigma_Duodevicesimus,TurboToast Racing,5018.801422050575,0,Sunny,41
+9,6,14,Omicron_Quindecim,B2B SaaS Motorsport,13082.744578913907,0,Sunny,41
+9,6,15,Epsilon_Quintus,Lag's 200 Ping Power,13084.086121711509,0,Sunny,41
+9,6,16,Iota_Nonus,DNF Finishers,16841.836260928278,0,Sunny,41
+9,6,17,Zeta_Sextus,Lag's 200 Ping Power,23858.556824206673,0,Sunny,41
+9,6,18,Delta_Quartus,DNF Finishers,24084.055976025287,0,Sunny,41
+9,6,19,Pi_Sedecim,Spanky's Fast Cars,29836.54121307848,0,Sunny,41
+9,6,20,Eta_Septimus,Crashout Formula One,36348.93327888941,0,Sunny,41
+9,7,1,Rho_Septendecim,Tapped In Team,4836.488645761618,25,Sunny,70
+9,7,2,Epsilon_Quintus,Lag's 200 Ping Power,4837.5714989378575,18,Sunny,70
+9,7,3,Omicron_Quindecim,B2B SaaS Motorsport,4841.730931394565,15,Sunny,70
+9,7,4,Gamma_Tertius,Boba Tea Gnarly Automotives,4842.646043333597,12,Sunny,70
+9,7,5,Lambda_Undecimus,Tapped In Team,4842.7770246965565,10,Sunny,70
+9,7,6,Alpha_Primus,TurboToast Racing,4847.261843084192,8,Sunny,70
+9,7,7,Xi_Quattuordecim,LDCMWEBLGTBWLS,4848.8569270456965,6,Sunny,70
+9,7,8,Pi_Sedecim,Spanky's Fast Cars,4849.992266877382,4,Sunny,70
+9,7,9,Eta_Septimus,Crashout Formula One,4851.015479981888,2,Sunny,70
+9,7,10,Zeta_Sextus,Lag's 200 Ping Power,6472.735614032013,1,Sunny,70
+9,7,11,Beta_Secundus,Red Velvet Racing,6494.307457005668,0,Sunny,70
+9,7,12,Upsilon_Vicesimus,Spanky's Fast Cars,6527.330319450205,0,Sunny,70
+9,7,13,Delta_Quartus,DNF Finishers,6572.148641747178,0,Sunny,70
+9,7,14,Iota_Nonus,DNF Finishers,6588.186509483241,0,Sunny,70
+9,7,15,Sigma_Duodevicesimus,TurboToast Racing,6590.059085700925,0,Sunny,70
+9,7,16,Nu_Tredecimus,B2B SaaS Motorsport,6607.875643292871,0,Sunny,70
+9,7,17,Kappa_Decimus,Red Velvet Racing,6627.481323634401,0,Sunny,70
+9,7,18,Tau_Undevicesimus,Crashout Formula One,6705.119205231504,0,Sunny,70
+9,7,19,Theta_Octavus,LDCMWEBLGTBWLS,6747.536638518332,0,Sunny,70
+9,7,20,Mu_Duodecimus,Boba Tea Gnarly Automotives,10433.71654440233,0,Sunny,70
+9,8,1,Rho_Septendecim,Tapped In Team,4148.16089852769,25,Wet,53
+9,8,2,Pi_Sedecim,Spanky's Fast Cars,4243.108120697653,18,Wet,53
+9,8,3,Mu_Duodecimus,Boba Tea Gnarly Automotives,4549.551628828245,15,Wet,53
+9,8,4,Omicron_Quindecim,B2B SaaS Motorsport,4755.348754853139,12,Wet,53
+9,8,5,Gamma_Tertius,Boba Tea Gnarly Automotives,4760.124436874406,10,Wet,53
+9,8,6,Epsilon_Quintus,Lag's 200 Ping Power,4779.6536879508985,8,Wet,53
+9,8,7,Iota_Nonus,DNF Finishers,4859.450007733126,6,Wet,53
+9,8,8,Delta_Quartus,DNF Finishers,4868.032257402184,4,Wet,53
+9,8,9,Alpha_Primus,TurboToast Racing,4877.326867365667,2,Wet,53
+9,8,10,Zeta_Sextus,Lag's 200 Ping Power,4899.516962906687,1,Wet,53
+9,8,11,Xi_Quattuordecim,LDCMWEBLGTBWLS,4900.220739075559,0,Wet,53
+9,8,12,Tau_Undevicesimus,Crashout Formula One,4911.387022704069,0,Wet,53
+9,8,13,Theta_Octavus,LDCMWEBLGTBWLS,4964.632753212891,0,Wet,53
+9,8,14,Beta_Secundus,Red Velvet Racing,4997.148457683959,0,Wet,53
+9,8,15,Upsilon_Vicesimus,Spanky's Fast Cars,5035.224965608018,0,Wet,53
+9,8,16,Kappa_Decimus,Red Velvet Racing,5406.83125809065,0,Wet,53
+9,8,17,Sigma_Duodevicesimus,TurboToast Racing,25883.9200869166,0,Wet,53
+9,8,18,Eta_Septimus,Crashout Formula One,31145.109282167316,0,Wet,53
+9,8,19,Lambda_Undecimus,Tapped In Team,44982.286339434955,0,Wet,53
+9,8,20,Nu_Tredecimus,B2B SaaS Motorsport,48539.77976148987,0,Wet,53
+9,9,1,Epsilon_Quintus,Lag's 200 Ping Power,3046.8294881939655,25,Sunny,44
+9,9,2,Rho_Septendecim,Tapped In Team,3047.087063120731,18,Sunny,44
+9,9,3,Omicron_Quindecim,B2B SaaS Motorsport,3049.9376338440875,15,Sunny,44
+9,9,4,Gamma_Tertius,Boba Tea Gnarly Automotives,3050.7245451748704,12,Sunny,44
+9,9,5,Xi_Quattuordecim,LDCMWEBLGTBWLS,3053.0879506807064,10,Sunny,44
+9,9,6,Lambda_Undecimus,Tapped In Team,3054.6612541081968,8,Sunny,44
+9,9,7,Pi_Sedecim,Spanky's Fast Cars,3056.605819504803,6,Sunny,44
+9,9,8,Mu_Duodecimus,Boba Tea Gnarly Automotives,3059.289128768994,4,Sunny,44
+9,9,9,Eta_Septimus,Crashout Formula One,3059.9286304715865,2,Sunny,44
+9,9,10,Zeta_Sextus,Lag's 200 Ping Power,4258.501959969212,1,Sunny,44
+9,9,11,Upsilon_Vicesimus,Spanky's Fast Cars,4264.043453090116,0,Sunny,44
+9,9,12,Beta_Secundus,Red Velvet Racing,4264.602137155755,0,Sunny,44
+9,9,13,Delta_Quartus,DNF Finishers,4355.602451021387,0,Sunny,44
+9,9,14,Nu_Tredecimus,B2B SaaS Motorsport,4360.96822168102,0,Sunny,44
+9,9,15,Sigma_Duodevicesimus,TurboToast Racing,4365.757415224361,0,Sunny,44
+9,9,16,Kappa_Decimus,Red Velvet Racing,4398.384042509479,0,Sunny,44
+9,9,17,Iota_Nonus,DNF Finishers,4398.723739589141,0,Sunny,44
+9,9,18,Theta_Octavus,LDCMWEBLGTBWLS,4456.574434981245,0,Sunny,44
+9,9,19,Tau_Undevicesimus,Crashout Formula One,4462.570112873582,0,Sunny,44
+9,9,20,Alpha_Primus,TurboToast Racing,17017.795361320317,0,Sunny,44
+9,10,1,Theta_Octavus,LDCMWEBLGTBWLS,5279.527159032559,25,Unknown,63
+9,10,2,Upsilon_Vicesimus,Spanky's Fast Cars,5303.094006120416,18,Unknown,63
+9,10,3,Tau_Undevicesimus,Crashout Formula One,5303.145343838897,15,Unknown,63
+9,10,4,Beta_Secundus,Red Velvet Racing,5309.042470603641,12,Unknown,63
+9,10,5,Iota_Nonus,DNF Finishers,5315.76747867691,10,Unknown,63
+9,10,6,Zeta_Sextus,Lag's 200 Ping Power,5317.130215618263,8,Unknown,63
+9,10,7,Mu_Duodecimus,Boba Tea Gnarly Automotives,5318.9391264270125,6,Unknown,63
+9,10,8,Lambda_Undecimus,Tapped In Team,5320.981956868471,4,Unknown,63
+9,10,9,Delta_Quartus,DNF Finishers,5321.389389174056,2,Unknown,63
+9,10,10,Eta_Septimus,Crashout Formula One,5322.557591846934,1,Unknown,63
+9,10,11,Pi_Sedecim,Spanky's Fast Cars,5323.559745742524,0,Unknown,63
+9,10,12,Gamma_Tertius,Boba Tea Gnarly Automotives,5327.989621581958,0,Unknown,63
+9,10,13,Rho_Septendecim,Tapped In Team,5331.462438211994,0,Unknown,63
+9,10,14,Epsilon_Quintus,Lag's 200 Ping Power,5334.339191955108,0,Unknown,63
+9,10,15,Nu_Tredecimus,B2B SaaS Motorsport,5507.674161117972,0,Unknown,63
+9,10,16,Kappa_Decimus,Red Velvet Racing,15332.555377519457,0,Unknown,63
+9,10,17,Omicron_Quindecim,B2B SaaS Motorsport,19028.4855939052,0,Unknown,63
+9,10,18,Xi_Quattuordecim,LDCMWEBLGTBWLS,27988.738771697037,0,Unknown,63
+9,10,19,Alpha_Primus,TurboToast Racing,31635.975706428657,0,Unknown,63
+9,10,20,Sigma_Duodevicesimus,TurboToast Racing,43629.42616134744,0,Unknown,63
+10,1,1,Epsilon_Quintus,Lag's 200 Ping Power,5254.588917652236,25,Sunny,76
+10,1,2,Omicron_Quindecim,B2B SaaS Motorsport,5254.884319335449,18,Sunny,76
+10,1,3,Lambda_Undecimus,Tapped In Team,5261.002539568882,15,Sunny,76
+10,1,4,Gamma_Tertius,Boba Tea Gnarly Automotives,5262.092253738283,12,Sunny,76
+10,1,5,Mu_Duodecimus,Boba Tea Gnarly Automotives,5262.738501845501,10,Sunny,76
+10,1,6,Eta_Septimus,Crashout Formula One,5266.59115099062,8,Sunny,76
+10,1,7,Upsilon_Vicesimus,Spanky's Fast Cars,6999.92466464303,6,Sunny,76
+10,1,8,Delta_Quartus,DNF Finishers,7023.968049034229,4,Sunny,76
+10,1,9,Sigma_Duodevicesimus,TurboToast Racing,7066.8728903798465,2,Sunny,76
+10,1,10,Kappa_Decimus,Red Velvet Racing,7090.348577762804,1,Sunny,76
+10,1,11,Tau_Undevicesimus,Crashout Formula One,7204.148363190225,0,Sunny,76
+10,1,12,Theta_Octavus,LDCMWEBLGTBWLS,7251.914464000594,0,Sunny,76
+10,1,13,Rho_Septendecim,Tapped In Team,18288.928360811627,0,Sunny,76
+10,1,14,Zeta_Sextus,Lag's 200 Ping Power,25303.76091262761,0,Sunny,76
+10,1,15,Beta_Secundus,Red Velvet Racing,25342.065893197916,0,Sunny,76
+10,1,16,Pi_Sedecim,Spanky's Fast Cars,32262.288081585633,0,Sunny,76
+10,1,17,Iota_Nonus,DNF Finishers,34568.52824182562,0,Sunny,76
+10,1,18,Nu_Tredecimus,B2B SaaS Motorsport,37273.9740454001,0,Sunny,76
+10,1,19,Xi_Quattuordecim,LDCMWEBLGTBWLS,47156.46413357923,0,Sunny,76
+10,1,20,Alpha_Primus,TurboToast Racing,47157.529572817766,0,Sunny,76
+10,2,1,Theta_Octavus,LDCMWEBLGTBWLS,5283.677380702588,25,Unknown,63
+10,2,2,Tau_Undevicesimus,Crashout Formula One,5302.795636166982,18,Unknown,63
+10,2,3,Beta_Secundus,Red Velvet Racing,5303.927669745661,15,Unknown,63
+10,2,4,Upsilon_Vicesimus,Spanky's Fast Cars,5310.209264223027,12,Unknown,63
+10,2,5,Zeta_Sextus,Lag's 200 Ping Power,5311.766584661944,10,Unknown,63
+10,2,6,Iota_Nonus,DNF Finishers,5312.586957225639,8,Unknown,63
+10,2,7,Pi_Sedecim,Spanky's Fast Cars,5317.697568353484,6,Unknown,63
+10,2,8,Delta_Quartus,DNF Finishers,5318.363769631165,4,Unknown,63
+10,2,9,Xi_Quattuordecim,LDCMWEBLGTBWLS,5318.554554987715,2,Unknown,63
+10,2,10,Sigma_Duodevicesimus,TurboToast Racing,5321.148651483697,1,Unknown,63
+10,2,11,Lambda_Undecimus,Tapped In Team,5323.486214737549,0,Unknown,63
+10,2,12,Gamma_Tertius,Boba Tea Gnarly Automotives,5327.47810425203,0,Unknown,63
+10,2,13,Epsilon_Quintus,Lag's 200 Ping Power,5330.531784058619,0,Unknown,63
+10,2,14,Omicron_Quindecim,B2B SaaS Motorsport,5330.603855121818,0,Unknown,63
+10,2,15,Rho_Septendecim,Tapped In Team,5334.570608339875,0,Unknown,63
+10,2,16,Nu_Tredecimus,B2B SaaS Motorsport,5505.349942874324,0,Unknown,63
+10,2,17,Eta_Septimus,Crashout Formula One,11714.10077510275,0,Unknown,63
+10,2,18,Mu_Duodecimus,Boba Tea Gnarly Automotives,14446.1778993094,0,Unknown,63
+10,2,19,Alpha_Primus,TurboToast Racing,37171.47687950027,0,Unknown,63
+10,2,20,Kappa_Decimus,Red Velvet Racing,39939.76810765119,0,Unknown,63
+10,3,1,Rho_Septendecim,Tapped In Team,4884.9486603173655,25,Wet,64
+10,3,2,Pi_Sedecim,Spanky's Fast Cars,4997.996968023681,18,Wet,64
+10,3,3,Eta_Septimus,Crashout Formula One,5373.043066590164,15,Wet,64
+10,3,4,Mu_Duodecimus,Boba Tea Gnarly Automotives,5394.4850595643875,12,Wet,64
+10,3,5,Omicron_Quindecim,B2B SaaS Motorsport,5623.995616064072,10,Wet,64
+10,3,6,Epsilon_Quintus,Lag's 200 Ping Power,5631.630303353167,8,Wet,64
+10,3,7,Gamma_Tertius,Boba Tea Gnarly Automotives,5636.93753619324,6,Wet,64
+10,3,8,Iota_Nonus,DNF Finishers,5740.653384479382,4,Wet,64
+10,3,9,Alpha_Primus,TurboToast Racing,5744.280359613533,2,Wet,64
+10,3,10,Delta_Quartus,DNF Finishers,5757.059348210123,1,Wet,64
+10,3,11,Zeta_Sextus,Lag's 200 Ping Power,5783.248637735564,0,Wet,64
+10,3,12,Beta_Secundus,Red Velvet Racing,5880.649971918062,0,Wet,64
+10,3,13,Upsilon_Vicesimus,Spanky's Fast Cars,5889.565264693885,0,Wet,64
+10,3,14,Nu_Tredecimus,B2B SaaS Motorsport,6232.203683519105,0,Wet,64
+10,3,15,Sigma_Duodevicesimus,TurboToast Racing,13122.122551691362,0,Wet,64
+10,3,16,Tau_Undevicesimus,Crashout Formula One,16834.90964921973,0,Wet,64
+10,3,17,Kappa_Decimus,Red Velvet Racing,22821.8455168203,0,Wet,64
+10,3,18,Xi_Quattuordecim,LDCMWEBLGTBWLS,23279.70846703915,0,Wet,64
+10,3,19,Theta_Octavus,LDCMWEBLGTBWLS,23323.23050063062,0,Wet,64
+10,3,20,Lambda_Undecimus,Tapped In Team,28187.248292074706,0,Wet,64
+10,4,1,Theta_Octavus,LDCMWEBLGTBWLS,4521.873563242644,25,Unknown,55
+10,4,2,Tau_Undevicesimus,Crashout Formula One,4577.714908005087,18,Unknown,55
+10,4,3,Upsilon_Vicesimus,Spanky's Fast Cars,4604.738519477534,15,Unknown,55
+10,4,4,Kappa_Decimus,Red Velvet Racing,4607.185215121805,12,Unknown,55
+10,4,5,Iota_Nonus,DNF Finishers,4611.48736289224,10,Unknown,55
+10,4,6,Zeta_Sextus,Lag's 200 Ping Power,4617.349873399598,8,Unknown,55
+10,4,7,Xi_Quattuordecim,LDCMWEBLGTBWLS,4621.369140081962,6,Unknown,55
+10,4,8,Mu_Duodecimus,Boba Tea Gnarly Automotives,4621.786507382853,4,Unknown,55
+10,4,9,Delta_Quartus,DNF Finishers,4627.836766261123,2,Unknown,55
+10,4,10,Eta_Septimus,Crashout Formula One,4628.351217240485,1,Unknown,55
+10,4,11,Gamma_Tertius,Boba Tea Gnarly Automotives,4632.60676022473,0,Unknown,55
+10,4,12,Epsilon_Quintus,Lag's 200 Ping Power,4633.113615055511,0,Unknown,55
+10,4,13,Omicron_Quindecim,B2B SaaS Motorsport,4636.291615041774,0,Unknown,55
+10,4,14,Rho_Septendecim,Tapped In Team,4644.29296459364,0,Unknown,55
+10,4,15,Nu_Tredecimus,B2B SaaS Motorsport,4812.541085545823,0,Unknown,55
+10,4,16,Lambda_Undecimus,Tapped In Team,11915.211195202908,0,Unknown,55
+10,4,17,Sigma_Duodevicesimus,TurboToast Racing,17311.322778472106,0,Unknown,55
+10,4,18,Alpha_Primus,TurboToast Racing,25483.951831431976,0,Unknown,55
+10,4,19,Pi_Sedecim,Spanky's Fast Cars,31941.53448065063,0,Unknown,55
+10,4,20,Beta_Secundus,Red Velvet Racing,32862.286959665056,0,Unknown,55
+10,5,1,Gamma_Tertius,Boba Tea Gnarly Automotives,5255.901868936556,25,Sunny,76
+10,5,2,Rho_Septendecim,Tapped In Team,5256.207658661721,18,Sunny,76
+10,5,3,Omicron_Quindecim,B2B SaaS Motorsport,5256.510045586623,15,Sunny,76
+10,5,4,Eta_Septimus,Crashout Formula One,5261.6715220701635,12,Sunny,76
+10,5,5,Lambda_Undecimus,Tapped In Team,5262.549903333717,10,Sunny,76
+10,5,6,Alpha_Primus,TurboToast Racing,5263.549499002328,8,Sunny,76
+10,5,7,Pi_Sedecim,Spanky's Fast Cars,5263.960977584102,6,Sunny,76
+10,5,8,Xi_Quattuordecim,LDCMWEBLGTBWLS,5266.135118706487,4,Sunny,76
+10,5,9,Zeta_Sextus,Lag's 200 Ping Power,6956.132255576295,2,Sunny,76
+10,5,10,Delta_Quartus,DNF Finishers,7023.489280129419,1,Sunny,76
+10,5,11,Iota_Nonus,DNF Finishers,7048.703406638159,0,Sunny,76
+10,5,12,Sigma_Duodevicesimus,TurboToast Racing,7059.322472586043,0,Sunny,76
+10,5,13,Nu_Tredecimus,B2B SaaS Motorsport,7087.188037559034,0,Sunny,76
+10,5,14,Kappa_Decimus,Red Velvet Racing,7087.218808065109,0,Sunny,76
+10,5,15,Tau_Undevicesimus,Crashout Formula One,7199.504154936173,0,Sunny,76
+10,5,16,Theta_Octavus,LDCMWEBLGTBWLS,7253.160992674036,0,Sunny,76
+10,5,17,Beta_Secundus,Red Velvet Racing,13412.206190639872,0,Sunny,76
+10,5,18,Upsilon_Vicesimus,Spanky's Fast Cars,27184.092370940878,0,Sunny,76
+10,5,19,Mu_Duodecimus,Boba Tea Gnarly Automotives,60184.323293354835,0,Sunny,76
+10,5,20,Epsilon_Quintus,Lag's 200 Ping Power,60185.41746631423,0,Sunny,76
+10,6,1,Rho_Septendecim,Tapped In Team,5750.977038599892,25,Wet,78
+10,6,2,Pi_Sedecim,Spanky's Fast Cars,5942.429107677073,18,Wet,78
+10,6,3,Eta_Septimus,Crashout Formula One,6455.922982949953,15,Wet,78
+10,6,4,Mu_Duodecimus,Boba Tea Gnarly Automotives,6461.065453880155,12,Wet,78
+10,6,5,Epsilon_Quintus,Lag's 200 Ping Power,6700.472229516231,10,Wet,78
+10,6,6,Omicron_Quindecim,B2B SaaS Motorsport,6719.740037321817,8,Wet,78
+10,6,7,Gamma_Tertius,Boba Tea Gnarly Automotives,6732.1056914227565,6,Wet,78
+10,6,8,Xi_Quattuordecim,LDCMWEBLGTBWLS,6818.041059524907,4,Wet,78
+10,6,9,Alpha_Primus,TurboToast Racing,6824.73395340102,2,Wet,78
+10,6,10,Iota_Nonus,DNF Finishers,6853.42802164389,1,Wet,78
+10,6,11,Delta_Quartus,DNF Finishers,6869.3972265903985,0,Wet,78
+10,6,12,Sigma_Duodevicesimus,TurboToast Racing,6886.51530190889,0,Wet,78
+10,6,13,Zeta_Sextus,Lag's 200 Ping Power,6916.643687166219,0,Wet,78
+10,6,14,Tau_Undevicesimus,Crashout Formula One,6934.078566749419,0,Wet,78
+10,6,15,Theta_Octavus,LDCMWEBLGTBWLS,6985.366408988637,0,Wet,78
+10,6,16,Lambda_Undecimus,Tapped In Team,7201.270086765159,0,Wet,78
+10,6,17,Nu_Tredecimus,B2B SaaS Motorsport,7374.265094832617,0,Wet,78
+10,6,18,Kappa_Decimus,Red Velvet Racing,7410.763255184555,0,Wet,78
+10,6,19,Upsilon_Vicesimus,Spanky's Fast Cars,65363.42082264712,0,Wet,78
+10,6,20,Beta_Secundus,Red Velvet Racing,65364.066374866336,0,Wet,78
+10,7,1,Theta_Octavus,LDCMWEBLGTBWLS,3501.4667410131674,25,Unknown,45
+10,7,2,Tau_Undevicesimus,Crashout Formula One,3555.593180401728,18,Unknown,45
+10,7,3,Beta_Secundus,Red Velvet Racing,3611.82935767616,15,Unknown,45
+10,7,4,Upsilon_Vicesimus,Spanky's Fast Cars,3612.458998189551,12,Unknown,45
+10,7,5,Iota_Nonus,DNF Finishers,3638.5671836718902,10,Unknown,45
+10,7,6,Kappa_Decimus,Red Velvet Racing,3643.060167045954,8,Unknown,45
+10,7,7,Zeta_Sextus,Lag's 200 Ping Power,3662.840535207044,6,Unknown,45
+10,7,8,Mu_Duodecimus,Boba Tea Gnarly Automotives,3681.47094120061,4,Unknown,45
+10,7,9,Alpha_Primus,TurboToast Racing,3689.822640632801,2,Unknown,45
+10,7,10,Xi_Quattuordecim,LDCMWEBLGTBWLS,3710.233238658185,1,Unknown,45
+10,7,11,Eta_Septimus,Crashout Formula One,3710.6899835567283,0,Unknown,45
+10,7,12,Sigma_Duodevicesimus,TurboToast Racing,3718.152634509578,0,Unknown,45
+10,7,13,Lambda_Undecimus,Tapped In Team,3721.103040763135,0,Unknown,45
+10,7,14,Delta_Quartus,DNF Finishers,3723.9276849164726,0,Unknown,45
+10,7,15,Pi_Sedecim,Spanky's Fast Cars,3726.6207543902415,0,Unknown,45
+10,7,16,Gamma_Tertius,Boba Tea Gnarly Automotives,3751.4053470997496,0,Unknown,45
+10,7,17,Epsilon_Quintus,Lag's 200 Ping Power,3762.6286117059935,0,Unknown,45
+10,7,18,Omicron_Quindecim,B2B SaaS Motorsport,3765.768725755041,0,Unknown,45
+10,7,19,Rho_Septendecim,Tapped In Team,3770.706710026458,0,Unknown,45
+10,7,20,Nu_Tredecimus,B2B SaaS Motorsport,3944.833819109426,0,Unknown,45
+10,8,1,Rho_Septendecim,Tapped In Team,4418.970930547926,25,Wet,57
+10,8,2,Pi_Sedecim,Spanky's Fast Cars,4518.303436130636,18,Wet,57
+10,8,3,Eta_Septimus,Crashout Formula One,4832.934473777739,15,Wet,57
+10,8,4,Mu_Duodecimus,Boba Tea Gnarly Automotives,4857.869137626234,12,Wet,57
+10,8,5,Omicron_Quindecim,B2B SaaS Motorsport,5070.265934536882,10,Wet,57
+10,8,6,Gamma_Tertius,Boba Tea Gnarly Automotives,5085.555062768489,8,Wet,57
+10,8,7,Iota_Nonus,DNF Finishers,5183.422520006365,6,Wet,57
+10,8,8,Delta_Quartus,DNF Finishers,5189.27046982406,4,Wet,57
+10,8,9,Alpha_Primus,TurboToast Racing,5193.029286732604,2,Wet,57
+10,8,10,Sigma_Duodevicesimus,TurboToast Racing,5201.373973296769,1,Wet,57
+10,8,11,Xi_Quattuordecim,LDCMWEBLGTBWLS,5208.840793882422,0,Wet,57
+10,8,12,Zeta_Sextus,Lag's 200 Ping Power,5224.460962852653,0,Wet,57
+10,8,13,Tau_Undevicesimus,Crashout Formula One,5232.771898600748,0,Wet,57
+10,8,14,Theta_Octavus,LDCMWEBLGTBWLS,5291.615501100165,0,Wet,57
+10,8,15,Beta_Secundus,Red Velvet Racing,5316.243876745849,0,Wet,57
+10,8,16,Upsilon_Vicesimus,Spanky's Fast Cars,5345.096624087522,0,Wet,57
+10,8,17,Lambda_Undecimus,Tapped In Team,5571.018662538022,0,Wet,57
+10,8,18,Kappa_Decimus,Red Velvet Racing,5737.160023992883,0,Wet,57
+10,8,19,Nu_Tredecimus,B2B SaaS Motorsport,10222.218271043197,0,Wet,57
+10,8,20,Epsilon_Quintus,Lag's 200 Ping Power,15228.801953883314,0,Wet,57
+10,9,1,Rho_Septendecim,Tapped In Team,2908.9131664437064,25,Wet,35
+10,9,2,Pi_Sedecim,Spanky's Fast Cars,3003.9598175086944,18,Wet,35
+10,9,3,Mu_Duodecimus,Boba Tea Gnarly Automotives,3125.6910525336143,15,Wet,35
+10,9,4,Eta_Septimus,Crashout Formula One,3126.3240903858364,12,Wet,35
+10,9,5,Gamma_Tertius,Boba Tea Gnarly Automotives,3308.992358385966,10,Wet,35
+10,9,6,Omicron_Quindecim,B2B SaaS Motorsport,3318.0302386712624,8,Wet,35
+10,9,7,Epsilon_Quintus,Lag's 200 Ping Power,3346.8555836584846,6,Wet,35
+10,9,8,Delta_Quartus,DNF Finishers,3363.144179527638,4,Wet,35
+10,9,9,Xi_Quattuordecim,LDCMWEBLGTBWLS,3363.2072778389825,2,Wet,35
+10,9,10,Alpha_Primus,TurboToast Racing,3366.209738895892,1,Wet,35
+10,9,11,Upsilon_Vicesimus,Spanky's Fast Cars,3370.3361869059054,0,Wet,35
+10,9,12,Zeta_Sextus,Lag's 200 Ping Power,3370.9075598926115,0,Wet,35
+10,9,13,Sigma_Duodevicesimus,TurboToast Racing,3371.237379681404,0,Wet,35
+10,9,14,Iota_Nonus,DNF Finishers,3414.805541919975,0,Wet,35
+10,9,15,Theta_Octavus,LDCMWEBLGTBWLS,3450.18516507259,0,Wet,35
+10,9,16,Tau_Undevicesimus,Crashout Formula One,3452.925543177818,0,Wet,35
+10,9,17,Lambda_Undecimus,Tapped In Team,3762.76910960649,0,Wet,35
+10,9,18,Nu_Tredecimus,B2B SaaS Motorsport,3789.297256152387,0,Wet,35
+10,9,19,Kappa_Decimus,Red Velvet Racing,3855.6464586394654,0,Wet,35
+10,9,20,Beta_Secundus,Red Velvet Racing,22364.61439235651,0,Wet,35
+10,10,1,Epsilon_Quintus,Lag's 200 Ping Power,4978.310311605265,25,Sunny,72
+10,10,2,Rho_Septendecim,Tapped In Team,4979.5140092412785,18,Sunny,72
+10,10,3,Lambda_Undecimus,Tapped In Team,4981.382075351312,15,Sunny,72
+10,10,4,Omicron_Quindecim,B2B SaaS Motorsport,4982.4971706302495,12,Sunny,72
+10,10,5,Xi_Quattuordecim,LDCMWEBLGTBWLS,4982.860396911071,10,Sunny,72
+10,10,6,Eta_Septimus,Crashout Formula One,4983.2386033884095,8,Sunny,72
+10,10,7,Pi_Sedecim,Spanky's Fast Cars,4985.182140434326,6,Sunny,72
+10,10,8,Mu_Duodecimus,Boba Tea Gnarly Automotives,4989.655404130742,4,Sunny,72
+10,10,9,Zeta_Sextus,Lag's 200 Ping Power,6633.139953491869,2,Sunny,72
+10,10,10,Upsilon_Vicesimus,Spanky's Fast Cars,6689.216203344268,1,Sunny,72
+10,10,11,Iota_Nonus,DNF Finishers,6744.373002085079,0,Sunny,72
+10,10,12,Sigma_Duodevicesimus,TurboToast Racing,6749.433393339281,0,Sunny,72
+10,10,13,Nu_Tredecimus,B2B SaaS Motorsport,6769.931007123778,0,Sunny,72
+10,10,14,Kappa_Decimus,Red Velvet Racing,6773.729904556035,0,Sunny,72
+10,10,15,Theta_Octavus,LDCMWEBLGTBWLS,6924.776397848632,0,Sunny,72
+10,10,16,Delta_Quartus,DNF Finishers,44179.36268676025,0,Sunny,72
+10,10,17,Tau_Undevicesimus,Crashout Formula One,45162.895574707654,0,Sunny,72
+10,10,18,Alpha_Primus,TurboToast Racing,45950.227038125544,0,Sunny,72
+10,10,19,Gamma_Tertius,Boba Tea Gnarly Automotives,47811.79853885343,0,Sunny,72
+10,10,20,Beta_Secundus,Red Velvet Racing,48535.77779369278,0,Sunny,72
